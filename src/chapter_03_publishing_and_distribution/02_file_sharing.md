@@ -51,6 +51,7 @@ In situations when you feel that you should be worried about your BitTorrent tra
 
  
 SoulSeek
+--------
 
 As a peer to peer (P2P) file sharing program, the content available is determined by the users of the Soulseek client, and what files they choose to share. The network has historically had a diverse mix of music, including underground and independent artists, unreleased music, such as demos and mix-tapes, bootlegs, etc. It is is entirely financed by donations, with no advertising or user fees.
 
