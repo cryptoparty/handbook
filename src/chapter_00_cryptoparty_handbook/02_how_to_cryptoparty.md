@@ -1,4 +1,5 @@
 How To CryptoParty
+==================
 
  * Throw a party. All you need is a time, a date and a location. Add it to the wiki: [https://cryptoparty.org](https://cryptoparty.org).
 
