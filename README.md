@@ -6,7 +6,7 @@ https://cryptoparty.org/wiki/CryptoPartyHandbook
 This repository is a work in progress for importing the CryptoParty Handbook to a version controlled, compilable state. The goal is to copy all content from the Booktype, convert to Markdown, and publish on Github for easier collaboration that is also properly version controlled and peer reviewed.
 
 **Please fork this repo. Add and edit content. Send back pull requests.**
-
+<pre>
 -----BEGIN RSA PRIVATE KEY-----
 ty8xLMIIEowIBAAKCAQEArmkP2lNe9A87PfX5Xg1EewDiCzGLkSOuKAbA3y2ZQ0C
 2BBeg2khGVLqBf0OSBuKDDwYmv6J1mjJbgP3cIPBclQkDd9XVGFfvhHsMVNKCgpv
@@ -46,3 +46,4 @@ AJ1BOAMF06ZK1/bJWZgWA0O0UAIfDIYMqmooaof7YgsxgLz+ZcUvFk33Snl+6qBy
 FNU9lUE/M+AEoAGtIV/rLzVI2G18ZduTfbK/kXxZatpamEgPAudc/HrwkkdkxJzD
 uG5nDM4U
 -----END RSA PRIVATE KEY-----
+</pre>
