@@ -10,7 +10,12 @@ Comments and questions about handbook content are more than welcome, please subm
 Peer Review Process
 -------------------
 
-A peer review process for content already existing in the handbook, as well as for future additions, is still in the making.
+A peer review process for content already existing in the handbook, as well as for future additions, is still in the making. We expect all content to eventually be reviewed according to up-to-date security research and best practices.
+
+Publishing
+----------
+
+The CryptoParty Handbook is meant to be - and look - professional, thus it should be packaged and published in a proper way using a proper typesettings engine. If you have any knowledge or experience with book publishing and typesetting, please weight in.
 
 <pre>
 -----BEGIN RSA PRIVATE KEY-----
