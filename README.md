@@ -5,7 +5,12 @@ https://cryptoparty.org/wiki/CryptoPartyHandbook
 
 **Please fork this repo. Add and edit content. Send back pull requests.**
 
-Comments and questions about handbook content are more than welcome, new issues and pull requests are welcome!
+Comments and questions about handbook content are more than welcome, please submit them using new issues and pull requests.
+
+Peer Review Process
+-------------------
+
+A peer review process for content already existing in the handbook, as well as for future additions, is still in the making.
 
 <pre>
 -----BEGIN RSA PRIVATE KEY-----
