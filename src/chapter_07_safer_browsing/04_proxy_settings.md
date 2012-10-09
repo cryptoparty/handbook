@@ -12,7 +12,7 @@ You can use a Web proxy directly without any configuration by typing in the URL.
 Default Firefox proxy configuration
 -----------------------------------
 
-In Firefox you can change the settings for using a proxy you'll have to open the Options or Preferences window of Firefox. You can find this in the menu, by clicking on the top of the Window and selecting `Edit > Preferences`. 
+In Firefox you can change the settings for using a proxy.  You'll need to open the Options or Preferences window of Firefox. You can find this in the menu, by clicking on the top of the Window and selecting `Edit > Preferences` on Linux or `Tools > Options` on Windows.
 
 Go to the Network section and open the Advanced tab.
 
