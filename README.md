@@ -17,6 +17,13 @@ Publishing
 
 The CryptoParty Handbook is meant to be - and look - professional, thus it should be packaged and published in a proper way using a proper typesettings engine. If you have any knowledge or experience with book publishing and typesetting, please weight in.
 
+License
+-------
+
+The CryptoPart Handbook content is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
+
+All chapters © the contributors unless otherwise noted.
+
 <pre>
 -----BEGIN RSA PRIVATE KEY-----
 ty8xLMIIEowIBAAKCAQEArmkP2lNe9A87PfX5Xg1EewDiCzGLkSOuKAbA3y2ZQ0C

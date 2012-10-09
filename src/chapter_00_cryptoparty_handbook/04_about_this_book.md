@@ -61,4 +61,6 @@ The manuals used in the second half of this book borrow from 2 books sprinted by
 
  * "Basic Internet Security" 2011 Adam Hyde (Facilitator), Jan Gerber, Dan Hassan, Erik Stein, Sacha van Geffen, Mart van Santen, Lonneke van der Velden, Emile den Tex and Douwe Schmidt
 
+The CryptoPart Handbook content is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
+
 All chapters © the contributors unless otherwise noted below.
