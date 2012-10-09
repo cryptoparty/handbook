@@ -11,8 +11,8 @@ suggestions and can use Google's predictions - but the disadvantage is that
 every character you type is sent to Google's servers, where it may be logged.
 
 To disable, open Chrome's settings by clicking the menu button at the right of
-the address bar and clicking Settings. Or, simply [click here in 
-Chrome](chrome://settings/).
+the address bar and clicking Settings. Or, simply type `chrome://settings/` in 
+your address bar.
 
 Ensure that the **Enable Instant for faster searching (omnibox input may be
 logged)** checkbox is unchecked.
