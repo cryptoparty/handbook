@@ -12,16 +12,6 @@ For use with important stuff e.g. the pass phrase which protects your PGP/GPG or
 
 See [this XKCD cartoon](https://xkcd.com/936/) `"correct horse battery staple"` vis-à-vis `"Tr0ub4dor&3"` for an explanation.
 
-Minimizing damage
------------------
-
-It is important to minimize the damage if one of your passwords is ever compromised. Use different passwords for different websites or accounts, that way if one is compromised, the others are not. Change your passwords from time to time, especially for accounts you consider to be sensitive. By doing this you can block access to an attacker who may have learned your old password.
-
-Physical protection
--------------------
-
-When using a public computer such as at a library, an internet cafe, or any computer you do not own, there are several dangers. Using "over the shoulder" surveillance, someone, possibly with a camera, can watch your actions and may see the account you log in to and the password you type. A less obvious threat is software programs or hardware devices called "keystroke loggers" that record what you type. They can be hidden inside a computer or a keyboard and are not easily spotted. Do not use public computers to log in to your private accounts, such as email. If you do, change your passwords as soon as you get back to a computer you own and trust.
-
 Easy to remember and secure passwords
 -------------------------------------
 
@@ -35,6 +25,11 @@ A few examples:
 
 Sentences are easy to remember, even if they are 50 characters long and contain uppercase characters, lowercase characters, symbols and numbers.
 
+Minimizing damage
+-----------------
+
+It is important to minimize the damage if one of your passwords is ever compromised. Use different passwords for different websites or accounts, that way if one is compromised, the others are not. Change your passwords from time to time, especially for accounts you consider to be sensitive. By doing this you can block access to an attacker who may have learned your old password.
+
 Using a password manager
 -------------------------------------------
 
@@ -46,6 +41,11 @@ Protect your Website Passwords
 ------------------------------
 
 Browsers offer to save the login information and passwords for websites you use. If you choose to save the passwords, you should make sure that the passwords are stored in a safe way. See the chapter about Keeping your internet passwords safe in Firefox.
+
+Physical protection
+-------------------
+
+When using a public computer such as at a library, an internet cafe, or any computer you do not own, there are several dangers. Using "over the shoulder" surveillance, someone, possibly with a camera, can watch your actions and may see the account you log in to and the password you type. A less obvious threat is software programs or hardware devices called "keystroke loggers" that record what you type. They can be hidden inside a computer or a keyboard and are not easily spotted. Do not use public computers to log in to your private accounts, such as email. If you do, change your passwords as soon as you get back to a computer you own and trust.
 
 Caveats
 -------
