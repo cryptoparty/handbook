@@ -1,7 +1,7 @@
 Keeping passwords safe
 ======================
 
-Passwords are for the computer world basically what keys are in the physical world. If you lose a password you will not be able to get in, and if others copy or steal it they can use it to enter. As a minimum measure a good password should not be easy to guess by people and not easy to crack by computers, while still easy enough for you to remember.
+Passwords are like keys in the physical world. If you lose a password you will not be able to get in, and if others copy or steal it they can use it to enter. A good password should not be easy for others to guess and not easy to crack with computers, while still being easy for you to remember.
 
 Password length and complexity
 ------------------------------
