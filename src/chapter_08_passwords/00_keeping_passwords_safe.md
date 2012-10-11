@@ -47,4 +47,4 @@ Other caveats
 
 Some applications such as chat or mail programs may ask you to save or "remember" your username and password, so that you don't have to type them every time the program is opened. Doing so may mean that your password can be retrieved by other programs running on the machine, or directly from your hard disk by someone with physical access to it.
 
-If your login information is sent over an insecure connection or channel, it might fall into the wrong hands. Ssee the chapters on secure browsing for more information.
+If your login information is sent over an insecure connection or channel, it might fall into the wrong hands. See the chapters on secure browsing for more information.
