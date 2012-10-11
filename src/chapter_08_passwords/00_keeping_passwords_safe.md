@@ -15,7 +15,7 @@ See [this XKCD cartoon](https://xkcd.com/936/) `"correct horse battery staple"` 
 Minimizing damage
 -----------------
 
-If your password is leaked or guessed, it is very important to minimize the damage as much as possible. To this end there are two measures you can take. Firstly, be sure to keep different passwords for different sites, otherwise if your password for one site is compromised it is very easy for the attacker to gain access to your other accounts. You can for example do this by choosing a few basic passwords to which you add a unique suffix per site. Secondly, change your password from time to time, at least for things you consider to be sensitive. In that way, if an attacker has got access to your account without you noticing, you effectively block him out.
+It is important to minimize the damage if one of your passwords is ever compromised. Use different passwords for different websites or accounts, that way if one is compromised, the others are not. Change your passwords from time to time, especially for accounts you consider to be sensitive. By doing this you can block access to an attacker who may have learned your old password.
 
 Physical protection
 -------------------
