@@ -42,9 +42,9 @@ Physical protection
 
 When using a public computer such as at a library, an internet cafe, or any computer you do not own, there are several dangers. Using "over the shoulder" surveillance, someone, possibly with a camera, can watch your actions and may see the account you log in to and the password you type. A less obvious threat is software programs or hardware devices called "keystroke loggers" that record what you type. They can be hidden inside a computer or a keyboard and are not easily spotted. Do not use public computers to log in to your private accounts, such as email. If you do, change your passwords as soon as you get back to a computer you own and trust.
 
-Caveats
+Other caveats
 -------
 
- * If an application on your computer, like a chat or mail program, stores the password it uses, and you are not asked for it after reopening the program, it often means that it can be easily retrieved from your computer by someone having access (physical or otherwise) to it.
- * If your login information is sent over an insecure connection or channel, it might fall into the wrong hands. (see the chapters on secure browsing for more information)
- * Over the shoulder surveillance or key logging might compromise your passwords.
+Some applications such as chat or mail programs may ask you to save or "remember" your username and password, so that you don't have to type them every time the program is opened. Doing so may mean that your password can be retrieved by other programs running on the machine, or directly from your hard disk by someone with physical access to it.
+
+If your login information is sent over an insecure connection or channel, it might fall into the wrong hands. Ssee the chapters on secure browsing for more information.
