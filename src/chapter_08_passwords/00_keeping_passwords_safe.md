@@ -20,7 +20,7 @@ It is important to minimize the damage if one of your passwords is ever compromi
 Physical protection
 -------------------
 
-Especially if you are traveling and using internet cafes, or other untrusted computers, you have to be aware that there are other ways for people to obtain your passwords. Firstly there is "over the shoulder" surveillance, where someone, or a camera, watches your actions and might see the password you are typing (or where you are browsing). A second typical threat is the presence of key loggers. Key loggers are software or hardware devices that record keystrokes, they can be hidden inside a computer or keyboard and hence totally invisible to you. Be very careful what you do in those places and which sites you visit there. If you really have to use such a place be sure to change your passwords as soon as possible. For more tips on Internet Cafes read the chapter on them.
+When using a public computer such as at a library, an internet cafe, or any computer you do not own, there are several dangers. Using "over the shoulder" surveillance, someone, possibly with a camera, can watch your actions and may see the account you log in to and the password you type. A less obvious threat is software programs or hardware devices called "keystroke loggers" that record what you type. They can be hidden inside a computer or a keyboard and are not easily spotted. Do not use public computers to log in to your private accounts, such as email. If you do, change your passwords as soon as you get back to a computer you own and trust.
 
 Easy-to-remember and secure passwords
 -------------------------------------
