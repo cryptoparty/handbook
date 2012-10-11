@@ -49,7 +49,7 @@ How To CryptoParty
 
  * Copy from other cryptoparties. Remix, Reuse and Share. Create a basket of old devices people are willing to donate to more needy CryptoPartiers. 
 
- * Get the word out! Print posters and/or flyers and distribute them in you neighbourhood, post online versions to social networks and mail them to friends, for them to distribute the info even further.
+ * Get the word out! Print posters and/or flyers and distribute them in your neighbourhood, post online versions to social networks and mail them to friends, for them to distribute the info even further.
 
  * Don't sell out to sponsors for pizza and beer money. Ask people to try and bring food and drink to share. Host CryptoPicnics as often as possible. Make friends with librarians. They wield power over keys to local, public meeting rooms that may be free of charge to utilize.
 
