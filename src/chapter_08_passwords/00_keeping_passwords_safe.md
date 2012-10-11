@@ -37,11 +37,6 @@ Remembering a lot of different passwords can be difficult. One solution is to us
 
 For website passwords only, another option is the built-in password manager of the Firefox browser. Make sure to set a master password, otherwise this is very insecure!
 
-Protect your Website Passwords
-------------------------------
-
-Browsers offer to save the login information and passwords for websites you use. If you choose to save the passwords, you should make sure that the passwords are stored in a safe way. See the chapter about Keeping your internet passwords safe in Firefox.
-
 Physical protection
 -------------------
 
