@@ -35,12 +35,12 @@ A few examples:
 
 Sentences are easy to remember, even if they are 50 characters long and contain uppercase characters, lowercase characters, symbols and numbers.
 
-Using an application to keep your passwords
+Using a password manager
 -------------------------------------------
 
-Even easy-to-remember passwords might be difficult to manage. One solution is to use a dedicated application to manage most of your passwords. The application we will discuss is *Keepass* which is a free and open password manager that is considered to be secure (given that you chose a sane and secure "master password" for the keepass application).
+Remembering a lot of different passwords can be difficult. One solution is to use a dedicated application to manage most of your passwords. The next section in this chapter will discuss *Keepass*, a free and open source password manager with no known vulnerabilities, so long as you chose a sufficiently long and complex "master password" to secure it with.
 
-For website passwords a more convenient solution that is probably safe enough for most of your passwords is to use the built-in password manager of the Firefox browser. Be sure to set a master password as is explained in the chapter on safe browsing, otherwise this is very insecure! Other browsers might also come with built-in password managers, but remember that if you don't have to unlock them with a master password they are mostly unsafe and easily retrievable by attackers having access to your computer.
+For website passwords only, another option is the built-in password manager of the Firefox browser. Make sure to set a master password, otherwise this is very insecure!
 
 Protect your Website Passwords
 ------------------------------
