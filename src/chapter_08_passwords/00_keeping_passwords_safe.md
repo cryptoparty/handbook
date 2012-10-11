@@ -22,10 +22,10 @@ Physical protection
 
 When using a public computer such as at a library, an internet cafe, or any computer you do not own, there are several dangers. Using "over the shoulder" surveillance, someone, possibly with a camera, can watch your actions and may see the account you log in to and the password you type. A less obvious threat is software programs or hardware devices called "keystroke loggers" that record what you type. They can be hidden inside a computer or a keyboard and are not easily spotted. Do not use public computers to log in to your private accounts, such as email. If you do, change your passwords as soon as you get back to a computer you own and trust.
 
-Easy-to-remember and secure passwords
+Easy to remember and secure passwords
 -------------------------------------
 
-One way to create strong and easy-to-remember passwords is to use sentences.
+One way to create strong and easy to remember passwords is to use sentences.
 
 A few examples:
 
@@ -33,7 +33,7 @@ A few examples:
  * `Peoplelovemachinesin2029A.D.`
  * `BarneyfromHowIMetYourMotherisAWESOME!`
 
-Sentences are extremely easy to remember, even if they are 50 characters long and they contain uppercase, lowercase, symbols and often numbers. Alternatively you might want to use one strong password that is easy to remember and keep all your other secure (less easy to remember) passwords by using a tool that keeps them securely on your computer or phone.
+Sentences are easy to remember, even if they are 50 characters long and contain uppercase characters, lowercase characters, symbols and numbers.
 
 Using an application to keep your passwords
 -------------------------------------------
