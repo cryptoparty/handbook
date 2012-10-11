@@ -6,7 +6,7 @@ Passwords are like keys in the physical world. If you lose a password you will n
 Password length and complexity
 ------------------------------
 
-To protect your passwords from being guessed, length and complexity are important. Passwords like the name of your pet or a birth date are very unsafe, as is using single word that can be found in a dictionary. Do not use a password containing only numbers. A secure password is long and contains a combination of lower case letters, capitals, numbers and special characters.
+To protect your passwords from being guessed, length and complexity are important. Passwords like the name of your pet or a birth date are very unsafe, as is using single word that can be found in a dictionary. Do not use a password containing only numbers. Most importantly a secure password is long. Using combinations of lower case letters, capitals, numbers and special characters can improve the security, but length is still the most important factor.
 
 For use with important accounts like the pass phrase which protects your PGP/GPG or TrueCrypt encrypted data, or the password for your main email account, use 20 characters or more, the longer the better. See [this XKCD cartoon](https://xkcd.com/936/) `"correct horse battery staple"` vis-à-vis `"Tr0ub4dor&3"` for an explanation.
 
