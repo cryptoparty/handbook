@@ -1,4 +1,3 @@
-
 Setting up Encrypted Instant Messaging
 ======================================
 
@@ -27,7 +26,7 @@ You can securely chat with other programs with OTR support such as Adium, Pidgin
 Ubuntu - Installing Pidgin
 --------------------------
 
-[http://pidgin.in/](http://pidgin.in/)
+[http://pidgin.im/](http://pidgin.im/)
 
 Pidgin is a secure chat client capable of end-to-end encryption. It works with Google, Facebook, any Jabber or XMPP server. Pidgin uses the Off-the-Record encryption standard (OTR) to enable true verifiable end-to-end encrypted communications.
 
@@ -58,7 +57,7 @@ You can securely chat with other programs with OTR support such as Adium, Pidgin
 Windows - Installing Pidgin
 ---------------------------
 
-[http://pidgin.in/](http://pidgin.in/)
+[http://pidgin.im/](http://pidgin.im/)
 
 Pidgin is a secure chat client capable of end-to-end encryption. It works with Google, Facebook, any Jabber or XMPP server. Pidgin uses the Off-the-Record encryption standard (OTR) to enable true verifiable end-to-end encrypted communications.
 
