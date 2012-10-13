@@ -116,11 +116,3 @@ If Firefox browser does not launch, another instance of the browser may be inter
  5. Repeat the steps above to launch Tor Browser.
 
 If Tor Browser still doesn't work after two or three tries, Tor may be partly blocked by your ISP and you should try using the **bridge** feature of Tor.
-
-Alternatives
-------------
-
-There are two other projects that bundle Tor and a browser:
-
- * XeroBank, a bundle of Tor with Firefox ([http://xerobank.com/xB_Browser.php](http://xerobank.com/xB_Browser.php))
- * OperaTor, a bundle of Tor with Opera ([http://archetwist.com/en/opera/operator](http://archetwist.com/en/opera/operator))
