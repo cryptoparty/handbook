@@ -1,7 +1,7 @@
 Installing on Mac OS X
 ======================
 
- 1. To download Firefox, visit [https://www.mozilla.com/](https://www.mozilla.com/) and click on the big green button labeled "Firefox Free Download". The download should start automatically, if it does not, click the link to download it manually.
+ 1. To download Firefox, visit [https://www.mozilla.org/firefox](https://www.mozilla.org/firefox) and click on the big green button labeled "Firefox Free Download". The download should start automatically, if it does not, click the link to download it manually.
 
   ![Mac OS X Firefox Install](ff_mac_inst_1.png)
 
