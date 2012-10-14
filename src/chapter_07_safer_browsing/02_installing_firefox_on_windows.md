@@ -1,42 +1,36 @@
 Installing Firefox on Windows
 =============================
 
-Firefox requires a computer with a minimum of a 233 MHz processor, running Windows 2000 or later. To check system requirements for Firefox, go to: [http://www.mozilla.com/firefox/system-requirements.html](http://www.mozilla.com/firefox/system-requirements.html)
-
-Download and Install Firefox
-----------------------------
-
- 1. Visit the Firefox Download Page at [http://www.mozilla.com/firefox/](http://www.mozilla.com/firefox/) in any browser (such as Microsoft Internet Explorer). The download page automatically detects the operating system and language on your computer and recommends the best edition(s) of Firefox for you. If you want to download Firefox for a different language or for a different operating system than the one detected, click "Other Systems and Languages" to see a list of all the others available.
+ 1. To download Firefox, visit [https://www.mozilla.com/firefox/](https://www.mozilla.com/firefox/).
 
  ![Windows Firefox Install](ff_win_inst_1.png)
 
- 2. Click the download button and the setup file will begin to download to your computer. Once the download completes, it is recommended that you exit all your running programs before running the installation.
+ 2. Click the download button and the installation file will begin to download to your computer.
 
- 3. Double-click the file to start the Firefox install wizard.
+ 3. Once the download is complete, double-click the installation file to start the Firefox installation wizard.
 
     * If you are running Windows Vista, you may get a User Account Control prompt. In this case, allow the setup to run by clicking **Continue**.
     * If you are running Windows 7, you will be asked whether to allow Firefox to make changes to your computer. Click on **Yes**.
 
     A welcome screen appears.
 
-
- 4. Click Next to continue. The Setup Type screen appears. A "Standard" setup is selected by default (using the custom option is only recommended for experienced users).
+ 4. Click **Next** to continue. You will be asked if you would like the standard installation, or whether you would like to customize it. Choose the standard installation and click **Next**.
 
  ![Windows Firefox Install](ff_win_inst_2.png)
 
- 5. Firefox installs itself as your default browser. If you do not want Firefox to be your default browser, clear the check box **Use Firefox as my default web browser**.
+ 5. You will be asked if you want Firefox to be your default browser. This is recommended.
 
  ![Windows Firefox Install](ff_win_inst_3.png)
 
- 6. Click **Next**.
+ 6. Click **Install**.
 
- 7. Firefox asks whether to import the settings, like bookmarks, from other browsers. Select the browser you are currently using, then click on **Next**.
-
- 8. Firefox will confirm you have imported the setting and continue the installation. Click on **Continue**. Once Firefox has been installed, click **Finish** to close the setup wizard.
+ 7. To import your bookmarks and other data from other browsers (for example Internet Explorer), click **Continue**. If you don't want to import anything, just select **Cancel**.
 
  ![Windows Firefox Install](ff_win_inst_4.png)
 
-If the **Launch Firefox** now check box is checked, Firefox will start after you click **Finish**.
+ 8. Once Firefox has been installed, click **Finish** to close the setup wizard.
+
+If the **Launch Firefox now** check box is checked, Firefox will start after you click **Finish**. Otherwise you can launch Firefox through the start menu.
 
 ### Windows Vista Users
 
@@ -45,4 +39,4 @@ If at any time throughout the installation process you are prompted with a User 
 Troubleshooting
 ---------------
 
-If you have problems starting Firefox, see [http://support.mozilla.com/kb/Firefox+will+not+start](http://support.mozilla.com/kb/Firefox+will+not+start)
+If you have problems starting Firefox, see [https://support.mozilla.com/kb/Firefox+will+not+start](https://support.mozilla.com/kb/Firefox+will+not+start)
