@@ -173,11 +173,8 @@ The Book Sprint was 3 days in length and the full list of onsite participants in
 
 Adam Hyde (facilitator), Marta Peirano, Julian Oliver, Danja Vasiliev, Asher Wolf ([http://cryptoparty.org](http://cryptoparty.org)), Jan Gerber, Malte Dik, Brian Newbold, Brendan Howell ([http://wintermute.org](http://wintermute.org), AT, Carola Hesse, Chris Pinchen ([http://chokepointproject.net/](http://chokepointproject.net)). Cover art (illustrations to come) by Emile Denichaud ([http://about.me/denichaud](http://about.me/denichaud))
 
-Help us improve this book
-
-If you see areas that need improvement or simply come across a typo, create a BookType account and start editing!
-
-[http://marta.booktype.pro/cryptonomaton/_edit/](http://marta.booktype.pro/cryptonomaton/_edit/)
+This version of the handbook has since moved to github to collaboratively edit it. Find it at [https://github.com/cryptoparty/handbook](https://github.com/cryptoparty/handbook).
+If you see areas that need improvement or simply come across a typo, create a github account and start editing, commenting or creating issues. For help using git and github, see [https://help.github.com/](https://help.github.com/).
 
 CryptoParty HandBook Credits
 
@@ -1477,54 +1474,53 @@ If you want to access your GPG mails on your phone this application is a must ha
 Please note, due to some small bugs in K-9 Mail and/or APG, it's very advisable to disable HTML mail and use only Plain text. HTML mails are not encrypted nicely and are often not readable.Creating your PGP keys
 ======================
 
-You are now ready to start encryption your mails with PGP. You can do this by using Enigmail within Thunderbird. Enigmail comes with a nice wizard to help you with the initial setup and the important aspect of creating a public/private key pair (see the chapter introducing PGP for an explanation). You can start the wizard at any time within Thunderbird by selecting `OpenPGP > Setup Wizard` from the menu on top.
+Enigmail comes with a nice wizard to help you create a public/private key pair (see the chapter introducing PGP for an explanation). You can start the wizard at any time within Thunderbird by selecting `OpenPGP > Setup Wizard` from the menu on top.
 
  1. This is what the wizard looks like. Please read the text on every window carefully. It provides useful information and helps you setup PGP to your personal preferences. In the first screen, click on Next to start the configuration.
 
  ![GPG Keys](gpg_keys_1.png)
 
- 2. The wizard asks you whether you want to sign all your outgoing mail messages. If you do not chose to sign all your messages, you will have to specify per recipient if you want to sign your e-mail. Signing all your messages is a good choice. Click on the 'Next' button after you have made a decision.
+ 2. The wizard asks you whether you want to sign all your outgoing mail messages. Signing all your messages is a good choice. If you choose not to, you can still manually decide to sign a message when you are composing it. Click on the 'Next' button after you have made a decision.
 
  ![GPG Keys](gpg_keys_2.png)
 
- 3. On the following screen, the wizard asks you whether you want to encrypt *all* your outgoing mail messages. Unlike signing of mails, encryption requires the recipient to have PGP software installed. Therefore you should answer 'no' to this question, to make sure you can still send normal mails. Only answer 'yes' here if you want to prevent Thunderbird from ever sending unencrypted mails. After you have made your decision, click on the 'Next' button.
+ 3. On the following screen, the wizard asks you whether you want to encrypt *all* your outgoing mail messages. Unlike signing of mails, encryption requires the recipient to have PGP software installed. You should probably answer 'no' to this question, so that you will send normal (unencrypted) mail by default. After you have made your decision, click on the 'Next' button.
 
  ![GPG Keys](gpg_keys_3.png)
 
- 4. On the following screen the wizard asks if he can change some of your mail formatting settings to better work with PGP. It is a good choice to answer 'Yes' here. The only serious thing is that it will prevent you from doing is sending HTML mail messages. Click on the 'Next' button after you have made your decision.
+ 4. On the following screen the wizard asks if it can change some of your mail formatting settings to better work with PGP. It is a good choice to answer 'Yes' here. This will mean that by default, mail will be composed in plain text rather than HTML. Click on the 'Next' button after you have made your decision.
 
  ![GPG Keys](gpg_keys_4.png)
 
- 5. Now it is time to start creating the keys. In the following screen you can select one of your mail accounts, or the default one is selected for you if you have only one mail account. In the 'Passphrase' text box you have to give a password. This is a *new* password which is used to protect your private key. It is **very important** both to remember this password, because you cannot read your own encrypted emails any more when you lose it, and to make it a **strong** password. It should be at least 8 characters long, not contain any dictionary words and it should preferably be a **unique** password. Using the same password for multiple purposes severely increases the chance of it being intercepted at some point. After you have selected your account and created a passphrase, click on the 'Next' button.
+ 5. In the following screen, select one of your mail accounts; the default is selected for you if you only have one. In the 'Passphrase' text box you must enter a password. This is a *new* password which is used to protect your private key. It is **very important** to remember this password, because you cannot read your own encrypted emails if you forget it. Make it a **strong** password, ideally 20 characters or longer. Please see the chapter on passwords for help on creating unique, long and easy to remember passwords. After you have selected your account and created a passphrase, click on the 'Next' button.
 
  ![GPG Keys](gpg_keys_5.png)
 
- 6. In the following screen the wizard basically wraps up what actions it will take to enable PGP encryption for your account. If you are satisfied with the options you chose in the previous windows, click on the 'Next' button.
+ 6. In the following screen the wizard summarizes the actions it will take to enable PGP encryption for your account. If you are satisfied, click the 'Next' button.
 
  ![GPG Keys](gpg_keys_6.png)
 
- 7. Your keys are being created by the wizard. Have some patience. The progress bar should slowly fill up to the right. The wizard will tell you when the keys have been successfully created, then you can click on the 'Next' button again.
+ 7. Your keys will be created by the wizard, which will take some time. When completed, click on the 'Next' button.
 
  ![GPG Keys](gpg_keys_7.png)
 
- 8. You now have your own PGP key-pair. The wizard will ask you if you also want to create a special file, called a 'Revocation certificate'. This file allows you to inform others that your key-pair should no longer be considered valid. Think of it as a 'kill switch' for your PGP identity. You can use this certificate in case you have generated a new set of keys, or in case your old key-pair has been compromised. It is a good idea to create the file and keep it somewhere in a safe place. Click on the 'Generate Certificate' button if you want to create the file, otherwise 'Skip'.
+ 8. You now have your own PGP key-pair. The wizard will ask you if you also want to create a 'Revocation certificate'. This is a file which can be used to inform everyone if your private key is compromised, for example if your laptop is stolen. Think of it as a 'kill switch' for your PGP identity. You may also wish to revoke the key simply because you have generated a new one, and the old one is obsolete.
 
  ![GPG Keys](gpg_keys_8.png)
 
- 9. Assuming you have decided to generate a revocation certificate, the wizard will ask you where the file should be saved. The dialog may appear a bit different on your particular operating system. It is a good idea to rename the file to something sensible like my_revocation_certificate. Click on 'Save' when you you have decided on a location.
+ 9. If you decided to generate a revocation certificate, the wizard will ask you where the file should be saved. The dialog will look different depending on which operating system you use. It is a good idea to rename the file to something sensible like my_revocation_certificate. Click on 'Save' when you you have decided on a location.
 
  ![GPG Keys](gpg_keys_9.png)
 
- 10. Assuming you have decided to generate a revocation certificate, the wizard informs you it has been successfully stored.
+ 10. If you decided to generate a revocation certificate, the wizard informs you it has been successfully stored. You may want to print it out or burn it to a CD and keep it in a safe place.
 
  ![GPG Keys](gpg_keys_10.png)
 
- 11. The wizard will inform you it has completed its setup.
+ 11. The wizard will inform you it has completed.
 
  ![GPG Keys](gpg_keys_11.png)
 
-Congratulations, you now have a fully PGP-configured mail client. In the next chapter we will explain how to manage your keys, sign messages and do encryption. Thunderbird can help you do a lot of these things automatically.
-Daily PGP usage
+Congratulations, you now have a fully PGP-configured mail client. In the next chapter we will explain how to manage your keys, sign messages and do encryption. Thunderbird can help you do a lot of these things automatically.Daily PGP usage
 ===============
 
 In the previous chapters we have have explained how to set up a secure mail environment using Thunderbird, GPG and Enigmail. We assume you have installed the software and have successfully followed the wizard instructions to generate an encryption key-pair as described in the previous chapter. This chapter will describe how to use your secured Thunderbird in daily life to protect your e-mail communication. In particular we will focus on:
@@ -1830,21 +1826,16 @@ If using the commandline seems too cumbersome to you, you might consider install
 Accessing Firefox on Ubuntu
 ===========================
 
-Firefox is already installed on Ubuntu as part of the normal installation. If you want to install a different (most commonly newer) version of Firefox on your Ubuntu system (or other GNU/Linux systems) that is also possible and is explained below.
-
-Accessing it is easy. Click on the Unity side bar where you see the Firefox icon:
+Firefox is already installed on Ubuntu by default. To open it, click on the Unity side bar where you see the Firefox icon:
 
 ![Firefox on Ubuntu](ff_ubuntu_1.png)
 
 Firefox starts and a welcome window opens:
 
-![Firefox on Ubuntu](ff_ubuntu_2.png)
-
-If you want to upgrade the version of Firefox included with Ubuntu to the latest version,  such as a beta version or a new stable version, replacing your existing version, a detailed guide is available on the Ubuntu wiki at [https://help.ubuntu.com/community/FirefoxNewVersion](https://help.ubuntu.com/community/FirefoxNewVersion)
-Installing on Mac OS X
+![Firefox on Ubuntu](ff_ubuntu_2.png)Installing on Mac OS X
 ======================
 
- 1. To download **Firefox**, visit [http://www.mozilla.com/](http://www.mozilla.com/) and click on the big green button labeled "Firefox Free Download.", and the download starts. If it does not start automatically, click the link on the page.
+ 1. To download Firefox, visit [https://www.mozilla.org/firefox](https://www.mozilla.org/firefox) and click on the big green button labeled "Firefox Free Download". The download should start automatically, if it does not, click the link to download it manually.
 
   ![Mac OS X Firefox Install](ff_mac_inst_1.png)
 
@@ -1856,79 +1847,55 @@ Installing on Mac OS X
 
  ![Mac OS X Firefox Install](ff_mac_inst_3.png)
 
- 3. Click and hold the **Firefox** icon, then drag it on top of the **Applications** icon. When it is on top of the Applications icon, release the mouse button. This starts copying the program files to the Applications directory on your computer.
+ 3. Click and drag the **Firefox** icon on top of the **Applications** icon.
 
- 4. When the installation step is finished, close the two small Firefox windows.
+ 4. When the installation is finished, close the two small Firefox windows.
  5. Eject the Firefox disk image. If this does not work by normal means, select the disk image icon and then, in the Finder menu, select `File > Eject Firefox`.
  6. Now, open the **Applications** directory and drag the **Firefox** icon to the dock:
 
  ![Mac OS X Firefox Install](ff_mac_inst_4.png)
 
- 7. Click either icon (in the Dock or the Applications folder) to start Firefox. The Import Wizard dialog box appears:
+ 7. Click the **Firefox** icon in the Dock to start Firefox. The Import Wizard dialog box appears:
 
  ![Mac OS X Firefox Install](ff_mac_inst_5.png)
 
  8. To import your bookmarks, passwords and other data from Safari, click **Continue**. If you don't want to import anything, just select **Cancel**.
 
- 9. Click **Continue**. Now you see the **Welcome to Firefox** page.
-
- ![Mac OS X Firefox Install](ff_mac_inst_6.png)
-
-    * To learn basic information about Firefox, click **Getting Started**.
-    * For assistance, click **Visit Support**.
-    * To customize your new installation using the add-ons wizard, click **Customize Now!**
-    * In the upper right of the Welcome page is a button labeled **Know your rights**. Click this button to display the following screen, which tells you about your rights under the Mozilla Public License and provides links to Mozilla's privacy policies and service terms, as well as trademark information.
-
- ![Mac OS X Firefox Install](ff_mac_inst_7.png)
-
- 10. Close the Welcome to Firefox page (click the x in the tab at the top of the page). Now you see the **Firefox Start** page.
-
 Congratulations, you are now ready to use Firefox!
 
-![Mac OS X Firefox Install](ff_mac_inst_8.png)
-
-If you have permission problems when trying to copy Firefox from the disk image to your Applications folder, first try deleting your old Firefox copy, then proceeding.
-
-If you're installing a beta and that you want to keep your former Firefox copy, first rename your old Firefox copy to something like "Firefox old" and then copy the beta to your Applications folder.
-Installing Firefox on Windows
+![Mac OS X Firefox Install](ff_mac_inst_8.png)Installing Firefox on Windows
 =============================
 
-Firefox requires a computer with a minimum of a 233 MHz processor, running Windows 2000 or later. To check system requirements for Firefox, go to: [http://www.mozilla.com/firefox/system-requirements.html](http://www.mozilla.com/firefox/system-requirements.html)
-
-Download and Install Firefox
-----------------------------
-
- 1. Visit the Firefox Download Page at [http://www.mozilla.com/firefox/](http://www.mozilla.com/firefox/) in any browser (such as Microsoft Internet Explorer). The download page automatically detects the operating system and language on your computer and recommends the best edition(s) of Firefox for you. If you want to download Firefox for a different language or for a different operating system than the one detected, click "Other Systems and Languages" to see a list of all the others available.
+ 1. To download Firefox, visit [https://www.mozilla.com/firefox/](https://www.mozilla.com/firefox/).
 
  ![Windows Firefox Install](ff_win_inst_1.png)
 
- 2. Click the download button and the setup file will begin to download to your computer. Once the download completes, it is recommended that you exit all your running programs before running the installation.
+ 2. Click the download button and the installation file will begin to download to your computer.
 
- 3. Double-click the file to start the Firefox install wizard.
+ 3. Once the download is complete, double-click the installation file to start the Firefox installation wizard.
 
     * If you are running Windows Vista, you may get a User Account Control prompt. In this case, allow the setup to run by clicking **Continue**.
     * If you are running Windows 7, you will be asked whether to allow Firefox to make changes to your computer. Click on **Yes**.
 
     A welcome screen appears.
 
-
- 4. Click Next to continue. The Setup Type screen appears. A "Standard" setup is selected by default (using the custom option is only recommended for experienced users).
+ 4. Click **Next** to continue. You will be asked if you would like the standard installation, or whether you would like to customize it. Choose the standard installation and click **Next**.
 
  ![Windows Firefox Install](ff_win_inst_2.png)
 
- 5. Firefox installs itself as your default browser. If you do not want Firefox to be your default browser, clear the check box **Use Firefox as my default web browser**.
+ 5. You will be asked if you want Firefox to be your default browser. This is recommended.
 
  ![Windows Firefox Install](ff_win_inst_3.png)
 
- 6. Click **Next**.
+ 6. Click **Install**.
 
- 7. Firefox asks whether to import the settings, like bookmarks, from other browsers. Select the browser you are currently using, then click on **Next**.
-
- 8. Firefox will confirm you have imported the setting and continue the installation. Click on **Continue**. Once Firefox has been installed, click **Finish** to close the setup wizard.
+ 7. To import your bookmarks and other data from other browsers (for example Internet Explorer), click **Continue**. If you don't want to import anything, just select **Cancel**.
 
  ![Windows Firefox Install](ff_win_inst_4.png)
 
-If the **Launch Firefox** now check box is checked, Firefox will start after you click **Finish**.
+ 8. Once Firefox has been installed, click **Finish** to close the setup wizard.
+
+If the **Launch Firefox now** check box is checked, Firefox will start after you click **Finish**. Otherwise you can launch Firefox through the start menu.
 
 ### Windows Vista Users
 
@@ -1937,8 +1904,7 @@ If at any time throughout the installation process you are prompted with a User 
 Troubleshooting
 ---------------
 
-If you have problems starting Firefox, see [http://support.mozilla.com/kb/Firefox+will+not+start](http://support.mozilla.com/kb/Firefox+will+not+start)
-Extending Firefox
+If you have problems starting Firefox, see [https://support.mozilla.com/kb/Firefox+will+not+start](https://support.mozilla.com/kb/Firefox+will+not+start)Extending Firefox
 =================
 
 When you first download and install Firefox, it can handle basic browser tasks immediately. You can also add extra capabilities or change the way Firefox behaves by installing add-ons, small additions that extend Firefox's power.
@@ -2020,7 +1986,9 @@ Adding support for additional sites in HTTPS Everywhere
 You can add your own rules to the HTTPS Everywhere add-on for your favorite Web sites. You can find out how to do that at: [https://www.eff.org/https-everywhere/rulesets](https://www.eff.org/https-everywhere/rulesets). The benefit of adding rules is that they teach HTTPS Everywhere how to ensure that your access to these sites is secure. But remember: HTTPS Everywhere does not allow you to access sites securely unless the site operators have already chosen to make their sites available through HTTPS. If a site does not support HTTPS, there is no benefit to adding a ruleset for it.
 
 If you are managing a Web site and have made an HTTPS version of the site available, a good practice would be to submit your Web site to the official HTTPS Everywhere release.
+
 Adblock Plus
+------------
 
 Adblock Plus ([http://www.adblockplus.org](http://www.adblockplus.org)) is mainly known for blocking advertisements on websites. But it also can be used to block other content that may try to track you. To keep current with the latest threats, Adblock Plus relies on blacklists maintained by volunteers.
 
@@ -2218,15 +2186,7 @@ If Firefox browser does not launch, another instance of the browser may be inter
  4. If you find one, select the entry and click "End Process".
  5. Repeat the steps above to launch Tor Browser.
 
-If Tor Browser still doesn't work after two or three tries, Tor may be partly blocked by your ISP and you should try using the **bridge** feature of Tor.
-
-Alternatives
-------------
-
-There are two other projects that bundle Tor and a browser:
-
- * XeroBank, a bundle of Tor with Firefox ([http://xerobank.com/xB_Browser.php](http://xerobank.com/xB_Browser.php))
- * OperaTor, a bundle of Tor with Opera ([http://archetwist.com/en/opera/operator](http://archetwist.com/en/opera/operator))Extending Google Chrome
+If Tor Browser still doesn't work after two or three tries, Tor may be partly blocked by your ISP and you should try using the **bridge** feature of Tor.Extending Google Chrome
 =======================
 
 Chrome is Google's browser. Here are some useful tips and extensions:
@@ -3321,7 +3281,6 @@ Now you can make a call. The first time you connect to someone with ZRTP you hav
 ![OSTN](ostn_3.png)
 
 You now have established a secure voice connection that cannot be intercepted. Beware that your or the phone of the other party could be recording your conversation.
-
 Setting up Encrypted Instant Messaging
 ======================================
 
@@ -3350,7 +3309,7 @@ You can securely chat with other programs with OTR support such as Adium, Pidgin
 Ubuntu - Installing Pidgin
 --------------------------
 
-[http://pidgin.in/](http://pidgin.in/)
+[http://pidgin.im/](http://pidgin.im/)
 
 Pidgin is a secure chat client capable of end-to-end encryption. It works with Google, Facebook, any Jabber or XMPP server. Pidgin uses the Off-the-Record encryption standard (OTR) to enable true verifiable end-to-end encrypted communications.
 
@@ -3381,7 +3340,7 @@ You can securely chat with other programs with OTR support such as Adium, Pidgin
 Windows - Installing Pidgin
 ---------------------------
 
-[http://pidgin.in/](http://pidgin.in/)
+[http://pidgin.im/](http://pidgin.im/)
 
 Pidgin is a secure chat client capable of end-to-end encryption. It works with Google, Facebook, any Jabber or XMPP server. Pidgin uses the Off-the-Record encryption standard (OTR) to enable true verifiable end-to-end encrypted communications.
 
