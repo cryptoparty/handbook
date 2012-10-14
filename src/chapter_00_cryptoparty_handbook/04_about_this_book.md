@@ -15,11 +15,8 @@ The Book Sprint was 3 days in length and the full list of onsite participants in
 
 Adam Hyde (facilitator), Marta Peirano, Julian Oliver, Danja Vasiliev, Asher Wolf ([http://cryptoparty.org](http://cryptoparty.org)), Jan Gerber, Malte Dik, Brian Newbold, Brendan Howell ([http://wintermute.org](http://wintermute.org), AT, Carola Hesse, Chris Pinchen ([http://chokepointproject.net/](http://chokepointproject.net)). Cover art (illustrations to come) by Emile Denichaud ([http://about.me/denichaud](http://about.me/denichaud))
 
-Help us improve this book
-
-If you see areas that need improvement or simply come across a typo, create a BookType account and start editing!
-
-[http://marta.booktype.pro/cryptonomaton/_edit/](http://marta.booktype.pro/cryptonomaton/_edit/)
+This version of the handbook has since moved to github to collaboratively edit it. Find it at [https://github.com/cryptoparty/handbook](https://github.com/cryptoparty/handbook).
+If you see areas that need improvement or simply come across a typo, create a github account and start editing, commenting or creating issues. For help using git and github, see [https://help.github.com/](https://help.github.com/).
 
 CryptoParty HandBook Credits
 
