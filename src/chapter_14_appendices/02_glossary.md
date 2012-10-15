@@ -678,7 +678,7 @@ VoIP refers to any of several protocols for real-time two-way voice communicatio
 VPN (virtual private network)
 -----------------------------
 
-A VPN (virtual private network) is a private communication network used by many companies and organizations to connect securely over a public network. Usually on the Internet it is encrypted and so nobody except the endpoints of the communication can look at the data traffic. There are various standards like IPSec, SSL, TLS or PPTP. The use of a VPN provider is a very fast, secure and convenient method to bypass Internet censorship with little risks but it generally costs money every month.
+A VPN (virtual private network) is a private communication network used by many companies and organizations to connect securely over a public network. Usually on the Internet it is encrypted and so nobody except the endpoints of the communication can look at the data traffic. There are various standards like IPSec, SSL, TLS. The use of a VPN provider is a very fast, secure and convenient method to bypass Internet censorship with little risks but it generally costs money every month. Further, note that the VPN standard PPTP is no longer considered secure, and should be avoided.
 
 whitelist
 ---------
