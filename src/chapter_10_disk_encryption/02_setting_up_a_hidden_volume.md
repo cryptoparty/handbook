@@ -17,7 +17,7 @@ Press 'Next >' and continue to the next screen.
 
 In the above screen you want to be sure that you choose the second option 'Hidden TrueCrypt Volume'. Select this and click on 'Next >' you will then be asked to choose the location and name of the TrueCrypt *outer* volume.
 
-![Hidden volumes](hidden_vol_003.png)
+<!--![Hidden volumes](hidden_vol_003.png)-->
 
 Click 'Select File...' and browse to a location for a new TrueCrypt volume. We will use the name 'myencryptedfile' in this example. Its the same name as we used in the last example so be aware that if you have just followed those instructions you must now create a new volume with a new name.
 
