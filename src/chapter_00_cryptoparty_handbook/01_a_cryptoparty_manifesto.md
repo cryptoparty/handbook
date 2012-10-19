@@ -3,7 +3,7 @@ A CryptoParty Manifesto
 
 > **"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - Oscar Wilde**
 
-In 1996, John Perry Barlow, co-founder of the Electronic Frontier Foundation, wrote 'A Declaration of the Independence of Cyberspace'. It includes the following passage:
+In 1996, John Perry Barlow, co-founder of the [Electronic Frontier Foundation (EFF)](https://www.eff.org/), wrote 'A Declaration of the Independence of Cyberspace'. It includes the following passage:
 
 > Cyberspace consists of transactions, relationships, and thought itself, arrayed like a standing wave in the web of our communications. Ours is a world that is both everywhere and nowhere, but it is not where bodies live.
 
