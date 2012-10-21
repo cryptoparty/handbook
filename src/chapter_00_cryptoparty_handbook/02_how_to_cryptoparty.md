@@ -35,13 +35,13 @@ How To CryptoParty
 
  * CryptoParty is dedicated to providing a harassment-free sharing experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, heritage, or religion. Behaving like an arsehole may mean you are permanently uninvited to CryptoParties events. Harassment includes:
 
-   * hurtful or offensive comments
-   * deliberate intimidation
-   * direct or indirect threats
-   * stalking
-   * following
-   * inappropriate physical contact
-   * unwelcome sexual attention.
+    * hurtful or offensive comments
+    * deliberate intimidation
+    * direct or indirect threats
+    * stalking
+    * following
+    * inappropriate physical contact
+    * unwelcome sexual attention.
 
  * Encourage a culture of sharing. Encourage advanced users to help not-so advanced ones. Delegate.
 
