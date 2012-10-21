@@ -6,20 +6,23 @@ BOOK_DIR=${BUILD_DIR}/.
 
 all: latex-pdf combined
 
-tex:
+${BUILD_DIR}:
+	mkdir ${BUILD_DIR}
+
+${TEX_DIR}/main.tex: ${BUILD_DIR} convert_to_tex.sh
 	./convert_to_tex.sh ${TEX_DIR}
-	cp main.tex ${TEX_DIR}
 
-latex-pdf: tex
+
+latex-pdf: ${TEX_DIR}/main.tex
 	pdflatex --output-dir=${TEX_DIR} ${TEX_DIR}/main.tex
 	pdflatex --output-dir=${TEX_DIR} ${TEX_DIR}/main.tex
 
-book.md:
+${BOOK_DIR}/book.md: ${BUILD_DIR}
 	cat chapter*/*.md > ${BOOK_DIR}/book.md
 
-combined: book.md
+combined: ${BOOK_DIR}/book.md
 
-install: book.md latex-pdf
+install: combined latex-pdf
 	cp ${TEX_DIR}/main.pdf ${INSTALL_DIR}/cryptoparty-handbook-`date +%F`.pdf
 	cp ${BOOK_DIR}/book.md ${INSTALL_DIR}/cryptoparty-handbook-`date +%F`.md
 
