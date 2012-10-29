@@ -11,7 +11,6 @@ cat > $DIR/main.tex <<EOF
 
 \usepackage{amsmath,amssymb,latexsym}
 \usepackage{algorithm, algorithmic}
-\usepackage{a4}
 \usepackage{graphicx}
 \usepackage{varioref}
 \usepackage{hyperref}
