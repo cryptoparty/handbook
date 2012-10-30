@@ -4,7 +4,10 @@ if [ -z $1 ] ; then
 else
 	DIR=$1
 fi
-mkdir $DIR
+
+if [ ! -d $DIR ] ; then
+	mkdir $DIR
+fi
 
 cat > $DIR/main.tex <<EOF
 \documentclass[oribibl,a4paper]{book}
@@ -31,7 +34,9 @@ EOF
 
 
 for d in chapter*; do
-	mkdir $DIR/$d
+	if [ ! -d $DIR/$d ] ; then
+		mkdir $DIR/$d
+	fi
 	echo "\\graphicspath{{./$d/}}" >> $DIR/main.tex
 	title=`echo $d | sed 's/chapter_[0-9][0-9]_//; s/_/ /g; s/^./\U&/; s/ ./\U&/g'`
 	echo "\\chapter{$title}" >> $DIR/main.tex
