@@ -7,7 +7,7 @@ fi
 mkdir $DIR
 
 cat > $DIR/main.tex <<EOF
-\documentclass[oribibl,a4paper]{book}
+\documentclass[oribibl]{scrbook}
 
 \usepackage{amsmath,amssymb,latexsym}
 \usepackage{algorithm, algorithmic}
