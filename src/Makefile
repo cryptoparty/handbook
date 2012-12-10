@@ -27,4 +27,3 @@ install: combined latex-pdf
 
 clean: ${BUILD_DIR}
 	rm -Rf ${BUILD_DIR}/*
-
