@@ -16,7 +16,7 @@ For building the handbook artifacts (PDF, LaTeX, etc...) the following prerequis
 
 On Ubuntu all prerequisites can be installed with the following line:
 
-    sudo apt-get install build-essential pandoc texlive-latex-recommended
+    sudo apt-get install build-essential pandoc texlive-full
 
 Peer Review Process
 -------------------
