@@ -7,6 +7,17 @@ https://cryptoparty.org/wiki/CryptoPartyHandbook
 
 Comments and questions about handbook content are more than welcome, please submit them using new issues and pull requests.
 
+Prerequisites
+-------------
+For building the handbook artifacts (PDF, LaTeX, etc...) the following prerequisites are required:
+ - GNU make
+ - pandoc
+ - pdflatex
+
+On Ubuntu all prerequisites can be installed with the following line:
+
+    sudo apt-get install build-essential pandoc texlive-latex-base
+
 Peer Review Process
 -------------------
 
