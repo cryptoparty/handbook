@@ -26,7 +26,7 @@ A peer review process for content already existing in the handbook, as well as f
 Publishing
 ----------
 
-The CryptoParty Handbook is meant to be - and look - professional, thus it should be packaged and published in a proper way using a proper typesettings engine. If you have any knowledge or experience with book publishing and typesetting, please weight in.
+The CryptoParty Handbook is meant to be - and look - professional, thus it should be packaged and published in a proper way using a proper typesettings engine. If you have any knowledge or experience with book publishing and typesetting, please weigh in.
 
 License
 -------
