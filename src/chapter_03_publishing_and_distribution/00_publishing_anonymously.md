@@ -34,4 +34,4 @@ Several Don'ts
 
 **Don't expect it to last.** If you hit the pot and become a blogging sensation (like *Belle de Jour*, the British PhD candidate who became a sensation and sold a book and mused two TV shows about her double life as a high escort) there will be a legion of journalists, tax auditors and obsessive fans scrutinizing your every move. You are only human: they will get to you.
 
-**Don't linger.** If you realize you have already made any mistakes but nobody has caught you yet, do close all your accounts, uncover your tracks and start a totally new identity. The Internet has infinite memory: one strike, and you're out of the closet.
+**Don't linger.** If you realize you have already made any mistakes but nobody has caught you yet, do close all your accounts, cover your tracks and start a totally new identity. The Internet has infinite memory: one strike, and you're out of the closet.
