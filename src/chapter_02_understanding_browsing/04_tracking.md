@@ -19,17 +19,94 @@ How can I prevent tracking?
 
 The simplest and most direct way to deal with tracking is to delete the cookie files in your browser:
 
-[show how in Firefox (`tools->Clear Recent History...`), chrome, IE, etc. ]
+In **Firefox**:
+ 1. Click the **Firefox menu**. 
+ 2. Click **Options**.
+ 3. Click **Privacy**.
+ 4. Click **Clear your recent history**.
+ 
+    ![Delete Firefox Cookies](firefox_delete_cookies_01.png)
+ 5. Make sure **Time range to clear** is set to **Everything**.
+ 6. Tick **Cookies**.
+ 
+    ![Delete Firefox Cookies](firefox_delete_cookies_02.png)
+ 7. Click **Clear now**.
+ 
+In **Chrome**:
+ 1. Click the **Chrome menu**.
+ 2. Click **Tools**.
+ 3. Click **Clear browsing data**.
+ 4. Make sure **Obliterate the following items from** is set to **The beginning of time**.
+ 5. Tick **Delete cookies and other site and plug-in data**.
+ 6. Click **Clear browsing data**.
+ 
+ ![Delete Chrome Cookies](chrome_delete_cookies_02.png)
+
+In **Internet Explorer**: 
+ 1. Click the **Tools** button (shaped like a gear).
+ 2. Click **Safety**.
+ 3. Click **Delete Browsing History**.
+ 4. Tick **Cookies**.
+ 5. Click **Delete**.
+ 
+    ![Delete IE Cookies](ie_delete_cookies_02.png)
 
 The limitation to this approach is that you will receive new cookies as soon as you return to these sites or go to any other pages with tracking components. The other disadvantage is that you will lose all of your current login sessions for any open tabs, forcing you to type in usernames and passwords again.  A more convenient option, supported by current browsers is private browsing or incognito mode. This opens a temporary browser window that does not save the history of pages viewed, passwords, downloaded files or cookies.  Upon closing the private browsing window, all of this information is deleted. You can enable private browsing:
 
-[show how in Firefox (`tools->Start Private Browsing`), chrome, IE, etc. ]
+In **Firefox**:
+ 1. Click the **Firefox menu**.
+ 2. Click **Start Private Browsing**.
+ 
+ ![Firefox Private Browsing](firefox_private_browsing_01.png)
+ 3. If prompted, click **Start Private Browsing** again.
+ 
+ ![Firefox Private Browsing](firefox_private_browsing_02.png)
+ 4. The **Firefox menu** button turns purple, showing that private browsing is on.
+ 
+ ![Firefox Private Browsing](firefox_private_browsing_03.png)
 
-This solution also has it's limitations. We cannot save bookmarks, remember passwords, or take advantage of much of convenience offered by modern browsers. Thankfully, there are several plugins specially designed to address the problems of tracking. The most extensive, in terms of features and flexibility, is Ghostery. The plugin allows you to block categories or individual services that track users. Here's how you install Ghostery:
+In **Chrome**:
+ 1. Click the **Chrome menu**.
+ 2. Click **New incognito window**.
+ 
+    ![Chrome Private Browsing](chrome_private_browsing_01.png)
+ 3. The **spy icon** in the top-left of the browser window shows that private browsing is on.
+ 
+    ![Chrome Private Browsing](chrome_private_browsing_02.png)
+ 
+In **Internet Explorer**: 
+ 1. Click the **Tools** menu, shaped like a gear.
+ 2. Click **Safety**.
+ 3. Click **InPrivate Browsing**.
+ 
+    ![IE Private Browsing](ie_private_browsing_01.png) 
+ 4. The **InPrivate** logo appears in the top-left of your browser window, showing that private browsing is on.
+ 
+    ![IE Private Browsing](ie_private_browsing_02.png)
 
-[screenshots here installing the plugin]
+This solution also has its limitations. We cannot save bookmarks, remember passwords, or take advantage of much of convenience offered by modern browsers. Thankfully, there are several plugins specially designed to address the problems of tracking. The most extensive, in terms of features and flexibility, is Ghostery. The plugin allows you to block categories or individual services that track users. Here's how you install Ghostery:
+
+ 1. In Firefox, click the **Firefox** menu and select **Add-ons**.
+ 
+    ![Ghostery](ghostery01.png)
+ 2. In the **Search** box, type "ghostery", then click the **Search** icon or press **Enter**.
+ 
+    ![Ghostery](ghostery02.png)
+ 3. Find Ghostery in the list of Add-ons, and click **Install**.
+ 
+    ![Ghostery](ghostery03.png)
+ 4. Restart your browser by clicking **Restart Now**.
+ 
+    ![Ghostery](ghostery04.png)
+ 5. Click the **Ghostery toolbar** and select **Options**. Do the walkthrough and/or play with Ghostery's settings, if you want.
+ 
+    ![Ghostery](ghostery05.png)
+ 6. Visit a web page and have a look at its trackers.
+ 
+    ![Ghostery](ghostery06.png)
 
 Another option is to install an ad-blocking plugin like AdBlockPlus. This will automatically block many of the tracking cookies sent by advertising companies but not those used by Google, Facebook and other web analytics companies.  [expand on this maybe, explain "web analytics"]
+
 How can I see who is tracking me?
 
 The easiest way to see who is tracking you is to use the Ghostery plugin. There is a small icon on the upper right or lower right corner of your browser window that will tell you which services are tracking you on particular web sites.
