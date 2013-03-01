@@ -19,8 +19,12 @@ cat > $DIR/main.tex <<EOF
 \usepackage{hyperref}
 \usepackage{paralist}
 \usepackage{eurosym}
+\usepackage{placeins}
 
-
+\let\stdsection\section
+\renewcommand*{\section}{\FloatBarrier\stdsection}
+\let\stdsubsection\subsection
+\renewcommand*{\subsection}{\FloatBarrier\stdsubsection}
 
 \begin{document}
 
