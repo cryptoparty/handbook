@@ -74,7 +74,7 @@ If you want to use the Soulseek network with some degree of real anonymity, you 
 I2P
 ---
 
-I2P began as a fork from the Freenet project, originally conceived as a mathod for censorship-resistant publishing and distribution. From their website:
+I2P began as a fork from the Freenet project, originally conceived as a method for censorship-resistant publishing and distribution. From their website:
 
 > The I2P project was formed in 2003 to support the efforts of those trying to build a more free society by offering them an uncensorable, anonymous, and secure communication system. I2P is a development effort producing a low latency, fully distributed, autonomous, scalable, anonymous, resilient, and secure network. The goal is to operate successfully in hostile environments - even when an organization with substantial financial or political resources attacks it. All aspects of the network are open source and available without cost, as this should both assure the people using it that the software does what it claims, as well as enable others to contribute and improve upon it to defeat aggressive attempts to stifle free speech. ([http://www.i2p2.de/](http://www.i2p2.de/))
 

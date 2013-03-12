@@ -25,7 +25,7 @@ Setup
 
  ![VPN on Windows](vpn_windows_03.jpg)
 
- 5. The next screen asks us if we want to use our Internet connection or an old-skool phone line to connect to the VPN. Just choose the first option then.
+ 5. The next screen asks us if we want to use our Internet connection or an old-school phone line to connect to the VPN. Just choose the first option then.
 
  ![VPN on Windows](vpn_windows_04.jpg)
 
