@@ -45,7 +45,7 @@ Now you will be asked to choose the size of the hidden volume.
 
  
 
-I have set (as you see above) the maximum size as 10MB. When you have set your maximum size press 'Next >' and you will be promoted to create a password for the hidden volume.
+I have set (as you see above) the maximum size as 10MB. When you have set your maximum size press 'Next >' and you will be prompted to create a password for the hidden volume.
 
 When creating the password for the hidden volume make sure you make it substantially different fro the password for the outer volume. If someone really does access your drive and finds out the password for the outer volume they might try variations on this password to see if there is also a hidden volume. So make sure the two passwords are not alike.
 
