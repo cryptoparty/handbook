@@ -17,7 +17,12 @@ latex-pdf: ${TEX_DIR}/main.tex
 	pdflatex --output-dir=${TEX_DIR} ${TEX_DIR}/main.tex
 
 ${BOOK_DIR}/book.md: ${BUILD_DIR}
-	cat chapter*/*.md > ${BOOK_DIR}/book.md
+	rm -f ${BOOK_DIR}/book.md
+	for file in chapter*/*.md; do \
+		cat "$$file" >> ${BOOK_DIR}/book.md; \
+		echo "" >> ${BOOK_DIR}/book.md; \
+		echo "" >> ${BOOK_DIR}/book.md; \
+	done
 
 combined: ${BOOK_DIR}/book.md
 
