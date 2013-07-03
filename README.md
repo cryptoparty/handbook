@@ -1,7 +1,7 @@
 The CryptoParty Handbook
 ========================
 
-https://cryptoparty.org/wiki/CryptoPartyHandbook
+https://www.cryptoparty.in/documentation/handbook
 
 **Please fork this repo. Add and edit content. Send back pull requests.**
 
