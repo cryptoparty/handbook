@@ -16,6 +16,7 @@ fi
 cat > $DIR/main.tex <<EOF
 \documentclass[oribibl]{scrbook}
 
+\usepackage[T1]{fontenc}
 \usepackage{amsmath,amssymb,latexsym}
 \usepackage{algorithm, algorithmic}
 \usepackage{graphicx}
