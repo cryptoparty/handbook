@@ -1,5 +1,4 @@
 BUILD_DIR=build
-INSTALL_DIR=/path/to/install
 
 TEX_DIR=${BUILD_DIR}/tex
 BOOK_DIR=${BUILD_DIR}/.
@@ -27,8 +26,9 @@ ${BOOK_DIR}/book.md: ${BUILD_DIR}
 combined: ${BOOK_DIR}/book.md
 
 install: combined latex-pdf
-	cp ${TEX_DIR}/main.pdf ${INSTALL_DIR}/cryptoparty-handbook-`date +%F`.pdf
-	cp ${BOOK_DIR}/book.md ${INSTALL_DIR}/cryptoparty-handbook-`date +%F`.md
+	cp ${TEX_DIR}/main.pdf ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.pdf
+	cp ${BOOK_DIR}/book.md ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.md
+	./convert_to_epub.sh
 
 clean: ${BUILD_DIR}
 	rm -Rf ${BUILD_DIR}/*
