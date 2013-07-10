@@ -3,7 +3,7 @@ Proxy Settings
 
 A proxy server allows you to reach a Web site or other Internet location even when direct access is blocked in your country or by your ISP. There are many different kinds of proxies, including:
 
- * Web proxies, which only require that you know the proxy Web site's address. A Web proxy URL may look like `http://www.example.com/cgi-bin/nph-proxy.cgi`
+ * Web proxies, which only require that you know the address to the proxy Web site, which may have a URL similar to `http://proxy.com/cgi-bin/nph-proxy.cgi`
  * HTTP proxies, which require that you modify your Browser settings. HTTP proxies only work for Web content. You may get the information about a HTTP proxy in the format `proxy.example.com:3128` or `192.168.0.1:8080`.
  * SOCKS proxies, which also require that you modify your Browser settings. SOCKS proxies work for many different Internet applications, including e-mail and instant messaging tools. The SOCKS proxy information looks just like HTTP proxy information.
 

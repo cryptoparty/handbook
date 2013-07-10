@@ -18,7 +18,7 @@ This will take you to a page where you can download the Gpg4Win. Click on the bu
 
 ![GPG Windows](gpg_win_2.png)
 
-This will download you an .exe file. Depending on your browser, you may have to double-click on this downloaded file (which will be called something like `gpg4qin-2.1.0.exe`) before something happens. Windows will ask you if you are sure you want to install this program. Answer yes.
+This will download you an .exe file. Depending on your browser, you may have to double-click on this downloaded file (named something like `gpg4qin-2.1.0.exe`) before something happens. Windows will ask you if you are sure you want to install this program. Answer yes.
 
 Then complete the installation by agreeing to the license, choosing appropriate language and accepting the default options by clicking 'Next', unless you have a particular reason not to. 
 

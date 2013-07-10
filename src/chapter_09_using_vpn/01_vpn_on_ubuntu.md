@@ -46,7 +46,7 @@ To install the plugins for Network Manager we will use the Ubuntu Software Cente
 Configuring an OpenVPN network
 ------------------------------
 
-Let's assume you received your configuration files and credentials from your VPN provider. This information should contain the following
+Let us assume you have received your configuration files and credentials from your VPN provider. This information should contain the following
 
  * an *.ovpn file, ex. air.ovpn
  * The file: ca.crt (this file is specific for every OpenVPN provider)
@@ -55,7 +55,7 @@ Let's assume you received your configuration files and credentials from your VPN
 
 In most cases your provider will send these files to you in a zip file. Some openvpn providers use username and password authentication which will not be covered.
 
- 1. Unzip the file you have downloaded to a folder on your hard drive (e.g.: "/home/[yourusername]/.vpn"). You should now have four files. The file "air.ovpn" is the configuration file that you need to import into NetworkManager.
+ 1. Unzip the file you have downloaded to a folder on your hard drive (for example "/home/[yourusername]/.vpn"). You should now have four files. The file "air.ovpn" is the configuration file that you need to import into NetworkManager.
 
  ![VPN on Ubuntu](vpn_ubuntu_008.png)
 

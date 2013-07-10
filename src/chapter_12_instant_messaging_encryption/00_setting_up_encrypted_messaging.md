@@ -45,8 +45,8 @@ Adium is a secure chat client capable of end-to-end encryption. It works with Go
 
 Installing Adium is similar to installing most Mac OS X applications.
 
- 1. Download the Adium disk image from http://www.adium.im/. 
- 2. If an Adium window doesn't open automatically, double click the downloaded file
+ 1. Download the Adium disk image from [http://www.adium.im/](http://www.adium.im/).
+ 2. If an Adium window does not open automatically, double click the downloaded file
  3. Drag the Adium application to your Applications folder.
  4. "Eject" the Adium disk image, which has an icon of a drive
  5. The Adium disk image will still be present in your download folder (probably on your desktop). You can drag this file to the trash, as it is no longer needed.
@@ -63,9 +63,9 @@ Pidgin is a secure chat client capable of end-to-end encryption. It works with G
 
 To use Pidgin with OTR on Windows, you have to install Pidgin and the OTR plugin for Pidgin.
 
- 1. Download the latest version of Pidgin from http://www.pidgin.im/download/windows/
+ 1. Download the latest version of Pidgin for Windows from [http://www.pidgin.im/download/windows/](http://www.pidgin.im/download/windows/)
  2. Run the Pidgin Installer
- 3. Download the latest version of "OTR plugin for Pidgin" from http://www.cypherpunks.ca/otr/#downloads
+ 3. Download the latest version of "OTR plugin for Pidgin" at [http://www.cypherpunks.ca/otr/#downloads](http://www.cypherpunks.ca/otr/#downloads)
  4. Run the OTR Plugin Installer
 
 Now you can use OTR with any account you setup in Pidgin.

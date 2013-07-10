@@ -54,7 +54,7 @@ This doesn't do anything but give you a summary of your options. Press 'Install'
 Installing KeePass on Mac OS X
 ------------------------------
 
-Although Keychain in Mac OS X does an excellent job of storing your passwords, you may want to run your own password database and manager. KeePass allows this added flexibility. First visit the KeePass download webpage (http://keepass.info/download.html) and choose the appropriate installer. Although the official installers are listed at the top of the page, there are unofficial/contributed installers further down. Scroll down to find [KeePass 2.x for Mac OS X](http://keepass2.openix.be/):
+Although Keychain in Mac OS X does an excellent job of storing your passwords, you may want to run your own password database and manager. KeePass allows this added flexibility. First visit the KeePass download webpage [http://keepass.info/download.html](http://keepass.info/download.html) and choose the appropriate installer. Although the official installers are listed at the top of the page, there are unofficial/contributed installers further down. Scroll down to find [KeePass 2.x for Mac OS X][http://keepass2.openix.be/](http://keepass2.openix.be/):
 
 ![Keepass Install](keepass_9.png)
 
@@ -64,7 +64,7 @@ As this is an external link, your browser will be redirected to [http://keepass2
 
 Note here that you must install the Mono framework first, so that KeePass can run in OS X. So click on each of the links [Mono 2.10.5](http://download.mono-project.com/archive/2.10.5/macos-10-x86/0/MonoFramework-MRE-2.10.5_0.macos10.xamarin.x86.dmg) and [KeePass2.18](http://keepass2.openix.be/KeePass2.18.dmg) to download the DMG files to your computer. Double-click on each of the DMGs in your downloads folder to unpack the volumes to your desktop.
 
-The Mono Package installer is called 'MonoFramework-MRE-2.10.5_0.macos10.xamarin.x86.pkg', so double-click on this document in the MonoFramework volume on your desktop:
+The Mono Package installer is in case called something similar to 'MonoFramework-MRE-2.10.5_0.macos10.xamarin.x86.pkg', so double-click on this document:
 
 ![Keepass Install](keepass_11.png)
 

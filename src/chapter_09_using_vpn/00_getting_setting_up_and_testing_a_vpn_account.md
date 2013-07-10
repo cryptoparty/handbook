@@ -43,7 +43,7 @@ Once you obtain access to your VPN account the server generates those keys and y
  * **ca.crt** (unless in configuration file) - root authority certificate of your VPN server, used to sign and check other keys issued by the provider.
  * **client.crt** (unless in configuration file) - your client certificate, allows you to communicate with VPN server.
 
-Based on a particular configuration, your VPN provider might require a username/password pair to authenticate your connection. Often, for convenience, the username and password can be saved into a separate file or added to the main configuration file. In other cases, key-based authentication is used, and the key is stored in a separate file:
+Based on a particular configuration, your VPN provider might require a username and password to authenticate your connection. Often, for convenience, these can be saved into a separate file or added to the main configuration file. In other cases, key-based authentication is used, and the key is stored in a separate file:
 
  * **client.key** (unless in configuration file) - client authentication key, used to authenticate to the VPN server and establish an encrypted data channel.
 
