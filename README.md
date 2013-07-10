@@ -20,7 +20,7 @@ On Ubuntu all prerequisites can be installed with the following line:
 
 Compiling The Handbook
 ----------------------
-In order to build the handbook artifacts (PDF, LaTeX, EPUB) execute the following:
+In order to build the handbook artifacts (PDF, LaTeX, EPUB) execute the following from the src/ folder:
 
     make clean
     make install
