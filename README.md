@@ -20,6 +20,7 @@ On Ubuntu all prerequisites can be installed with the following line:
 
 Compiling The Handbook
 ----------------------
+Following successful installation of the prerequisites and compilation of the handbook source, you should have a fresh pdf, epub and markdown version of the handbook created in the rot directory.
     make clean
     make install
 

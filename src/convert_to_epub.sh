@@ -16,7 +16,7 @@ pandoc book.md -o book.epub
 #change the filename
 cp book.epub ../cryptoparty-handbook-`date +%F`.epub
 
-rm ./book.md
+#rm ./book.md #commenting this out in order to leave a copy of the combined markdown in the /src directory
 rm ./book.epub
 
 #cleanup all the symlinks
