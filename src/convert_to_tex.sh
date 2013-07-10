@@ -24,18 +24,18 @@ cat > $DIR/main.tex <<EOF
 \usepackage{paralist}
 \usepackage{eurosym}
 \usepackage{placeins}
+\usepackage{pdfpages}
 
 \let\stdsection\section
 \renewcommand*{\section}{\FloatBarrier\stdsection}
 \let\stdsubsection\subsection
 \renewcommand*{\subsection}{\FloatBarrier\stdsubsection}
 
+
 \begin{document}
+\includepdf{cover}
+\cleardoublepage
 
-\title{The Cryptoparty Handbook}
-\author{Various authors}
-
-\maketitle
 \tableofcontents
 \clearpage
 EOF

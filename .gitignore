@@ -1,6 +1,6 @@
 src/build
 .project
-*.pdf
-*.mobi
-*.epub
+/*.pdf
+/*.mobi
+/*.epub
 /*.md
