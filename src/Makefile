@@ -29,6 +29,7 @@ install: combined latex-pdf
 	cp ${TEX_DIR}/main.pdf ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.pdf
 	cp ${BOOK_DIR}/book.md ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.md
 	./convert_to_epub.sh
+	sha256sum book.md > SHA256SUM
 
 clean: ${BUILD_DIR}
 	rm -Rf ${BUILD_DIR}/*
