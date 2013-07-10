@@ -5,3 +5,5 @@ src/build
 /*.epub
 /*.md
 /SHA256SUM
+/metadata.opf
+/cover.jpg
