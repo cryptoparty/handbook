@@ -18,11 +18,10 @@ On Ubuntu all prerequisites can be installed with the following line:
 
     sudo apt-get install build-essential pandoc texlive-full
 
-Compiling the handbook
+Compiling The Handbook
 ----------------------
     make clean
     make install
-
 
 Peer Review Process
 -------------------

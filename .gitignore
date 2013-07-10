@@ -1,2 +1,5 @@
 src/build
 .project
+*.pdf
+*.mobi
+*.epub
