@@ -27,7 +27,10 @@ combined: ${BOOK_DIR}/book.md
 
 install: combined latex-pdf
 	cp ${TEX_DIR}/main.pdf ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.pdf
+	touch ${BOOK_DIR}/../../SHA256SUM
+	sha256sum ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.pdf >> ${BOOK_DIR}/../../SHA256SUM
 	cp ${BOOK_DIR}/book.md ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.md
+	sha256sum ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.md >> ${BOOK_DIR}/../../SHA256SUM
 	./convert_to_epub.sh
 	sha256sum book.md > SHA256SUM
 

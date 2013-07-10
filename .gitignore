@@ -4,3 +4,4 @@ src/build
 /*.mobi
 /*.epub
 /*.md
+/SHA256SUM
