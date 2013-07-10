@@ -20,7 +20,7 @@ cat > $DIR/main.tex <<EOF
 \usepackage{algorithm, algorithmic}
 \usepackage{graphicx}
 \usepackage{varioref}
-\usepackage{hyperref}
+\usepackage{hyperref, url}
 \usepackage{paralist}
 \usepackage{eurosym}
 \usepackage{placeins}
@@ -54,5 +54,10 @@ for d in chapter*; do
 \\input{$f.tex}" >> $DIR/main.tex
 	done
 done
+# There are many links in the book where the link text is the same as the
+# target URL. This attempts to avoid too many overfull hboxen by replacing
+# those occurences with a single \url call. We assume that if the link text
+# starts with http, then it's the same as the link.
+sed -ie 's/\\href{http\([^}]*\)}{http[^}]*}/\\url{http\1}/' $DIR/*/*.tex
 
 echo '\end{document}' >> $DIR/main.tex
