@@ -9,7 +9,7 @@ Comments and questions about handbook content are more than welcome, please subm
 
 Prerequisites
 -------------
-For building the handbook artifacts (PDF, LaTeX, etc...) the following prerequisites are required:
+For building the handbook artifacts (PDF, LaTeX, EPUB etc...) the following prerequisites are required:
  - GNU make
  - pandoc
  - pdflatex
@@ -20,7 +20,8 @@ On Ubuntu all prerequisites can be installed with the following line:
 
 Compiling The Handbook
 ----------------------
-Following successful installation of the prerequisites and compilation of the handbook source, you should have a fresh pdf, epub and markdown version of the handbook created in the rot directory.
+In order to build the handbook artifacts (PDF, LaTeX, EPUB) execute the following:
+
     make clean
     make install
 
