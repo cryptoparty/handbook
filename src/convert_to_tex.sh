@@ -59,5 +59,6 @@ done
 # those occurences with a single \url call. We assume that if the link text
 # starts with http, then it's the same as the link.
 sed -ie 's/\\href{http\([^}]*\)}{http[^}]*}/\\url{http\1}/' $DIR/*/*.tex
+sed -ie 's/\\includegraphics/&[scale=0.92]/' $DIR/*/*.tex
 
 echo '\end{document}' >> $DIR/main.tex
