@@ -24,6 +24,15 @@ In order to build the handbook artifacts (PDF, LaTeX, EPUB) execute the followin
 
     make clean
     make install
+    
+Getting the Handbook on a Kindle
+--------------------------------
+
+1. Import the EPUB file into your Calibre Library.
+2. Use Calibre's converter to convert EPUB to MOBI
+3. Attach your kindle by USB cable, send the MOBI wirelessly to the Kindle.
+2. [optional] If you want the coverart then a bit more advanced hacking in Calibre is required 
+3. [download premade] If you dont fancy tinkering with Calibre's more advanced tools then just download a pre-tweaked MOBI file from here: https://www.cryptoparty.in/documentation/handbook#cryptopartyhandbook_for_kindle
 
 Peer Review Process
 -------------------
