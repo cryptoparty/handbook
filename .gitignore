@@ -3,4 +3,4 @@ src/build
 *.pdf
 *.mobi
 *.epub
-*.md
+/*.md
