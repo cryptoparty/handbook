@@ -30,7 +30,7 @@ So now fill this form out with the details so you can correctly identify which e
 
 ![Password Manager](mng_5.png)
 
-KeePassX gives some indication if the passwords you are using are 'strong' or 'weak'...you should try and make passwords stronger and for advice on this read the chapter about creating good passwords. Press 'OK' when you are done and you will see something like this:
+KeePassX gives some indication if the passwords you are using are 'strong' or 'weak'. As may be obvious, you should try to use stronger passwords. For advice on this see the chapter on creating good passwords. Press 'OK' when you are done and you will see something like this:
 
 ![Password Manager](mng_6.png)
 
@@ -59,7 +59,7 @@ The next screen will ask you for the master password. Enter the password and cli
 
 ![Password Manager](mng_10.png)
 
-The next window allows you to add special configuration settings for your new database. We do not need to edit anything. Just click on 'OK'.
+The next window allows you to configure your new database. We do not need to edit anything. Just click on 'OK'.
 
 ![Password Manager](mng_11.png)
 

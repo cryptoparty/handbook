@@ -5,7 +5,7 @@ The only safe way of encrypting email inside of the browser window is to encypt 
 
 For example, write the text in a text editor like gedit, vim or kate and save it as .txt file (in this example "message.txt". Then type
 
-    gpg -ase -r the.recipients.email.address@or.gpg.id -r your.gpg.id message.txt
+    gpg -ase -r <recipients email/gpg id> -r <your gpg id> message.txt
 
 A new file called "message.asc" will be created. It contains the encrypted message and can thus be either attached to an email or its content safely copy & pasted into the browser window.
 

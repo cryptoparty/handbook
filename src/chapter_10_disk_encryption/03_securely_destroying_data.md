@@ -153,6 +153,6 @@ It is possible make access to these program's easy by adding it as an extra menu
 
  Choose 'Delete File Securely'. The file will then be wiped 'quietly' - you do not get any feedback or notice that the process has started or stopped. However the process is underway. It takes some time to securely delete data and the bigger the file the longer it takes. When it is complete the icon for the file to be wiped will disappear. If you would like to add some feedback you can change the parameters field in Nautilius Actions Configuration tool to this:
 
- `-rf %M | zenity --info --text "your wipe is underway please be patient. The icon of the file to be wiped will disappear shortly."`
+ `-rf %M | zenity --info --text "your wipe is underway, please be patient. The file to be wiped will disappear shortly."`
 
  The above line will tell you the process is underway but you will not know the file is deleted until the icon disappears. 

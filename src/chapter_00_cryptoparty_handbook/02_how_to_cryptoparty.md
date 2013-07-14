@@ -45,7 +45,7 @@ How To CryptoParty
 
  * Encourage a culture of sharing. Encourage advanced users to help not-so advanced ones. Delegate.
 
- * Use online meeting platforms like mumble (e.g. #cryptoparty room on http://occupytalk.org/) when physical meetups are not possible or impractical.
+ * Use online meeting platforms like mumble, or even chatrooms (e.g. #cryptoparty room on http://occupytalk.org/) when physical meetups are not possible or impractical.
 
  * Copy from other cryptoparties. Remix, Reuse and Share. Create a basket of old devices people are willing to donate to more needy CryptoPartiers. 
 

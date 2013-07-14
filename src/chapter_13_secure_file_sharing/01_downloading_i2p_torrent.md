@@ -25,4 +25,4 @@ the file will be downloaded inside the **/home/user/.i2p/i2psnark** folder.
 
 * Since I2P is a closed network, you can't download normal torrents found on regular internet with it, and it can't be used to make downloading them anonymous!
 
-* The speed seems to be a little bit lower than usual which is caused by the anonymization. I think that the download rates are still acceptable if you consider that you download and share anonymously.
+* The speed seems to be slightly lower than usual which is caused by the anonymization. I think that the download rates are still acceptable if you consider that you download and share anonymously.

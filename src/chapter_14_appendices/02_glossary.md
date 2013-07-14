@@ -568,7 +568,7 @@ RSS is a method and protocol for allowing Internet users to subscribe to content
 scheme
 ------
 
-On the Web, a scheme is a mapping from a name to a protocol. Thus the HTTP scheme maps URLs that begin with HTTP: to the Hypertext Transfer Protocol. The protocol determines the interpretation of the rest of the URL, so that http://www.example.com/dir/content.html identifies a Web site and a specific file in a specific directory, and mailto:user@somewhere.com is an e-mail address of a specific person or group at a specific domain.
+On the Web, a scheme is a mapping from a name to a protocol. Thus the HTTP scheme maps URLs that begin with HTTP: to the Hypertext Transfer Protocol. The protocol determines the interpretation of the rest of the URL, so that [http://www.example.com/dir/content.html](http://www.example.com/dir/content.html) identifies a Web site and a specific file in a specific directory, and [mailto:user@somewhere.com](mailto:user@somewhere.com) is an e-mail address of a specific person or group at a specific domain.
 
 shell
 -----
@@ -665,7 +665,7 @@ UDP is an alternate protocol used with IP. Most Internet services can be accesse
 URL (Uniform Resource Locator)
 ------------------------------
 
-The URL (Uniform Resource Locator) is the address of a Web site. For example, the URL for the World News section of the NY Times is http://www.nytimes.com/pages/world/index.html. Many censoring systems can block a single URL. Sometimes an easy way to bypass the block is to obscure the URL. It is for example possible to add a dot after the site name, so the URL http://en.cship.org/wiki/URL becomes http://en.cship.org./wiki/URL. If you are lucky with this little trick you can access blocked Web sites.
+The URL (Uniform Resource Locator) is the address of a Web site. For example, the URL for the World News section of the NY Times is [http://www.nytimes.com/pages/world/index.html](http://www.nytimes.com/pages/world/index.html).  Many censoring systems can block a single URL. Sometimes an easy way to bypass the block is to obscure the URL. It is for example possible to add a dot after the site name, so the URL `http://en.cship.org/wiki/URL` becomes `http://en.cship.org./wiki/URL.` If you are lucky with this little trick you can access blocked Web sites.
 
 Usenet
 ------
