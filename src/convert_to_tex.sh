@@ -26,11 +26,13 @@ cat > $DIR/main.tex <<EOF
 \usepackage{eurosym}
 \usepackage{placeins}
 \usepackage{pdfpages}
+\usepackage{tocloft}
 
 \let\stdsection\section
 \renewcommand*{\section}{\FloatBarrier\stdsection}
 \let\stdsubsection\subsection
 \renewcommand*{\subsection}{\FloatBarrier\stdsubsection}
+\renewcommand{\cftsubsecnumwidth}{3.8em}
 
 
 \begin{document}
