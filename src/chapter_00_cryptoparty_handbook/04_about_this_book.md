@@ -1,7 +1,7 @@
 About This Book
 ===============
 
-The CryptoParty Handbook was born from a suggestion by Marta Peirano ([http://petitemedia.es](http://petitemedia.es)) and Adam Hyde ([http://booksprints.net](http://booksprints.net)) after the first Berlin CryptoParty, held on the 29th of August, 2012. Julian Oliver ([http://julianoliver.com](http://julianoliver.com)) and Danja Vasiliev ([http://k0a1a.net](http://k0a1a.net)), co-organisers of the Berlin CryptoParty along with Marta were very enthusiastic about the idea, seeing a need for a practical working book with a low entry-barrier to use in subsequent parties. Asher Wolf, originator of the Crypto Party movement, was then invited to run along and the project was born.
+The CryptoParty Handbook was born from a suggestion by Marta Peirano ([http://petitemedia.es](http://petitemedia.es)) and Adam Hyde ([http://booksprints.net](http://booksprints.net)) after the first Berlin CryptoParty, held on the 29th of August, 2012. Julian Oliver ([http://julianoliver.com](http://julianoliver.com)) and Danja Vasiliev ([http://k0a1a.net](http://k0a1a.net)), co-organisers of the Berlin CryptoParty along with Marta were very enthusiastic about the idea, seeing a need for a practical working book with a low entry-barrier to use in subsequent parties. Asher Wolf, originator of the CryptoParty movement, was then invited to run along and the project was born.
 
 This book was written in the first 3 days of October 2012 at Studio Weise7, Berlin, surrounded by fine food and a small ocean of coffee. Approximately 20 people were involved in its creation, some more than others, some local and some far.
 

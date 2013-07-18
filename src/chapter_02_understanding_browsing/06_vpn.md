@@ -23,6 +23,8 @@ Another interesting and often underrated features of VPN is encoded in its name 
 > "A virtual private network (VPN) extends a private network across a public network, such as the Internet. It enables a computer to send and receive data across shared or public networks as if it were directly connected to the private network, while benefitting from the
  functionality, security and management policies of the private network."([http://en.wikipedia.org/wiki/Virtual_private_network](http://en.wikipedia.org/wiki/Virtual_private_network))
 
-Many commercial VPN providers stress the anonymity that their service provides. Quoting Ipredator.org page (a VPN service started by the people behind The Pirate Bay project): "You'll exchange the IP address you get from your ISP for an anonymous IP address. You get a safe/encrypted connection between your computer and the Internet". Indeed, when you access the Internet via a VPN connection it does appear as if the connection is originating from the IP address of IPredator servers.
+Many commercial VPN providers stress the anonymity that their service provides. Quoting Ipredator.org page (a VPN service started by the people behind The Pirate Bay project):
 
-> "You'll exchange the IP address you get from your ISP for an anonymous IP address. You get a safe/encrypted connection between your computer and the Internet." ([https://www.ipredator.se](https://www.ipredator.se))
+> "You'll exchange the IP address you get from your ISP for an anonymous IP address. You get a safe/encrypted connection between your computer and the Internet". ([https://www.ipredator.se](https://www.ipredator.se))
+
+Indeed, when you access the Internet via a VPN connection it does appear as if the connection is originating from the IP address of IPredator servers.

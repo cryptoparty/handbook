@@ -84,7 +84,7 @@ In **Internet Explorer**:
  
     ![IE Private Browsing](ie_private_browsing_02.png)
 
-This solution also has its limitations. We cannot save bookmarks, remember passwords, or take advantage of much of convenience offered by modern browsers. Thankfully, there are several plugins specially designed to address the problems of tracking. The most extensive, in terms of features and flexibility, is Ghostery. The plugin allows you to block categories or individual services that track users. Here's how you install Ghostery:
+This solution also has its limitations. We cannot save bookmarks, remember passwords, or take advantage of much of the convenience offered by modern browsers. Thankfully, there are several plugins specially designed to address the problems of tracking. The most extensive, in terms of features and flexibility, is Ghostery. The plugin allows you to block categories or individual services that track users. Here's how you install Ghostery:
 
  1. In Firefox, click the **Firefox** menu and select **Add-ons**.
  
