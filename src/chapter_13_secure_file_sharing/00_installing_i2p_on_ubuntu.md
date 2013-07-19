@@ -1,4 +1,3 @@
-
 Installing I2P on Ubuntu Lucid Lynx (and newer) and derivatives like Linux Mint & Trisquel
 ===========================================================================================
 
