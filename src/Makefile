@@ -33,6 +33,9 @@ install: combined latex-pdf
 	sha256sum ${BOOK_DIR}/../../cryptoparty-handbook-`date +%F`.md >> ${BOOK_DIR}/../../SHA256SUM
 	./convert_to_epub.sh
 	sha256sum book.md > SHA256SUM
+	./convert_to_html.sh
 
 clean: ${BUILD_DIR}
 	rm -Rf ${BUILD_DIR}/*
+	rm -Rf ${BUILD_DIR}/../cryptoparty-handbook-html
+	find -type l -delete

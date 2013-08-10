@@ -34,7 +34,7 @@ Sixteen years later, and the Internet has changed the way we live our lives. It 
 
 Unfortunately, not all of John Perry Barlow's vision has come to pass. Without access to online anonymity, we can not be free from privilege or prejudice. Without privacy, free expression is not possible.
 
-The problems we face in the 21st Century require all of humanity to work together. The issues we face are are serious: climate change, energy crises, state censorship, mass surveillance and on-going wars. We must be free to communicate and associate without fear. We need to support free and open source projects which aim to increase the commons' knowledge of technologies that we all depend on [http://opensourceecology.org/wiki](http://opensourceecology.org/wiki) Contribute!
+The problems we face in the 21st Century require all of humanity to work together. The issues we face are are serious: climate change, energy crises, state censorship, mass surveillance and on-going wars. We must be free to communicate and associate without fear. We need to support free and open source projects which aim to increase the commons' knowledge of technologies that we depend on [http://opensourceecology.org/wiki](http://opensourceecology.org/wiki) Contribute!
 
 To realise our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online.
 
@@ -105,7 +105,7 @@ How To CryptoParty
 
  * Encourage a culture of sharing. Encourage advanced users to help not-so advanced ones. Delegate.
 
- * Use online meeting platforms like mumble (e.g. #cryptoparty room on http://occupytalk.org/) when physical meetups are not possible or impractical.
+ * Use online meeting platforms like mumble, or even chatrooms (e.g. #cryptoparty room on http://occupytalk.org/) when physical meetups are not possible or impractical.
 
  * Copy from other cryptoparties. Remix, Reuse and Share. Create a basket of old devices people are willing to donate to more needy CryptoPartiers. 
 
@@ -167,7 +167,7 @@ While we encourage you to be active politically to maintain your right to privac
 About This Book
 ===============
 
-The CryptoParty Handbook was born from a suggestion by Marta Peirano ([http://petitemedia.es](http://petitemedia.es)) and Adam Hyde ([http://booksprints.net](http://booksprints.net)) after the first Berlin CryptoParty, held on the 29th of August, 2012. Julian Oliver ([http://julianoliver.com](http://julianoliver.com)) and Danja Vasiliev ([http://k0a1a.net](http://k0a1a.net)), co-organisers of the Berlin CryptoParty along with Marta were very enthusiastic about the idea, seeing a need for a practical working book with a low entry-barrier to use in subsequent parties. Asher Wolf, originator of the Crypto Party movement, was then invited to run along and the project was born.
+The CryptoParty Handbook was born from a suggestion by Marta Peirano ([http://petitemedia.es](http://petitemedia.es)) and Adam Hyde ([http://booksprints.net](http://booksprints.net)) after the first Berlin CryptoParty, held on the 29th of August, 2012. Julian Oliver ([http://julianoliver.com](http://julianoliver.com)) and Danja Vasiliev ([http://k0a1a.net](http://k0a1a.net)), co-organisers of the Berlin CryptoParty along with Marta were very enthusiastic about the idea, seeing a need for a practical working book with a low entry-barrier to use in subsequent parties. Asher Wolf, originator of the CryptoParty movement, was then invited to run along and the project was born.
 
 This book was written in the first 3 days of October 2012 at Studio Weise7, Berlin, surrounded by fine food and a small ocean of coffee. Approximately 20 people were involved in its creation, some more than others, some local and some far.
 
@@ -178,8 +178,20 @@ The open source, web-based (HTML5 and CSS) writing platform BookType ([http://bo
 Combined, this became the official CryptoParty Handbook by midnight October the 3rd, GMT+1.
 
 The Book Sprint was 3 days in length and the full list of onsite participants included:
-
-Adam Hyde (facilitator), Marta Peirano, Julian Oliver, Danja Vasiliev, Asher Wolf ([http://cryptoparty.org](http://cryptoparty.org)), Jan Gerber, Malte Dik, Brian Newbold, Brendan Howell ([http://wintermute.org](http://wintermute.org), AT, Carola Hesse, Chris Pinchen ([http://chokepointproject.net/](http://chokepointproject.net)). Cover art (illustrations to come) by Emile Denichaud ([http://about.me/denichaud](http://about.me/denichaud))
+ 
+ * Adam Hyde (facilitator)
+ * Marta Peirano
+ * Julian Oliver
+ * Danja Vasiliev
+ * Asher Wolf ([http://cryptoparty.org](http://cryptoparty.org))
+ * Jan Gerber
+ * Malte Dik
+ * Brian Newbold
+ * Brendan Howell ([http://wintermute.org](http://wintermute.org)
+ * AT
+ * Carola Hesse
+ * Chris Pinchen ([http://chokepointproject.net/](http://chokepointproject.net)). 
+ * Cover art by Emile Denichaud ([http://about.me/denichaud](http://about.me/denichaud))
 
 This version of the handbook has since moved to github to collaboratively edit it. Find it at [https://github.com/cryptoparty/handbook](https://github.com/cryptoparty/handbook).
 If you see areas that need improvement or simply come across a typo, create a github account and start editing, commenting or creating issues. For help using git and github, see [https://help.github.com/](https://help.github.com/).
@@ -224,7 +236,7 @@ The manuals used in the second half of this book borrow from 2 books sprinted by
 
  * "Basic Internet Security" 2011 Adam Hyde (Facilitator), Jan Gerber, Dan Hassan, Erik Stein, Sacha van Geffen, Mart van Santen, Lonneke van der Velden, Emile den Tex and Douwe Schmidt
 
-The CryptoPart Handbook content is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
+All content in the CryptoParty Handbook is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
 
 All chapters © the contributors unless otherwise noted below.
 
@@ -274,7 +286,9 @@ Cache Cunning
 Here again convenience quickly paves the road to bad places. Due to the general annoyance of having to type in your password over and over again, you ask the browser or local mail client to store it for you. This is not bad in itself, but when a laptop or phone gets stolen, it enables the thief to access the owner's email account(s). The best practice is to clear this cache every time you close your browser. All popular browsers have an option to clear this cache on exit. 
 
 One basic precaution can justify you holding onto your convenient cache: disk encryption. If your laptop is stolen and the thief reboots the machine, they'll be met with an encrypted disk. It is also wise to have a screen lock installed on your computer or phone. If the machine is taken from you while still running your existing browsing session, it cannot be accessed.
+
 Securing your communication
+---------------------------
 
 Whenever you write and send email in a browser or use an email program (Outlook Express, Mozilla Thunderbird, Mail.app or Mutt), you should always ensure to use encryption for the entire session. This is easily done due to the popular use of *TLS/SSL (Secure Socket Layer)* connections by email servers (See glossary **TLS/SSL**).
 
@@ -503,7 +517,7 @@ Your browser talks about you behind your back
 
 All browsers communicate information to the web server serving you a web page. This information includes name and version of the browser, referral information (a link on another site, for instance) and the operating system used.
 
-Websites often use this information to customise your browsing experience, suggesting downloads for your operating system and formatting the web page to better fit your browser. Naturally however, this presents an issue as regards the user's own anonymity as this information becomes part of a larger body of data that can be used to identify you individually.
+Websites often use this information to customise your browsing experience, suggesting downloads for your operating system and formatting the web page to better fit your browser. Naturally however, this presents an issue and regards the user's own anonymity as this information becomes part of a larger body of data that can be used to identify you individually.
 
 Stopping the chatter of your browser is not easily done. You can, however, falsify some of the information sent to web servers while you browse by altering data contained in the *User Agent*, the browser's identity. There is a very useful plugin for Firefox, for instance, called *User Agent Switcher* that allows you to set the browser identity to another profile selected from a drop down list of options.
 
@@ -546,6 +560,7 @@ Beyond the desire to minimise privacy leakage to specific service providers, you
 *Tor* uses an ever evolving network of nodes to route your connection to a site in a way that cannot be traced back to you. It is a very robust means of ensuring your Internet address cannot be logged by a remote server. See the chapter **Anonymity** for more information about how this works and how to get started with Tor.
 
  
+
 
 Fears
 =====
@@ -792,7 +807,7 @@ In **Internet Explorer**:
  
     ![IE Private Browsing](ie_private_browsing_02.png)
 
-This solution also has its limitations. We cannot save bookmarks, remember passwords, or take advantage of much of convenience offered by modern browsers. Thankfully, there are several plugins specially designed to address the problems of tracking. The most extensive, in terms of features and flexibility, is Ghostery. The plugin allows you to block categories or individual services that track users. Here's how you install Ghostery:
+This solution also has its limitations. We cannot save bookmarks, remember passwords, or take advantage of much of the convenience offered by modern browsers. Thankfully, there are several plugins specially designed to address the problems of tracking. The most extensive, in terms of features and flexibility, is Ghostery. The plugin allows you to block categories or individual services that track users. Here's how you install Ghostery:
 
  1. In Firefox, click the **Firefox** menu and select **Add-ons**.
  
@@ -901,11 +916,14 @@ Imagine that instead of having to trust your data to every single middle-man (yo
 
 Another interesting and often underrated features of VPN is encoded in its name - besides being **V**irtual and **P**rivate it is also a **N**etwork. VPN allows one not only to connect via the VPN server to the rest of the world but also to communicate to other members of the same VPN network without ever having to leave the safety of encrypted space. Through this functionality Virtual Private Network becomes something like a *DarkNet* (in a broader sense of the definition) - a network isolated from the Internet and inaccessible to "others". Since a connection to VPN server, and thus the private network it facilitates, require a key or a *certificate*, only "invited" users are allowed. There is no chance that Internet stranger would gain access to what's on a VPN without enrolling as a user or stealing someones keys. While not referred to as such, any corporate Intranet type of network is a DarkNet too.
 
-> "A virtual private network (VPN) is a technology for using the Internet or another intermediate network to connect computers to isolated remote computer networks that would otherwise be inaccessible.."([http://en.wikipedia.org/wiki/Virtual_private_network](http://en.wikipedia.org/wiki/Virtual_private_network))
+> "A virtual private network (VPN) extends a private network across a public network, such as the Internet. It enables a computer to send and receive data across shared or public networks as if it were directly connected to the private network, while benefitting from the
+ functionality, security and management policies of the private network."([http://en.wikipedia.org/wiki/Virtual_private_network](http://en.wikipedia.org/wiki/Virtual_private_network))
 
-Many commercial VPN providers stress the anonymity that their service provides. Quoting Ipredator.org page (a VPN service started by the people behind The Pirate Bay project): "You'll exchange the IP address you get from your ISP for an anonymous IP address. You get a safe/encrypted connection between your computer and the Internet". Indeed, when you access the Internet via a VPN connection it does appear as if the connection is originating from the IP address of IPredator servers.
+Many commercial VPN providers stress the anonymity that their service provides. Quoting Ipredator.org page (a VPN service started by the people behind The Pirate Bay project):
 
-> "You'll exchange the IP address you get from your ISP for an anonymous IP address. You get a safe/encrypted connection between your computer and the Internet." ([https://www.ipredator.se](https://www.ipredator.se))
+> "You'll exchange the IP address you get from your ISP for an anonymous IP address. You get a safe/encrypted connection between your computer and the Internet". ([https://www.ipredator.se](https://www.ipredator.se))
+
+Indeed, when you access the Internet via a VPN connection it does appear as if the connection is originating from the IP address of IPredator servers.
 
 
 Publishing Anonymously
@@ -972,7 +990,7 @@ The content of your message can give away your identity. If you mention details 
 
 You should not use the same user name for different accounts or use a name that you are already linked to like a childhood nickname or a favorite book character. You should never use your secret email for normal personal communication. If someone knows your secrets, do not communicate with that person using this email address. If your life depends on it, change your secret email address often as well as between providers.
 
-Finally, once you have your whole your email set up to protect your identity, vanity is your worst enemy. You need to avoid being distinct. Don't try to be clever, flamboyant or unique. Even the way you break your paragraphs is valuable data for identification, especially these days when every school essay and blog post you have written is available in the Internet. Powerful organizations can actually use these texts to build up a database that can "fingerprint" writing.
+Finally, once you have your whole email set up to protect your identity, vanity is your worst enemy. You need to avoid being distinct. Don't try to be clever, flamboyant or unique. Even the way you break your paragraphs is valuable data for identification, especially these days when every school essay and blog post you have written is available in the Internet. Powerful organizations can actually use these texts to build up a database that can "fingerprint" writing.
 
 
 File Sharing
@@ -988,7 +1006,7 @@ This has recently been demonstrated by the takedown of the direct download servi
 
 Spreading files through distribution, decentralising the data, is the best way to defend against such attacks. In the following section two realms of filesharing are profiled. The first are standard p2p technologies whose technical design is determined by the efficiency of the networks in enabling speed of distribution and discovery of content through associated search mechanisms. The second focuses on I2P as an example of a so-called darknet, its design prioritises security and anonymity over other criteria offering a robust, if less resource efficient, path to persistent availability.
 
-The means of sharing files mentioned below are just some examples of the many P2P technologies that were developed since 1999. BitTorrent and Soulseek have very different approaches, both however were designed for easy usability by a wide public and have significant user communities. I2P is of more recent development, has a small user base.
+The means of sharing files mentioned below are just some examples of the many P2P technologies that were developed since 1999. BitTorrent and Soulseek have very different approaches, both however were designed for easy usability by a wide public and have significant user communities. I2P is of more recent development and has a small user base.
 
 **BitTorrent** has become the most popular P2P file-sharing system. The controversy that surrounds it nowadays ironically seems to help the community grow, while police, lobbied by powerful copyright holders seize torrent-tracker server hardware and pursue their operators, sometimes to the point of jailing them as in the case of The Pirate Bay.
 
@@ -1009,7 +1027,7 @@ A *Magnet Link* does away with the need for a torrent file and is essentially a 
 
 BitTorrent uses encryption to prevent providers and other man-in-the-middle from blocking and sniffing your traffic based on the content you exchange. Since BitTorrent swarms (flocks of seeders and leechers) are free for everyone to join it is possible for anyone to join a swarm and gather information about all connected peers. Using magnet links will not prevent you from being seen in a swarm; any of the nodes sharing the same file must communicate between each-other and thus, if just one of the nodes in your swarm is rogue, it will be able to see your IP address. It will also be able to determine if you are seeding the data by sending your node a download request.
 
-One important aspect of using BitTorrent is worth a special mention. Every chunk of data that you receive (leech) is being instantly shared (seeded) with other BitTorrent users. Thus, a process of downloading transforms into a process of (involuntary) publishing, using a legal term - *making available* of that data, before the download is even complete. While BitTorrent is often used to re-distribute freely available and legitimate software, moves, music and other materials, its "making available" capacity created a lot of controversy and led to endless legal battles between copyright holders and facilitators of BitTorrent platforms. At the moment of writing this text, the co-founder of *The Pirate Bay* Gottfrid Svartholm is being detained by Swedish police after an international warrant was issued against him.
+One important aspect of using BitTorrent is worth a special mention. Every chunk of data that you receive (leech) is being instantly shared (seeded) with other BitTorrent users. Thus, a process of downloading transforms into a process of (involuntary) publishing, using a legal term - *making available* of that data, before the download is even complete. While BitTorrent is often used to re-distribute freely available and legitimate software, movies, music and other materials, its "making available" capacity created a lot of controversy and led to endless legal battles between copyright holders and facilitators of BitTorrent platforms. At the moment of writing this text, the co-founder of *The Pirate Bay* Gottfrid Svartholm is being detained by Swedish police after an international warrant was issued against him.
 
 For these reasons, and a public relations campaign by copyright holders, use of BitTorrent platforms has become practically analogous to piracy. And while the meaning of terms such as piracy, copyright and ownership in digital context is yet to be settled, many ordinary BitTorrent users have been already prosecuted on the basis of breaking copyright laws.
 
@@ -1042,7 +1060,7 @@ The list of search results shows details, such as the full name and path of the 
 
 Unlike BitTorrent, Soulseek does not support multi-source downloading or "swarming" like other post-Napster clients, and must fetch a requested file from a single source.
 
-While the Soulseek software is free, a donation scheme exists to support the programming effort and cost of maintaining the servers. In return for donations, users are granted the privilege of being able to jump ahead of non-donating users in a queue when downloading files (but only if the files are not shared over a local area network). The Soulseek protocol search algorithms are not published, as those algorithms run on the server. However several Open Source implementations of server and client software exits for Linux, OS X and Windows.
+While the Soulseek software is free, a donation scheme exists to support the programming effort and cost of maintaining the servers. In return for donations, users are granted the privilege of being able to jump ahead of non-donating users in a queue when downloading files (but only if the files are not shared over a local area network). The Soulseek protocol search algorithms are not published, as those algorithms run on the server. However several Open Source implementations of server and client software exist for Linux, OS X and Windows.
 
 Regarding privacy and copyright issues Soulseek stand quite far away from BitTorrent too. Soulseek has been taken to court only once, in 2008, but even that did not go anywhere. There are no indications of Soulseek users ever being brought to court or accused of illegal distribution of copyrighted materials or any other 'digital-millenium' crimes.
 
@@ -1067,7 +1085,7 @@ A solution to this problem is to make encrypted calls using Voice over IP (VoIP)
 
 As regards platforms, Android has a wider range of open source VoIP software, largely because Apple's AppStore licensing model prohibits distribution of software released under the *General Public License* (approximately 60% of all open source software released). The GPL is very popular in the security and networking community.
 
-At the time of writing iPhone users have only non-open-source options available for purchase, like *Groundwire* [http://www.acrobits.cz/11/acrobits-groundwire-for-iphone](http://www.acrobits.cz/11/acrobits-groundwire-for-iphone). **Warning: as it is not open, the security of Groundwire cannot be assured!**
+At the time of writing iPhone users only have proprietary options available for purchase, like *Groundwire* [http://www.acrobits.cz/11/acrobits-groundwire-for-iphone](http://www.acrobits.cz/11/acrobits-groundwire-for-iphone). **Warning: as it is not open, the security of Groundwire cannot be assured!**
 
 Android users head over to the section **Call Encryption** to get started making secure VoIP calls.
 
@@ -1286,7 +1304,7 @@ Thunderbird provides additional security measures to protect you from junk mail,
 We will look at the following Thunderbird security features. First a little background on why you need to consider some of these measures:
 
  * **Adaptive junk mail controls**. Adaptive junk mail controls allow you to train Thunderbird to identify junk email (SPAM) and remove it from your inbox. You can also mark messages as junk mail manually if your email provider's system misses the junk mail and lets it go through.
- * **Integration with anti-virus software.** If your anti-virus software supports Thunderbird, you can use that software to quarantine messages that contain viruses or other malicious content. If you're wondering what anti-virus software works with Thunderbird, you can find a list here: http://kb.mozillazine.org/Antivirus_software.
+ * **Integration with anti-virus software.** If your anti-virus software supports Thunderbird, you can use that software to quarantine messages that contain viruses or other malicious content. If you're wondering what anti-virus software works with Thunderbird, you can find a list here: [http://kb.mozillazine.org/Antivirus_software](http://kb.mozillazine.org/Antivirus_software).
  * **Master password.** For your convenience, you can have Thunderbird remember each of your individual passwords of your e-mail accounts. You can specify a master password that you enter each time you start Thunderbird. This will enable Thunderbird to open all your email accounts with your saved passwords.
  * **Restrictions on cookies.** Some blogs and websites attempt to send cookies (a piece of text that stores information from Web sites on your computer) with their RSS feeds. These cookies are often used by content providers to provide targeted advertising. Thunderbird rejects cookies by default, but you can configure Thunderbird to accept some or all cookies.
 
@@ -1379,6 +1397,7 @@ You need to first open Account Settings window. Note that settings configured in
  9. Click 'OK' to save your changes.
  
 
+
 Introducing mail encryption (PGP)
 =================================
 
@@ -1436,7 +1455,7 @@ This will take you to a page where you can download the Gpg4Win. Click on the bu
 
 ![GPG Windows](gpg_win_2.png)
 
-This will download you an .exe file. Depending on your browser, you may have to double-click on this downloaded file (which will be called something like `gpg4qin-2.1.0.exe`) before something happens. Windows will ask you if you are sure you want to install this program. Answer yes.
+This will download you an .exe file. Depending on your browser, you may have to double-click on this downloaded file (named something like `gpg4qin-2.1.0.exe`) before something happens. Windows will ask you if you are sure you want to install this program. Answer yes.
 
 Then complete the installation by agreeing to the license, choosing appropriate language and accepting the default options by clicking 'Next', unless you have a particular reason not to. 
 
@@ -1957,7 +1976,7 @@ The only safe way of encrypting email inside of the browser window is to encypt 
 
 For example, write the text in a text editor like gedit, vim or kate and save it as .txt file (in this example "message.txt". Then type
 
-    gpg -ase -r the.recipients.email.address@or.gpg.id -r your.gpg.id message.txt
+    gpg -ase -r <recipients email/gpg id> -r <your gpg id> message.txt
 
 A new file called "message.asc" will be created. It contains the encrypted message and can thus be either attached to an email or its content safely copy & pasted into the browser window.
 
@@ -2192,7 +2211,7 @@ Below is a short list of extensions that are not covered in this book but are he
 
  * **BetterPrivacy** - manages "cookies" used to track you while visiting websites. Cookies are small bits of information stored in your browser. Some of them are used to track the sites you are visiting by advertisers. [https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/)
 
- * **GoogleSharing** - If you are worried that google knows your search history, this extension will help you prevent that. [https://addons.mozilla.org/en-us/firefox/addon/googlesharing/](https://addons.mozilla.org/en-us/firefox/addon/googlesharing/)
+ * **GoogleSharing** - If you are worried that google knows your search history, this extension will help prevent that. [https://addons.mozilla.org/en-us/firefox/addon/googlesharing/](https://addons.mozilla.org/en-us/firefox/addon/googlesharing/)
 
 
 Proxy Settings
@@ -2200,7 +2219,7 @@ Proxy Settings
 
 A proxy server allows you to reach a Web site or other Internet location even when direct access is blocked in your country or by your ISP. There are many different kinds of proxies, including:
 
- * Web proxies, which only require that you know the proxy Web site's address. A Web proxy URL may look like `http://www.example.com/cgi-bin/nph-proxy.cgi`
+ * Web proxies, which only require that you know the address to the proxy Web site, which may have a URL similar to `http://proxy.com/cgi-bin/nph-proxy.cgi`
  * HTTP proxies, which require that you modify your Browser settings. HTTP proxies only work for Web content. You may get the information about a HTTP proxy in the format `proxy.example.com:3128` or `192.168.0.1:8080`.
  * SOCKS proxies, which also require that you modify your Browser settings. SOCKS proxies work for many different Internet applications, including e-mail and instant messaging tools. The SOCKS proxy information looks just like HTTP proxy information.
 
@@ -2488,7 +2507,7 @@ This doesn't do anything but give you a summary of your options. Press 'Install'
 Installing KeePass on Mac OS X
 ------------------------------
 
-Although Keychain in Mac OS X does an excellent job of storing your passwords, you may want to run your own password database and manager. KeePass allows this added flexibility. First visit the KeePass download webpage (http://keepass.info/download.html) and choose the appropriate installer. Although the official installers are listed at the top of the page, there are unofficial/contributed installers further down. Scroll down to find [KeePass 2.x for Mac OS X](http://keepass2.openix.be/):
+Although Keychain in Mac OS X does an excellent job of storing your passwords, you may want to run your own password database and manager. KeePass allows this added flexibility. First visit the KeePass download webpage [http://keepass.info/download.html](http://keepass.info/download.html) and choose the appropriate installer. Although the official installers are listed at the top of the page, there are unofficial/contributed installers further down. Scroll down to find [KeePass 2.x for Mac OS X][http://keepass2.openix.be/](http://keepass2.openix.be/):
 
 ![Keepass Install](keepass_9.png)
 
@@ -2498,7 +2517,7 @@ As this is an external link, your browser will be redirected to [http://keepass2
 
 Note here that you must install the Mono framework first, so that KeePass can run in OS X. So click on each of the links [Mono 2.10.5](http://download.mono-project.com/archive/2.10.5/macos-10-x86/0/MonoFramework-MRE-2.10.5_0.macos10.xamarin.x86.dmg) and [KeePass2.18](http://keepass2.openix.be/KeePass2.18.dmg) to download the DMG files to your computer. Double-click on each of the DMGs in your downloads folder to unpack the volumes to your desktop.
 
-The Mono Package installer is called 'MonoFramework-MRE-2.10.5_0.macos10.xamarin.x86.pkg', so double-click on this document in the MonoFramework volume on your desktop:
+The Mono Package installer is in case called something similar to 'MonoFramework-MRE-2.10.5_0.macos10.xamarin.x86.pkg', so double-click on this document:
 
 ![Keepass Install](keepass_11.png)
 
@@ -2525,6 +2544,7 @@ Now you can quit the installer. Next take a look at the KeePass disk image, doub
  
 
 Now KeePass is ready to use for Mac OS X.
+
 
 Encrypting Passwords with a Password Manager
 ============================================
@@ -2558,7 +2578,7 @@ So now fill this form out with the details so you can correctly identify which e
 
 ![Password Manager](mng_5.png)
 
-KeePassX gives some indication if the passwords you are using are 'strong' or 'weak'...you should try and make passwords stronger and for advice on this read the chapter about creating good passwords. Press 'OK' when you are done and you will see something like this:
+KeePassX gives some indication if the passwords you are using are 'strong' or 'weak'. As may be obvious, you should try to use stronger passwords. For advice on this see the chapter on creating good passwords. Press 'OK' when you are done and you will see something like this:
 
 ![Password Manager](mng_6.png)
 
@@ -2587,7 +2607,7 @@ The next screen will ask you for the master password. Enter the password and cli
 
 ![Password Manager](mng_10.png)
 
-The next window allows you to add special configuration settings for your new database. We do not need to edit anything. Just click on 'OK'.
+The next window allows you to configure your new database. We do not need to edit anything. Just click on 'OK'.
 
 ![Password Manager](mng_11.png)
 
@@ -2625,7 +2645,6 @@ You will note that it will ask you for your master or login password to view the
 ![Password Manager](mng_17.png)
 
 You can access modify any of the items and also use the Keychain to securely save any bits and pieces of text using the notes. To do this click on notes and than choose 'New secure Note item' from the file menu.
-
 
 
 Getting, setting-up and testing a VPN account
@@ -2672,7 +2691,7 @@ Once you obtain access to your VPN account the server generates those keys and y
  * **ca.crt** (unless in configuration file) - root authority certificate of your VPN server, used to sign and check other keys issued by the provider.
  * **client.crt** (unless in configuration file) - your client certificate, allows you to communicate with VPN server.
 
-Based on a particular configuration, your VPN provider might require a username/password pair to authenticate your connection. Often, for convenience, the username and password can be saved into a separate file or added to the main configuration file. In other cases, key-based authentication is used, and the key is stored in a separate file:
+Based on a particular configuration, your VPN provider might require a username and password to authenticate your connection. Often, for convenience, these can be saved into a separate file or added to the main configuration file. In other cases, key-based authentication is used, and the key is stored in a separate file:
 
  * **client.key** (unless in configuration file) - client authentication key, used to authenticate to the VPN server and establish an encrypted data channel.
 
@@ -2741,7 +2760,7 @@ To install the plugins for Network Manager we will use the Ubuntu Software Cente
 Configuring an OpenVPN network
 ------------------------------
 
-Let's assume you received your configuration files and credentials from your VPN provider. This information should contain the following
+Let us assume you have received your configuration files and credentials from your VPN provider. This information should contain the following
 
  * an *.ovpn file, ex. air.ovpn
  * The file: ca.crt (this file is specific for every OpenVPN provider)
@@ -2750,7 +2769,7 @@ Let's assume you received your configuration files and credentials from your VPN
 
 In most cases your provider will send these files to you in a zip file. Some openvpn providers use username and password authentication which will not be covered.
 
- 1. Unzip the file you have downloaded to a folder on your hard drive (e.g.: "/home/[yourusername]/.vpn"). You should now have four files. The file "air.ovpn" is the configuration file that you need to import into NetworkManager.
+ 1. Unzip the file you have downloaded to a folder on your hard drive (for example "/home/[yourusername]/.vpn"). You should now have four files. The file "air.ovpn" is the configuration file that you need to import into NetworkManager.
 
  ![VPN on Ubuntu](vpn_ubuntu_008.png)
 
@@ -2951,7 +2970,6 @@ There are numerous websites that will tell you what your IP address is, and wher
 Check your IP address before connecting to your VPN. Once you connect to your VPN, your computer's public IP address should change to match that of your VPN server, and your geolocation should change to wherever your VPN server is located. 
 
 Once your external IP is the same as the IP of your VPN server, you can rest assured your communication is encrypted.
-
 
 
 Installing TrueCrypt
@@ -3413,7 +3431,7 @@ It is possible make access to these program's easy by adding it as an extra menu
 
  Choose 'Delete File Securely'. The file will then be wiped 'quietly' - you do not get any feedback or notice that the process has started or stopped. However the process is underway. It takes some time to securely delete data and the bigger the file the longer it takes. When it is complete the icon for the file to be wiped will disappear. If you would like to add some feedback you can change the parameters field in Nautilius Actions Configuration tool to this:
 
- `-rf %M | zenity --info --text "your wipe is underway please be patient. The icon of the file to be wiped will disappear shortly."`
+ `-rf %M | zenity --info --text "your wipe is underway, please be patient. The file to be wiped will disappear shortly."`
 
  The above line will tell you the process is underway but you will not know the file is deleted until the icon disappears. 
 
@@ -3428,7 +3446,7 @@ Introducing The OSTN Network
 
 If you already know about OSTN and have an account, you can skip this section.
 
-OSTN (Open {Secure, Source, Standards} Telephony Network - [https://guardianproject.info/wiki/OSTN](https://guardianproject.info/wiki/OSTN)) is an attempt to define a standard Voice over IP (VoIP) setup using the Session Initiation Protocol (SIP) that enables end-to-end encrypted calls. Similar to e-mail, SIP allows people to choose their service provider while still being able to call each other even if they are not using the same provider. Yet, not all SIP providers offer OSTN and both providers have to support OSTN for the call to be secure. Once a connection between two people is established, the audio data is exchanged directly between the two parties. Data is encrypted according to the Secure Real-time Transport Protocol (SRTP).
+The Guardian Project's OSTN (Open {Secure, Source, Standards} Telephony Network - [https://guardianproject.info/wiki/OSTN](https://guardianproject.info/wiki/OSTN)) is an attempt to define a standard Voice over IP (VoIP) setup using the Session Initiation Protocol (SIP) that enables end-to-end encrypted calls. Similar to e-mail, SIP allows people to choose their service provider while still being able to call each other even if they are not using the same provider. Yet, not all SIP providers offer OSTN and both providers have to support OSTN for the call to be secure. Once a connection between two people is established, the audio data is exchanged directly between the two parties. Data is encrypted according to the Secure Real-time Transport Protocol (SRTP).
 
 A majority of encrypting VoIP applications currently use Session Description Protocol Security Descriptions for Media Streams (SDES) with hop-by-hop Transport Layer Security (TLS) to exchange secret master keys for SRTP. This method is not end-to-end secure as the SRTP keys are visible in plaintext to any SIP proxy or provider involved in the call.
 
@@ -3513,8 +3531,8 @@ Adium is a secure chat client capable of end-to-end encryption. It works with Go
 
 Installing Adium is similar to installing most Mac OS X applications.
 
- 1. Download the Adium disk image from http://www.adium.im/. 
- 2. If an Adium window doesn't open automatically, double click the downloaded file
+ 1. Download the Adium disk image from [http://www.adium.im/](http://www.adium.im/).
+ 2. If an Adium window does not open automatically, double click the downloaded file
  3. Drag the Adium application to your Applications folder.
  4. "Eject" the Adium disk image, which has an icon of a drive
  5. The Adium disk image will still be present in your download folder (probably on your desktop). You can drag this file to the trash, as it is no longer needed.
@@ -3531,9 +3549,9 @@ Pidgin is a secure chat client capable of end-to-end encryption. It works with G
 
 To use Pidgin with OTR on Windows, you have to install Pidgin and the OTR plugin for Pidgin.
 
- 1. Download the latest version of Pidgin from http://www.pidgin.im/download/windows/
+ 1. Download the latest version of Pidgin for Windows from [http://www.pidgin.im/download/windows/](http://www.pidgin.im/download/windows/)
  2. Run the Pidgin Installer
- 3. Download the latest version of "OTR plugin for Pidgin" from http://www.cypherpunks.ca/otr/#downloads
+ 3. Download the latest version of "OTR plugin for Pidgin" at [http://www.cypherpunks.ca/otr/#downloads](http://www.cypherpunks.ca/otr/#downloads)
  4. Run the OTR Plugin Installer
 
 Now you can use OTR with any account you setup in Pidgin.
@@ -3555,7 +3573,6 @@ Chat Log Files
 Some of the Chat Clients listed above e.g. Adium, store plaintext, unencrypted Chat Logs, often by default, even when the OTR "security / privacy" plug-in is installed.
 
 If you are taking OTR precautions to protect your chats from snoopers over the wire or over the air, you should either double check that you have manually switched off Chat Session Logging, or ensure that the Chat Logs you deliberately intend to keep are created on an encrypted disk drive or volume, in case your computer is lost, stolen or seized. It is also worth asking the person you are chatting with if they are inadvertently logging the chat with their own Chat Client software.
-
 
 
 Installing I2P on Ubuntu Lucid Lynx (and newer) and derivatives like Linux Mint & Trisquel
@@ -3630,7 +3647,7 @@ the file will be downloaded inside the **/home/user/.i2p/i2psnark** folder.
 
 * Since I2P is a closed network, you can't download normal torrents found on regular internet with it, and it can't be used to make downloading them anonymous!
 
-* The speed seems to be a little bit lower than usual which is caused by the anonymization. I think that the download rates are still acceptable if you consider that you download and share anonymously.
+* The speed seems to be slightly lower than usual which is caused by the anonymization. I think that the download rates are still acceptable if you consider that you download and share anonymously.
 
 
 The necessity of Open Source
@@ -4325,7 +4342,7 @@ RSS is a method and protocol for allowing Internet users to subscribe to content
 scheme
 ------
 
-On the Web, a scheme is a mapping from a name to a protocol. Thus the HTTP scheme maps URLs that begin with HTTP: to the Hypertext Transfer Protocol. The protocol determines the interpretation of the rest of the URL, so that http://www.example.com/dir/content.html identifies a Web site and a specific file in a specific directory, and mailto:user@somewhere.com is an e-mail address of a specific person or group at a specific domain.
+On the Web, a scheme is a mapping from a name to a protocol. Thus the HTTP scheme maps URLs that begin with HTTP: to the Hypertext Transfer Protocol. The protocol determines the interpretation of the rest of the URL, so that [http://www.example.com/dir/content.html](http://www.example.com/dir/content.html) identifies a Web site and a specific file in a specific directory, and [mailto:user@somewhere.com](mailto:user@somewhere.com) is an e-mail address of a specific person or group at a specific domain.
 
 shell
 -----
@@ -4422,7 +4439,7 @@ UDP is an alternate protocol used with IP. Most Internet services can be accesse
 URL (Uniform Resource Locator)
 ------------------------------
 
-The URL (Uniform Resource Locator) is the address of a Web site. For example, the URL for the World News section of the NY Times is http://www.nytimes.com/pages/world/index.html. Many censoring systems can block a single URL. Sometimes an easy way to bypass the block is to obscure the URL. It is for example possible to add a dot after the site name, so the URL http://en.cship.org/wiki/URL becomes http://en.cship.org./wiki/URL. If you are lucky with this little trick you can access blocked Web sites.
+The URL (Uniform Resource Locator) is the address of a Web site. For example, the URL for the World News section of the NY Times is [http://www.nytimes.com/pages/world/index.html](http://www.nytimes.com/pages/world/index.html).  Many censoring systems can block a single URL. Sometimes an easy way to bypass the block is to obscure the URL. It is for example possible to add a dot after the site name, so the URL `http://en.cship.org/wiki/URL` becomes `http://en.cship.org./wiki/URL.` If you are lucky with this little trick you can access blocked Web sites.
 
 Usenet
 ------

@@ -1,8 +1,6 @@
 A CryptoParty History: Party Like It's 1984
 ===========================================
 
-Because everything sounds better when someone promises there'll be beer.
-
 **What is CryptoParty?**
 
 Interested parties with computers, devices, and the willingness to learn how to use the most basic crypto programs and the fundamental concepts of their operation! CryptoParties are free to attend, public and commercially non-aligned.
