@@ -24,12 +24,12 @@ In **Firefox**:
  2. Click **Options**.
  3. Click **Privacy**.
  4. Click **Clear your recent history**.
- 
-    ![Delete Firefox Cookies](firefox_delete_cookies_01.png)
+
+  ![Delete Firefox History](firefox_delete_cookies_01.png)
  5. Make sure **Time range to clear** is set to **Everything**.
  6. Tick **Cookies**.
- 
-    ![Delete Firefox Cookies](firefox_delete_cookies_02.png)
+
+  ![Delete Firefox Cookies](firefox_delete_cookies_02.png)
  7. Click **Clear now**.
  
 In **Chrome**:
@@ -49,7 +49,7 @@ In **Internet Explorer**:
  4. Tick **Cookies**.
  5. Click **Delete**.
  
-    ![Delete IE Cookies](ie_delete_cookies_02.png)
+  ![Delete IE Cookies](ie_delete_cookies_02.png)
 
 The limitation to this approach is that you will receive new cookies as soon as you return to these sites or go to any other pages with tracking components. The other disadvantage is that you will lose all of your current login sessions for any open tabs, forcing you to type in usernames and passwords again.  A more convenient option, supported by current browsers is private browsing or incognito mode. This opens a temporary browser window that does not save the history of pages viewed, passwords, downloaded files or cookies.  Upon closing the private browsing window, all of this information is deleted. You can enable private browsing:
 
@@ -69,41 +69,41 @@ In **Chrome**:
  1. Click the **Chrome menu**.
  2. Click **New incognito window**.
  
-    ![Chrome Private Browsing](chrome_private_browsing_01.png)
+  ![Chrome Private Browsing](chrome_private_browsing_01.png)
  3. The **spy icon** in the top-left of the browser window shows that private browsing is on.
  
-    ![Chrome Private Browsing](chrome_private_browsing_02.png)
+  ![Chrome Private Browsing](chrome_private_browsing_02.png)
  
 In **Internet Explorer**: 
  1. Click the **Tools** menu, shaped like a gear.
  2. Click **Safety**.
  3. Click **InPrivate Browsing**.
  
-    ![IE Private Browsing](ie_private_browsing_01.png) 
+  ![IE Private Browsing](ie_private_browsing_01.png) 
  4. The **InPrivate** logo appears in the top-left of your browser window, showing that private browsing is on.
  
-    ![IE Private Browsing](ie_private_browsing_02.png)
+  ![IE Private Browsing](ie_private_browsing_02.png)
 
 This solution also has its limitations. We cannot save bookmarks, remember passwords, or take advantage of much of the convenience offered by modern browsers. Thankfully, there are several plugins specially designed to address the problems of tracking. The most extensive, in terms of features and flexibility, is Ghostery. The plugin allows you to block categories or individual services that track users. Here's how you install Ghostery:
 
  1. In Firefox, click the **Firefox** menu and select **Add-ons**.
  
-    ![Ghostery](ghostery01.png)
+  ![Ghostery](ghostery01.png)
  2. In the **Search** box, type "ghostery", then click the **Search** icon or press **Enter**.
  
-    ![Ghostery](ghostery02.png)
+  ![Ghostery](ghostery02.png)
  3. Find Ghostery in the list of Add-ons, and click **Install**.
  
-    ![Ghostery](ghostery03.png)
+  ![Ghostery](ghostery03.png)
  4. Restart your browser by clicking **Restart Now**.
  
-    ![Ghostery](ghostery04.png)
+  ![Ghostery](ghostery04.png)
  5. Click the **Ghostery toolbar** and select **Options**. Do the walkthrough and/or play with Ghostery's settings, if you want.
  
-    ![Ghostery](ghostery05.png)
+  ![Ghostery](ghostery05.png)
  6. Visit a web page and have a look at its trackers.
  
-    ![Ghostery](ghostery06.png)
+  ![Ghostery](ghostery06.png)
 
 Another option is to install an ad-blocking plugin like AdBlockPlus. This will automatically block many of the tracking cookies sent by advertising companies but not those used by Google, Facebook and other web analytics companies.  [expand on this maybe, explain "web analytics"]
 

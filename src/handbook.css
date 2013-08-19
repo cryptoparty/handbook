@@ -1,0 +1,44 @@
+html {
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 1.2em;
+    max-width: 42em;
+    background-color: #FFFFFF;
+    font-size: 16pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Linux Biolinum O", "Candara", "DejaVu Sans", sans-serif;
+}
+
+h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a {
+    color: #000000;
+    border: none;
+    text-decoration: none;
+}
+
+p, li, a {
+/*     font-family: "Linux Biolinum O", "Candara", "DejaVu Sans", sans-serif; */
+    font-family: "Linux Libertine O", "Georgia", "DejaVu Serif", serif;
+}
+
+a:hover {
+    color: #FF0044;
+}
+
+#TOC li > a {
+    color: #444444;
+}
+
+#TOC li > a:hover {
+    color: #000000;
+}
+
+#TOC li > ul {
+    font-size: 0.85em;
+}
