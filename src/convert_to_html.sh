@@ -9,7 +9,10 @@ mkdir $DIR 2>/dev/null
 IDX=$DIR/index.html
 SIDX=$DIR/index-short.html
 
-echo "<html><title>Cryptoparty Handbook: Index</title><body><h1>Cryptoparty Handbook</h1><ol start=0>" > $IDX
+INTRO="<html><head><meta http-equiv='Content-Type' content='text/html; charset=utf-8' /><link rel='stylesheet' type='text/css' href='handbook.css'/><title>Cryptoparty Handbook: Index</title></head><body><h1>Cryptoparty Handbook</h1><p>Version: $DATE</p><ol start=0>" 
+
+echo $INTRO > $IDX
+echo $INTRO > $SIDX 
 
 for d in chapter*; do
         if [ ! -d $DIR/$d ] ; then
@@ -31,6 +34,7 @@ for d in chapter*; do
         rm -f $DIR/$d/$d.mdidx
         cp -au $d/*.png $d/*.jpg $DIR/$d 2>/dev/null
 done
+cp -au handbook.css $DIR/ 
 
 echo "</ol></body></html>" >> $IDX
 
