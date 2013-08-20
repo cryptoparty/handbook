@@ -13,6 +13,8 @@ if [ ! -d $DIR ] ; then
 	mkdir $DIR
 fi
 
+DATE=`date +%F`
+
 cat > $DIR/main.tex <<EOF
 \documentclass[oribibl]{scrbook}
 
@@ -37,7 +39,12 @@ cat > $DIR/main.tex <<EOF
 
 \begin{document}
 \includepdf{cover}
-\cleardoublepage
+\clearpage
+
+the CryptoParty handbook
+
+Version: $DATE
+\clearpage
 
 \tableofcontents
 \clearpage
@@ -53,8 +60,7 @@ for d in chapter*; do
 	echo "\\chapter{$title}" >> $DIR/main.tex
 	for f in $d/*.md; do 
 		pandoc -f markdown -t latex $f -o $DIR/$f.tex
-		echo "\\clearpage
-\\input{$f.tex}" >> $DIR/main.tex
+		echo "\\input{$f.tex}" >> $DIR/main.tex
 	done
 done
 # There are many links in the book where the link text is the same as the
