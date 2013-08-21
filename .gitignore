@@ -1,10 +1,6 @@
 src/build
 cryptoparty-handbook-html
 .project
-/*.pdf
-/*.mobi
-/*.epub
-/*.md
-/SHA256SUM
+/dist
 /metadata.opf
 /cover.jpg
