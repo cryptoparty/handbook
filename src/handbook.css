@@ -9,7 +9,7 @@ body {
     padding: 0 1.2em;
     max-width: 42em;
     background-color: #FFFFFF;
-    font-size: 16pt;
+    font-size: large;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -42,3 +42,4 @@ a:hover {
 #TOC li > ul {
     font-size: 0.85em;
 }
+
