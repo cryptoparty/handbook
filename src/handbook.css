@@ -27,6 +27,10 @@ p, li, a {
     font-family: "Linux Libertine O", "Georgia", "DejaVu Serif", serif;
 }
 
+p {
+    text-align: justify;
+}
+
 a:hover {
     color: #FF0044;
 }
