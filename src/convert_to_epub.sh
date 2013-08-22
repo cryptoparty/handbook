@@ -10,10 +10,11 @@ for f in `find .. -name "*.jpg"`; do ln -s $f . ; done
 for f in `find .. -name "*.png"`; do ln -s $f . ; done
 
 #do the conversion
-pandoc book.md -o book.epub
+pandoc --epub-cover-image=../cover-800.jpg book.md -o book.epub
 
-#change the filename
-DATE=`date +%F`
+# Only set if not overriden by an environment variable
+DATE=${DATE:-`date +%F`}
+
 cp book.epub ../../dist/cryptoparty-handbook-$DATE.epub
 
 ebook-convert ../../dist/cryptoparty-handbook-$DATE.epub ../../dist/cryptoparty-handbook-$DATE.mobi

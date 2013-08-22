@@ -13,7 +13,8 @@ if [ ! -d $DIR ] ; then
 	mkdir $DIR
 fi
 
-DATE=`date +%F`
+# Only set if not overriden by an environment variable
+DATE=${DATE:-`date +%F`}
 
 cat > $DIR/main.tex <<EOF
 \documentclass[oribibl]{scrbook}

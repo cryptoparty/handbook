@@ -3,7 +3,9 @@ DIST_DIR=../dist
 
 TEX_DIR=${BUILD_DIR}/tex
 BOOK_DIR=${BUILD_DIR}/.
-DATE=`date +%F`
+
+# Only set if not overriden by an environment variable
+DATE?=`date +%F`
 
 all: latex-pdf combined
 
