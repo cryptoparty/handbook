@@ -11,7 +11,9 @@ if [ ! -d $BOOK_DIR ] ; then
 fi
 
 rm -f ${BOOK_DIR}/book.md
-DATE=`date +%F`
+
+# Only set if not overriden by an environment variable
+DATE=${DATE:-`date +%F`}
 
 echo "the CryptoParty handbook" >> ${BOOK_DIR}/book.md
 echo "========================" >> ${BOOK_DIR}/book.md

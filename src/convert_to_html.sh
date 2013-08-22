@@ -1,8 +1,10 @@
 #!/bin/bash
 
-# requires python-beautifulsoup4
+# requires python-beautifulsoup4 / python-bs4
 
-DATE=`date +%F`
+# Only set if not overriden by an environment variable
+DATE=${DATE:-`date +%F`}
+
 DIR=../dist/cryptoparty-handbook-$DATE
 mkdir $DIR 2>/dev/null
 
