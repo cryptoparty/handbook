@@ -147,7 +147,7 @@ To look up whether some email address has a public key available on a server, ta
 Signing emails to an individual
 -------------------------------
 
-Digitally signing email messages is a way to prove to recipients that you are the actual sender of a mail message. Those recipients who have received your public key will be able to *verify* that your message is authentic.
+Digitally signing email messages is a way to prove to recipients that you are the actual sender of a mail message. Those recipients who have received your public key will be able to *verify* that your message is authentic. However, take note that signing an email will make it very hard (if not impossble) to deny that you are the author of the message.
 
  1. Offer your friend your public key, using the method described earlier in this chapter.
 
