@@ -61,3 +61,14 @@ If you want to use OpenVPN on Windows or OSX, have look at:
 
  * [http://openvpn.se](http://openvpn.se) (Windows interface)
  * [http://code.google.com/p/tunnelblick](http://code.google.com/p/tunnelblick) (OSX interface)
+
+Caveats & Gotchas
+-----------------
+
+Although a VPN will obfuscate your IP address, due to the nature of most VPNs your TCP/IP stack meta-data and other identifying information will be sent across the wire as-is.
+
+This may seem trivial, but consider, a standard IP header is 20 bytes in size, some of this is covered by required obvious information, (4 bytes for source IP, 4 bytes for destination IP), etc but some of this header may be other arbitrary options, the TCP header is at least 20 bytes also, with the potential for another 20 bytes of options. The specific configuration of these options varies between operating systems, and even versions of operating system, as such a single TCP SYN packet is often enough to identify a users operating system, version and other potentially revealing information, like the systems uptime. There are [readily available tools](http://lcamtuf.coredump.cx/p0f3/) which you can use to fingerprint this information, as a test, try connecting to a server running this tool with your normal internet connection, then connecting again over your VPN. You will most likely find that the fingerprints are an identicle match both with and without the VPN, and that if your friend were to connect their fingerprint would be different.
+
+As such, it is important to remember some facts:
+ * No one will go to jail for you, if your VPN provider is served a legal request for information about you, they will provide it. Just because they claim they don't log, does not mean they do not have logs.
+ * VPNs provide privacy, they do not provide anonymity, regardless of the advertising and marketing materials provided.
