@@ -139,4 +139,6 @@ Below is a short list of extensions that are not covered in this book but are he
 
  * **GoogleSharing** - If you are worried that google knows your search history, this extension will help prevent that. [https://addons.mozilla.org/en-us/firefox/addon/googlesharing/](https://addons.mozilla.org/en-us/firefox/addon/googlesharing/)
 
- * **NoScript** - although not friendly for beginners, this addon will block scripts and third party addon content (eg, Adobe Flash) unless specifically allowed by the user, it also provides general protection against simple cross site scripting vectors. [http://noscript.net/](http://noscript.net/)
+ * **NoScript** - Although not friendly for beginners, this addon will block scripts and third party plugin content (eg, Adobe Flash) unless specifically allowed by the user, it also provides general protection against simple cross site scripting vectors. [http://noscript.net/](http://noscript.net/)
+
+ * **User Agent Switcher** - Your browser supplies large amounts of identifying information to any remote server through the 'User-Agent' header, including Operating System and specific version information. This addon allows you to supply either a fake or generic User-Agent to the server. [http://chrispederick.com/work/user-agent-switcher/](http://chrispederick.com/work/user-agent-switcher/)
