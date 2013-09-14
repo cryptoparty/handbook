@@ -10,7 +10,7 @@ Preparations
 
  Over-write the previous data, to ensure that the encrypted data is as indistinguishable from non-used blocks, the device should be entirely over-written with random data.
 
-		dd if=/dev/urandom of=/dev/sdXn
+ 	dd if=/dev/urandom of=/dev/sdXn
  
  (Warning: this may take a long time to complete, depending on the size of the device and will entirely **destroy all current data** on the partition.)
  
