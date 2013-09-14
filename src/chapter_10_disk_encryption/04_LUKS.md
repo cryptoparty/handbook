@@ -1,9 +1,13 @@
 About LUKS
 ==========
 
-LUKS is the Linux Unified Key Setup, it is the normal method for disk encryption on Linux, if you choose Full Disk Encryption with Ubuntu, it uses the LUKS system to encrypt your device.
+ LUKS is the Linux Unified Key Setup, it is the normal method for disk encryption on Linux, if you choose Full Disk Encryption with Ubuntu, it uses the LUKS system to encrypt your device.
 
-In the following examples, I will give an example of the device as /dev/sdXn, in your case, you will want to replace 'X' with the drive letter, and 'n' and the partition number (eg. /dev/sda2).
+ * Advantages: LUKS is available through dm-crypt, part of the Linux Kernel, so it doesn't need any further software to be installed to utilise it.
+
+ * Disadvantages: Unlike with Truecrypt, it is not portable between other Operating Systems, so if you use LUKS to encrypt a USB drive, other Linux users will be able to use and mount the disk but Windows and Mac OS users will not.
+
+ (Note: In the following examples, I will give an example of the device as /dev/sdXn, in your case, you will want to replace 'X' with the drive letter, and 'n' and the partition number (eg. /dev/sda2).)
 
 Preparations
 ------------
