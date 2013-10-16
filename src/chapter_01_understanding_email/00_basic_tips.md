@@ -51,7 +51,7 @@ Whenever you write and send email in a browser or use an email program (Outlook 
 
 If using a browser to check your email, check to see if the mail server supports SSL sessions by looking for https:// at the beginning of the URL. If not, be sure to turn it on in your email account settings, such as Gmail or Hotmail.This ensures that not just the login part of your email session is encrypted but also the writing and sending of emails.
 
-At the time of writing, Google's Gmail uses TLS/SSL by default whereas Hotmail does not. If your email service does not appear to provide TLS/SSL, then it is advised to stop using it. Even if your emails are not important, you might find yourself 'locked out' of your account one day with a changed password!
+The email service provider you select, should provide you with the mail server details. These details can often be found in the settings option. If your email service provider does not offer you a cryptographic protocol (TLS/SSL) to encrypt your data on the network, then it is advised to stop using it. Even if your emails are not important, you might find yourself 'locked out' of your account one day with a changed password!
 
 When using an email program to check your email, be sure that you are using TLS/SSL in the program options. For instance in Mozilla Thunderbird the option for securing your outgoing email is found in `Tools -> Account Settings -> Outgoing Server (SMTP)` and for incoming email in `Tools -> Account Settings -> Server Settings`. This ensures that the downloading and sending of email is encrypted, making it very difficult for someone on your network, or on any of the networks between you and the server, to read or log your email.
 Encrypting the email itself
