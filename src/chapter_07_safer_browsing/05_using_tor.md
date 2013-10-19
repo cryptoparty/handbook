@@ -53,7 +53,7 @@ The instructions below refer to installing Tor Browser on Microsoft Windows. If 
 ### Installing from split files
 
  1. In your Web browser, enter the URL for the split version of the Tor Browser Bundle (https://www.torproject.org/torbrowser/split.html), then click the link for your language to get to a page that looks like the one for English below:
- 
+
  ![Tor](tor_4.png)
 
  2. Click each file to download it (one ending in ".exe" and nine others ending in ".rar"), one after the other, and save them all in one folder on your hard- or USB-drive.
@@ -116,3 +116,14 @@ If Firefox browser does not launch, another instance of the browser may be inter
  5. Repeat the steps above to launch Tor Browser.
 
 If Tor Browser still doesn't work after two or three tries, Tor may be partly blocked by your ISP and you should try using the **bridge** feature of Tor.
+
+Using Tor Bridges
+-----------------
+
+If you still can not connect, your ISP may be filtering your connection and preventing access to the Tor network.  In this case, connecting through a Tor bridge may help.  A Tor bridge is a relay that's not listed.  The first step in using a bridge is finding one.
+
+The easiest way to find a bridge is to visit the Tor bridge website ([https://bridges.torproject.org/](https://bridges.torproject.org/)), however if that site is blocked, you can also send an email (it must be from a Gmail account) to bridges@bridges.torproject.org with the line "get bridges" by itself in the body of the mail.
+
+Once you have a bridge, or lists of bridges, you can enter them into Vidalia's network configuration.  Once you click, "My ISP blocks connections to the Tor network," you will be able to enter the bridge address.
+
+![Tor Bridge Configuration](tor_11.png)
