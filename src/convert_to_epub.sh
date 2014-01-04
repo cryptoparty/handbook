@@ -10,7 +10,7 @@ for f in `find .. -name "*.jpg"`; do ln -s $f . ; done
 for f in `find .. -name "*.png"`; do ln -s $f . ; done
 
 #do the conversion
-pandoc --epub-cover-image=../cover-800.jpg book.md -o book.epub
+pandoc --epub-cover-image=../cover-800.jpg --epub-metadata=../metadata.xml book.md -o book.epub
 
 # Only set if not overriden by an environment variable
 DATE=${DATE:-`date +%F`}
