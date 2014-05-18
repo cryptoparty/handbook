@@ -51,7 +51,7 @@ The CryptoParty Handbook content is licensed under the [Creative Commons Attribu
 
 All chapters © the contributors unless otherwise noted.
 
-<pre>
+```
 -----BEGIN RSA PRIVATE KEY-----
 ty8xLMIIEowIBAAKCAQEArmkP2lNe9A87PfX5Xg1EewDiCzGLkSOuKAbA3y2ZQ0C
 2BBeg2khGVLqBf0OSBuKDDwYmv6J1mjJbgP3cIPBclQkDd9XVGFfvhHsMVNKCgpv
@@ -91,4 +91,4 @@ AJ1BOAMF06ZK1/bJWZgWA0O0UAIfDIYMqmooaof7YgsxgLz+ZcUvFk33Snl+6qBy
 FNU9lUE/M+AEoAGtIV/rLzVI2G18ZduTfbK/kXxZatpamEgPAudc/HrwkkdkxJzD
 uG5nDM4U
 -----END RSA PRIVATE KEY-----
-</pre>
+```
