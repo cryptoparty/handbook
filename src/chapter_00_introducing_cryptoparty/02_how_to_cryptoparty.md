@@ -21,7 +21,7 @@ How To CryptoParty
 
  * A successful CryptoParty can have as many or as few as two people. Size doesn't count, it's what you do with it that matters. The criterion for success should be that everyone had fun, learned something and wants to come to the next party.
 
- * Think of the CryptoParty movement as a huge Twitter hive ready to swarm at any moment. Tweet a lot, and make your tweets are meaningful. ReTweet other CryptoPartiers frequently.
+ * Think of the CryptoParty movement as a huge Twitter hive ready to swarm at any moment. Tweet a lot, and make your tweets meaningful. ReTweet other CryptoPartiers frequently.
 
  * Make sure the way crypto is taught at your party could be understood by a 10 year old. Then have the 10 year old teach it to an 80 year old. Breach the digital divide with random acts of awesomeness such as unfettered use of images of kittens in all CryptoParty literature. Red underpants on heads is only mandatory if you wish to bid in our spectrum auction.
 
@@ -31,7 +31,7 @@ How To CryptoParty
 
  * Doing excellent stuff at CryptoParty does not require permission or an official consensus decision. If you're uncertain about the excellence of something you want to do, you should ask someone else what they think.
 
- * Consider the need for a bouncer, particularly if your CryptoParty expects over 50 people. Dress the bouncer up as a Sumo wrestler. Do not be afraid bounce people who breach CryptoParty's anti-harassment policy.
+ * Consider the need for a bouncer, particularly if your CryptoParty expects over 50 people. Dress the bouncer up as a Sumo wrestler. Do not be afraid to bounce people who breach CryptoParty's anti-harassment policy.
 
  * CryptoParty is dedicated to providing a harassment-free sharing experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, heritage, or religion. Behaving like an arsehole may mean you are permanently uninvited to CryptoParties events. Harassment includes:
 
@@ -77,8 +77,8 @@ How To CryptoParty
 
  * Strew CryptoParty sigils across your city in 3am post-party raids. Make lots of stickers, paste them everywhere.
 
- * Experiment, constantly. Do not be afraid to make mistakes. Encourage people to tinker. Assume all mistakes are meant to made. Most people under intel agency scrutiny have electronic devices already compromised before they walk in the door. Teach people to install tools from scratch, so they can do it on a new machine, away from prying eyes.
+ * Experiment, constantly. Do not be afraid to make mistakes. Encourage people to tinker. Assume all mistakes are meant to be made. Most people under intel agency scrutiny have electronic devices already compromised before they walk in the door. Teach people to install tools from scratch, so they can do it on a new machine, away from prying eyes.
 
- * Assume intel agencies send representative to CryptoParties. Acknowledge their presence at the start of your meeting, ask them to share their crypto skills. Joke about paranoia as often as possible without instilling panic. Wear tinfoil hats.
+ * Assume intel agencies send representatives to CryptoParties. Acknowledge their presence at the start of your meeting, ask them to share their crypto skills. Joke about paranoia as often as possible without instilling panic. Wear tinfoil hats.
 
  * Be excellent to each other and CryptoParty on.
