@@ -9,7 +9,7 @@ before_install:
   - sudo apt-get update
 
 install:
-  - sudo apt-get install pandoc texlive-science texlive-fonts-recommended texlive-latex-extra zip
+  - sudo apt-get install pandoc texlive-science texlive-fonts-recommended texlive-latex-extra zip python-beautifulsoup
 
 script:
   - cd src
