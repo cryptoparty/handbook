@@ -41,6 +41,13 @@ Getting the Handbook on a Kindle
 2. [optional] If you want the coverart then a bit more advanced hacking in Calibre is required 
 3. [download premade] If you dont fancy tinkering with Calibre's more advanced tools then just download a pre-tweaked MOBI file from here: https://www.cryptoparty.in/documentation/handbook#cryptopartyhandbook_for_kindle
 
+Build
+-----
+
+[![Build Status](https://secure.travis-ci.org/cryptoparty/handbook.png)](http://travis-ci.org/cryptoparty/handbook)
+
+The CryptoParty Handbook is continuously built on the Travis CI platform. Build status is updated by the icon above. Further build information can be found on [http://travis-ci.org/cryptoparty/handbook](http://travis-ci.org/cryptoparty/handbook).
+
 Peer Review Process
 -------------------
 
