@@ -18,6 +18,13 @@ On Ubuntu all prerequisites can be installed with the following line:
 
     sudo apt-get install build-essential pandoc texlive-full
 
+On Arch Linux, try:
+
+    sudo pacman -S ghc alex happy cabal-install texlive-core texlive-science texlive-latexextra
+    sudo cabal update
+    sudo cabal install --global pandoc
+
+
 Compiling The Handbook
 ----------------------
 In order to build the handbook artifacts (PDF, LaTeX, EPUB) execute the following from the src/ folder:
