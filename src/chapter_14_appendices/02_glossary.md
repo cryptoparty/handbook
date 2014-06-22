@@ -193,7 +193,9 @@ Because you "abuse" the DNS system for an unintended purpose, it only allows a v
 On the connection you want to use a DNS tunnel, you only need port 53 to be open; therefore it even works on many commercial Wi-Fi providers without the need to pay.
 
 The main problem is that there are no public modified nameservers that you can use. You have to set up your own. You need a server with a permanent connection to the Internet running Linux. There you can install the free software OzymanDNS and in combination with SSH and a proxy like Squid you can use the tunnel. More Information on this on http://www.dnstunnel.de.
-eavesdropping
+
+Eavesdropping
+-------------
 
 Eavesdropping is listening to voice traffic or reading or filtering data traffic on a telephone line or digital data connection, usually to detect or prevent illegal or unwanted activities or to control or monitor what people are talking about.
 
@@ -314,7 +316,9 @@ Instant Messaging (IM)
 ----------------------
 
 Instant messaging is either certain proprietary forms of chat using proprietary protocols, or chat in general. Common instant messaging clients include MSN Messenger, ICQ, AIM or Yahoo! Messenger.
-intermediary
+
+Intermediary
+------------
 
 See man in the middle.
 
@@ -322,7 +326,9 @@ Internet
 --------
 
 The Internet is a network of networks interconnected using TCP/IP and other communication protocols.
+
 IP (Internet Protocol) Address
+------------------------------
 
 An IP address is a number identifying a particular computer on the Internet. In the previous version 4 of the Internet Protocol an IP address consisted of four bytes (32 bits), often represented as four integers in the range 0-255 separated by dots, such as 74.54.30.85. In IPv6, which the Net is currently switching to, an IP address is four times longer, and consists of 16 bytes (128 bits). It can be written as 8 groups of 4 hex digits separated by colons, such as 2001:0db8:85a3:0000:0000:8a2e:0370:7334.
 
@@ -671,7 +677,9 @@ Usenet
 ------
 
 Usenet is a more than 20-year-old discussion forum system accessed using the NNTP protocol. The messages are not stored on one server but on many servers which distribute their content constantly. Because of that it is impossible to censor Usenet as a whole, however access to Usenet can and is often blocked, and any particular server is likely to carry only a subset of locally-acceptable Usenet newsgroups. Google archives the entire available history of Usenet messages for searching.
+
 VoIP (Voice over Internet Protocol)
+-----------------------------------
 
 VoIP refers to any of several protocols for real-time two-way voice communication on the Internet, which is usually much less expensive than calling over telephone company voice networks. It is not subject to the kinds of wiretapping practiced on telephone networks, but can be monitored using digital technology. Many companies produce software and equipment to eavesdrop on VoIP calls; securely encrypted VoIP technologies have only recently begun to emerge.
 
