@@ -127,3 +127,14 @@ The easiest way to find a bridge is to visit the Tor bridge website ([https://br
 Once you have a bridge, or lists of bridges, you can enter them into Vidalia's network configuration.  Once you click, "My ISP blocks connections to the Tor network," you will be able to enter the bridge address.
 
 ![Tor Bridge Configuration](tor_11.png)
+
+Running a Relay or Bridge
+-------------------------
+
+Tor is a network of volunteers who run relays and bridges.  If you would like to grow the Tor network by contributing bandwidth and spare CPU cycles, consider running a relay.  Plus, running a relay may improve your anonymity since an attacker can't distinguished between traffic that originated from you or from the relay.  See the [Tor FAQ](https://www.torproject.org/docs/faq.html.en#BetterAnonymity) for more details.
+
+However, if you do run a relay, your IP address will be listed on the Internet as a Tor relay.  Tor clients depend on this list, provided by Tor Directory Servers, so that they can build circuits.  If you wish to contribute to Tor, but do not want to run a public relay, consider running a bridge.  Since Tor relays are public, some ISP block access to the Tor network by blocking *all the relays.*  Tor Bridges are unlisted are therefore, more difficult to find.
+
+Tor's goal is to protect anonymity on the Internet, but sometimes Tor is used for illegal purposes.  As a relay operator, consult the [Legal FAQ](https://www.torproject.org/eff/tor-legal-faq.html), written by the Electronic Frontier Foundation (EFF).  The EFF is a U.S. based non-profit organization whose mission is to "protect your digital right."  Other countries should seek the advice of similar organizations.  However, legal risks can be minimized by running a non-exit relay or bridge.
+
+If you'd like to configure your computer to run a relay or a bridge, visit the [Tor website](https://www.torproject.org/docs/tor-doc-relay.html.en) for thorough instructions.
