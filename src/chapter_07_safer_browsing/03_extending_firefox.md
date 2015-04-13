@@ -81,6 +81,17 @@ You can add your own rules to the HTTPS Everywhere add-on for your favorite Web 
 
 If you are managing a Web site and have made an HTTPS version of the site available, a good practice would be to submit your Web site to the official HTTPS Everywhere release.
 
+Enforcing secure HTTPS server connections
+-----------------------------------------
+
+Even if you instruct your browser to use the HTTPS protocol when communicating with a web server, it is still possible that the server (due to unsecure configuration on its own side) enforces a unsecure SSL cipher protocol for the connection. The only way to prevent this is by telling the browser to not accept such unsecure SSL protocols (like those based on RC4 encryption).
+
+To disable RC4 encryption for HTTPS connections you have to switch those off in Firefox. In an empty address bar type "about:config", press return and close the warning dialog displayed next (you can disable this dialog if you want for the next time you configure Firefox). In the search field enter "rc4" and look at the list displayed as a search result:
+
+![Disable RC4](disable_rc4.png)
+
+Any entry with a "true" in the last column ("Value" field) is activated and should be de-activated. Simply right-click on the entry and "Toggle" the value field to false. Proceed for all entries until all of them have a value of "false".
+
 Adblock Plus
 ------------
 

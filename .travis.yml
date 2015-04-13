@@ -1,0 +1,18 @@
+language: haskell
+
+notifications:
+  email: false
+  irc:
+    - "irc.oftc.net#cryptoparty"
+
+before_install:
+  - sudo apt-get update
+
+install:
+  - sudo apt-get install pandoc texlive-science texlive-fonts-recommended texlive-latex-extra zip python-beautifulsoup
+
+script:
+  - cd src
+  - make clean
+  - make install
+

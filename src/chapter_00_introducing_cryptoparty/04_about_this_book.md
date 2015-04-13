@@ -58,6 +58,16 @@ Assisted by:
  * 'Story89'
  * Travis Tueffel
 
+Github migration, packaging and maintenance by:
+
+ * Yuval Adam
+ * Samuel Carlisle
+ * Daniel Kinsman
+ * pettter
+ * Jens Kubieziel
+ * Uwe Lippmann
+ * Kai Engert
+
 Cover Image by Emile Denichaud.
 
 Other material included: 

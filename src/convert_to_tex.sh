@@ -30,6 +30,7 @@ cat > $DIR/main.tex <<EOF
 \usepackage{placeins}
 \usepackage{pdfpages}
 \usepackage{tocloft}
+\usepackage{upquote}
 
 \let\stdsection\section
 \renewcommand*{\section}{\FloatBarrier\stdsection}

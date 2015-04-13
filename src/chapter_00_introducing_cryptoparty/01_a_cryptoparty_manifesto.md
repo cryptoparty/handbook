@@ -15,7 +15,7 @@ Sixteen years later, and the Internet has changed the way we live our lives. It 
 
 Unfortunately, not all of John Perry Barlow's vision has come to pass. Without access to online anonymity, we can not be free from privilege or prejudice. Without privacy, free expression is not possible.
 
-The problems we face in the 21st Century require all of humanity to work together. The issues we face are are serious: climate change, energy crises, state censorship, mass surveillance and on-going wars. We must be free to communicate and associate without fear. We need to support free and open source projects which aim to increase the commons' knowledge of technologies that we depend on [http://opensourceecology.org/wiki](http://opensourceecology.org/wiki) Contribute!
+The problems we face in the 21st Century require all of humanity to work together. The issues we face are serious: climate change, energy crises, state censorship, mass surveillance and on-going wars. We must be free to communicate and associate without fear. We need to support free and open source projects which aim to increase the commons' knowledge of technologies that we depend on [http://opensourceecology.org/wiki](http://opensourceecology.org/wiki) Contribute!
 
 To realise our right to privacy and anonymity online, we need peer-reviewed, crowd-sourced solutions. CryptoParties provide the opportunity to meet up and learn how to use these solutions to give us all the means with which to assert our right to privacy and anonymity online.
 

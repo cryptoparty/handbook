@@ -26,107 +26,28 @@ Caution: As Tor does not, and by design cannot, encrypt the traffic between an e
 Using Tor Browser Bundle
 ------------------------
 
-The Tor Browser Bundle lets you use Tor on Windows, OSX and/or Linux without requiring you to configure a Web browser. Even better, it's also a portable application that can be run from a USB flash drive, allowing you to carry it to any PC without installing it on each computer's hard drive.
+The Tor Browser Bundle lets you use Tor on Windows, OSX and/or Linux without requiring you to configure a Web browser. Even better, it's a portable application that can be run from a USB flash drive, allowing you to carry it to any PC without installing it on each computer's hard drive.
 
 Downloading Tor Browser Bundle
 ------------------------------
 
-You can download the Tor Browser Bundle from the torproject.org Web site ([https://www.torproject.org](https://www.torproject.org)), either as a single file (13MB) or a split version that is multiple files of 1.4 MB each which may proof easier to download on slow connections.
+You can download the Tor Browser Bundle from the torproject.org Web site ([https://www.torproject.org](https://www.torproject.org)).
 
 If the torproject.org Web site is filtered from where you are, type "tor mirrors" in your favorite Web search engine: The results probably include some alternative addresses to download the Tor Browser Bundle.
 
-Caution: When you download Tor Bundle (plain or split versions), you should check the signatures of the files, especially if you are downloading the files from a mirror site. This step ensures that the files have not been tampered with. To learn more about signature files and how to check them, read [https://www.torproject.org/docs/verifying-signatures](https://www.torproject.org/docs/verifying-signatures)
+Please follow the instructions on the Tor Project Website on how to install the Tor Browser.
 
-(You can also download the GnuPG software that you will need to check the signature here: [http://www.gnupg.org/download/index.en.html#auto-ref-2](http://www.gnupg.org/download/index.en.html#auto-ref-2))
+Caution: When you download Tor Bundle (plain or split versions), you should check the signatures of the files. This step ensures that the files have not been tampered with. To learn more about signature files and how to check them, read [https://www.torproject.org/docs/verifying-signatures](https://www.torproject.org/docs/verifying-signatures)
 
-The instructions below refer to installing Tor Browser on Microsoft Windows. If you are using a different operating system, refer to the torproject.org website for download links and instructions.
 
-### Installing from a single file
 
- 1. In your Web browser, enter the download URL for Tor Browser:
-    [https://www.torproject.org/download/download](https://www.torproject.org/download/download)
+Running a Relay or Bridge
+-------------------------
 
- ![Tor](tor_1.png)
+Tor is a network of volunteers who run relays and bridges.  If you would like to grow the Tor network by contributing bandwidth and spare CPU cycles, consider running a relay.  Plus, running a relay may improve your anonymity since an attacker can't distinguished between traffic that originated from you or from the relay.  See the [Tor FAQ](https://www.torproject.org/docs/faq.html.en#BetterAnonymity) for more details.
 
- 2. Click the link for your language to download the installation file.
+However, if you do run a relay, your IP address will be listed on the Internet as a Tor relay.  Tor clients depend on this list, provided by Tor Directory Servers, so that they can build circuits.  If you wish to contribute to Tor, but do not want to run a public relay, consider running a bridge.  Since Tor relays are public, some ISP block access to the Tor network by blocking *all the relays.*  Tor Bridges are unlisted are therefore, more difficult to find.
 
- 3. On windows double-click the .EXE file you just downloaded. A "7-Zip self-extracting archive" window appears.
+Tor's goal is to protect anonymity on the Internet, but sometimes Tor is used for illegal purposes.  As a relay operator, consult the [Legal FAQ](https://www.torproject.org/eff/tor-legal-faq.html), written by the Electronic Frontier Foundation (EFF).  The EFF is a U.S. based non-profit organization whose mission is to "protect your digital right."  Other countries should seek the advice of similar organizations.  However, legal risks can be minimized by running a non-exit relay or bridge.
 
- ![Tor](tor_2.png)
-
- 4. Choose a folder into which you want to extract the files and click "Extract".
-
- **Note:** You can choose to extract the files directly onto a USB key or memory stick if you want to use Tor Browser on different computers (for instance on public computers in Internet cafes).
-
- 5. When the extraction is completed, open the folder and check that the contents match the image below:
-
- ![Tor](tor_3.png)
-
- 6. To clean up, delete the .EXE file you originally downloaded.
-
-### Installing from split files
-
- 1. In your Web browser, enter the URL for the split version of the Tor Browser Bundle (https://www.torproject.org/torbrowser/split.html), then click the link for your language to get to a page that looks like the one for English below:
- 
- ![Tor](tor_4.png)
-
- 2. Click each file to download it (one ending in ".exe" and nine others ending in ".rar"), one after the other, and save them all in one folder on your hard- or USB-drive.
-
- 3. Double-click the first part (the file whose name ends in ".exe"). This runs a program to gather all the parts together.
-
- ![Tor](tor_5.png)
-
- 4. Choose a folder where you want to install the files, and click "Install". The program displays messages about its progress while it's running, and then quits.
-
- 5. When the extraction is completed, open the folder and check that the contents match the image below:
-
- ![Tor](tor_6.png)
-
- 6. To clean up, delete all the files you originally downloaded.
-
-Using Tor Browser
------------------
-
-Before you start:
-
- * **Close Firefox.** If Firefox is installed on your computer, make sure it is not currently running.
-
- * **Close Tor.** If Tor is already installed on your computer, make sure it is not currently running.
-
-Launch Tor Browser:
-
- 1. In the "Tor Browser" folder, double-click "Start Tor Browser". The Tor control panel ("Vidalia") opens and Tor starts to connect to the Tor network.
-
- ![Tor](tor_7.png)
-
- 2. When a connection is established, Firefox automatically connects to the TorCheck page and then confirms if you are connected to the Tor network. This may take some time, depending on the quality of your Internet connection.
-
- ![Tor](tor_8.png)
-
- 3. If you are connected to the Tor network, a green onion icon appears in the System Tray on the lower-right-hand corner of your screen:
-
- ![Tor](tor_9.png)
-
-Browsing the Web using Tor Browser
-----------------------------------
-
-Try viewing a few Web sites, and see whether they display. The sites are likely to load more slowly than usual because your connection is being routed through several relays.
-
-If this does not work
----------------------
-
-If the onion in the Vidalia Control Panel never turns green or if Firefox opened, but displayed a page saying "Sorry. You are not using Tor", as in the image below, then you are not using Tor.
-
-![Tor](tor_10.png)
-
-If you see this message, close Firefox and Tor Browser and then repeat the steps above. You can perform this check to ensure that you are using tor, at any time by clicking the bookmark button labelled "TorCheck at Xenobite..." in the Firefox toolbar.
-
-If Firefox browser does not launch, another instance of the browser may be interfering with Tor Browser. To fix this:
-
- 1. Open the Windows Task Manager. How you do this depends on how your computer is set up. On most systems, you can right-click in the Task Bar and then click "Task Manager".
- 2. Click the "Processes" tab.
- 3. Look for a process in the list named "firefox.exe".
- 4. If you find one, select the entry and click "End Process".
- 5. Repeat the steps above to launch Tor Browser.
-
-If Tor Browser still doesn't work after two or three tries, Tor may be partly blocked by your ISP and you should try using the **bridge** feature of Tor.
+If you'd like to configure your computer to run a relay or a bridge, visit the [Tor website](https://www.torproject.org/docs/tor-doc-relay.html.en) for thorough instructions.
