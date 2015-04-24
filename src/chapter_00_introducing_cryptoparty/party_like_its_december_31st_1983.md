@@ -1,15 +1,22 @@
-A CryptoParty History: Party Like It's 1984
-===========================================
+Party like it's december 31st 1983
+==================================
 
-**What is CryptoParty?**
+## What is CryptoParty?
 
-Interested parties with computers, devices, and the willingness to learn how to use the most basic crypto programs and the fundamental concepts of their operation! CryptoParties are free to attend, public and commercially non-aligned.
+*CryptoParty* is a decentralized, global initiative to introduce basic tools for protecting privacy, anonymity and overall security on the Internet to the general public.
 
-**CryptoParty** is a decentralized, global initiative to introduce basic cryptography tools - such as the Tor anonymity network, public key encryption (PGP/GPG), and OTR (Off The Record messaging) - to the general public.
+The idea was conceived in the wake of the [Australian Cybercrime Legislation Amendment Bill 2011](http://theconversation.edu.au/cybercrime-bill-makes-it-through-but-what-does-that-mean-for-you-8953) and the reasoning is that laws like this are without substance when everybody encrypts their communication.
 
-The CryptoParty idea was conceived in the wake of the [Australian Cybercrime Legislation Amendment Bill 2011](http://theconversation.edu.au/cybercrime-bill-makes-it-through-but-what-does-that-mean-for-you-8953).
+CryptoParties are neither commercially nor politically aligned and free and open to attend for everyone as long as they live the following *guiding principles*:
 
-["The DIY, self-organizing movement immediately went viral, with a dozen autonomous CryptoParties being organized within hours in cities throughout Australia, the US, the UK, and Germany."](http://en.wikipedia.org/wiki/CryptoParty)
+### Be excellent to each other
 
-Currently sixteen CryptoParties have been held in a dozen different countries worldwide, and many more are planned. Tor usage in Australia has spiked after four CryptoParties, and the London CryptoParty had to be moved from London Hackspace to the Google Campus to accommodate the large number of eager participants, with 125 ticketed guests and 40 people on the waiting list. Similarly, CryptoParty Melbourne found interest outstripped venue capacity - originally planned for approximately 30 participants - over 70 people turned up. 
+CryptoParties shall be environments where people feel welcome and safe to learn and teach no matter their background or level of expertise. All questions are relevant, all explanation shall be targeted at the person with least pre-knowledge.
+
+This also means that any form of harassment or other behaviour that makes people uncomfortable has no place at CryptoParties. In our experience situations like these stem rather from social ineptitude than malice and can thus be resolved by making people aware of their behaviour and its effect on others, but in last consequence it is on the organizers of the CryptoParty to ask people to leave if they don't adhere to this very simple rule. Be excellent to each other. Awareness is key in this regard.
+
+
+### Do things
+
+CryptoParties happen because people make them happen. The most amazing and unforeseen learning experiences happen because people make them happen. If you are uncertain if what you have in mind is on topic or if other people are interested as well: Propose it anyway and see what other people have to say. If you are too shy to propose to the whole room: Ask the person standing next to you first.
 
