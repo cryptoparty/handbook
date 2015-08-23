@@ -40,13 +40,13 @@ Classical ciphers refer to historical ciphers, which are now out of popular use 
 
 In a transposition cipher, the letters themselves are kept unchanged, but the order within the message is scrambled according to some well-defined scheme. An example of a transposition cipher is Skytale, which was used in ancient Rome and Greece. A paperstrip was wrapped around a stick and the message written across it. That way the message could not be read unless wound around a stick of similar diameter again.
 
-![Cryptography](crypto_1.png)
+![Cryptography](assets/crypto_1.png)
 
 *Image: Skytale taken from Wikimedia Commons (3.10.12)*
 
 A substitution cipher is a form of classical cipher whereby letters or groups of letters are systematically replaced throughout the message for other letters (or groups of letters). Substitution ciphers are divided into monoalphabetic and polyalphabetic substitutions. The Caesar Shift cipher is common example of amonoalphabetic substitution ciphers, where the letters in the alphabet are shifted in one direction or another.
 
-![Cryptography](crypto_2.png)
+![Cryptography](assets/crypto_2.png)
 
 *Image: Caesar Shift Cipher taken from Wikimedia Commons (3.10.12)*
 
@@ -54,7 +54,7 @@ Polyalphabetic substitutions are more complex than substitution ciphers as they 
 
 In the Vigenère cipher the corresponding numbers of the letters of message and key are summed up (with numbers exceeding the alphabet being dragged around the back) making the message so unreadable that it couldn't be deciphered for centuries (nowadays, with the help of computers, this obviously isn't true anymore).
 
-![Cryptography](crypto_3.png)
+![Cryptography](assets/crypto_3.png)
 
 *Image: Vigenère cipher taken from Wikimedia Commons (3.10.12)*
 
