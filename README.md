@@ -1,14 +1,11 @@
-The CryptoParty Handbook
-========================
+# The CryptoParty Handbook
 
 https://www.cryptoparty.in/documentation/handbook
 
-**Please fork this repo. Add and edit content. Send back pull requests.**
-
 Comments and questions about handbook content are more than welcome, please submit them using new issues and pull requests.
 
-Prerequisites
--------------
+## Prerequisites
+
 For building the handbook artifacts (PDF, LaTeX, EPUB etc...) the following prerequisites are required:
  - GNU make
  - pandoc
@@ -16,24 +13,31 @@ For building the handbook artifacts (PDF, LaTeX, EPUB etc...) the following prer
 
 On Ubuntu all prerequisites can be installed with the following line:
 
-    sudo apt-get install build-essential pandoc texlive-full
+```bash
+$ sudo apt-get install build-essential pandoc texlive-full
+```
 
 On Arch Linux, try:
 
-    sudo pacman -S ghc alex happy cabal-install texlive-core texlive-science texlive-latexextra
-    sudo cabal update
-    sudo cabal install --global pandoc
+```bash
+$ sudo pacman -S ghc alex happy cabal-install texlive-core texlive-science texlive-latexextra
+$ sudo cabal update
+$ sudo cabal install --global pandoc
+```
 
+Alternatively you can skip `ghc` and `cabal` and just use `pandoc-bin` from the AUR.
 
-Compiling The Handbook
-----------------------
+## Build
+
 In order to build the handbook artifacts (PDF, LaTeX, EPUB) execute the following from the src/ folder:
 
-    make clean
-    make install
+```bash
+$ cd src
+$ make clean
+$ make install
+```
     
-Getting the Handbook on a Kindle
---------------------------------
+## Getting the Handbook on a Kindle
 
 1. Import the EPUB file into your Calibre Library.
 2. Use Calibre's converter to convert EPUB to MOBI
@@ -41,25 +45,22 @@ Getting the Handbook on a Kindle
 2. [optional] If you want the coverart then a bit more advanced hacking in Calibre is required 
 3. [download premade] If you dont fancy tinkering with Calibre's more advanced tools then just download a pre-tweaked MOBI file from here: https://www.cryptoparty.in/documentation/handbook#cryptopartyhandbook_for_kindle
 
-Build
------
+
+## CI Build
 
 [![Build Status](https://secure.travis-ci.org/cryptoparty/handbook.png)](http://travis-ci.org/cryptoparty/handbook)
 
 The CryptoParty Handbook is continuously built on the Travis CI platform. Build status is updated by the icon above. Further build information can be found on [http://travis-ci.org/cryptoparty/handbook](http://travis-ci.org/cryptoparty/handbook).
 
-Peer Review Process
--------------------
+## Peer Review Process
 
 A peer review process for content already existing in the handbook, as well as for future additions, is still in the making. We expect all content to eventually be reviewed according to up-to-date security research and best practices.
 
-Publishing
-----------
+## Publishing
 
 The CryptoParty Handbook is meant to be - and look - professional, thus it should be packaged and published in a proper way using a proper typesettings engine. If you have any knowledge or experience with book publishing and typesetting, please weigh in.
 
-License
--------
+## License
 
 The CryptoParty Handbook content is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
 
