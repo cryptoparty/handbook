@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 
 from BeautifulSoup import BeautifulSoup
 import sys, os
@@ -14,4 +14,4 @@ h = open(sys.argv[1], 'r').read()
 soup = BeautifulSoup(h)
 for div in soup.html.body.findAll('div'):
     if (div.has_attr('id')) and (div['id'] == 'TOC'):
-        print div
+        print(div)
