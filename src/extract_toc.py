@@ -1,7 +1,11 @@
 #!/usr/bin/python
 
-from BeautifulSoup import BeautifulSoup
 import sys, os
+
+try:
+	from bs4 import BeautifulSoup
+except ImportError:
+	from BeautifulSoup import BeautifulSoup
 
 if len(sys.argv) < 2:
     sys.exit('no parameter given')
