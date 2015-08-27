@@ -32,6 +32,8 @@ cat > $DIR/main.tex <<EOF
 \usepackage{tocloft}
 \usepackage{upquote}
 
+\def\tightlist{}
+
 \let\stdsection\section
 \renewcommand*{\section}{\FloatBarrier\stdsection}
 \let\stdsubsection\subsection
@@ -60,7 +62,7 @@ for d in chapter*; do
 	echo "\\graphicspath{{./$d/}}" >> $DIR/main.tex
 	title=`echo $d | sed 's/chapter_[0-9][0-9]_//; s/_/ /g; s/^./\U&/; s/ ./\U&/g'`
 	echo "\\chapter{$title}" >> $DIR/main.tex
-	for f in $d/*.md; do 
+	for f in $d/*.md; do
 		pandoc -f markdown -t latex $f -o $DIR/$f.tex
 		echo "\\input{$f.tex}" >> $DIR/main.tex
 	done
