@@ -190,7 +190,7 @@ What you offer depends on the angels available. Further suggestions are listed i
 * encrypt your IMs with [XMPP](https://en.wikipedia.org/wiki/XMPP) and [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
 * anonymous surfing [Tor](https://torproject.org)
 * privacy enhancing browser plug-ins
-* mobile security ([Android](https://cryptoparty.in/learn/tools#android), [iOS][https://cryptoparty.in/learn/tools#ios)
+* mobile security ([Android](https://cryptoparty.in/learn/tools#android), [iOS](https://cryptoparty.in/learn/tools#ios)
 * file and hard-drive encryption with [VeraCrypt](https://veracrypt.codeplex.com/)
 * hard-drive encryption with [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup)
 * password security and managers
