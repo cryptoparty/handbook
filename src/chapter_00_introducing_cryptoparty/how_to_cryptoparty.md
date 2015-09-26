@@ -4,8 +4,6 @@
 
 CryptoParty is a global and decentralized grass-roots movement. As such, they vary as much as they are adapted to their specific environments. This How To is written to give you some ideas on what might work and what not so much, but as with all direct action: plans are nothing, planning is everything, and it is all good as long as you follow CryptoParty's [guiding principles](https://cryptoparty.in/guiding_principles): be excellent to each other and do things.
 
-As time has shown that there is some general tactics which make everything go much more easy, this is our attempt in writing it down (please contribute - see “Edit this page” in the upper left corner).
-
 If you prefer video over text: [How To CryptoParty](https://va.ludost.net/files/initlab/20140502cparty.mp4) (recorded at [initlab](https://initlab.org) in April 2014).
 
 Or join us on [IRC](https://cryptoparty.in/connect/contact/irc) (#cryptoparty@irc.oftc.net) or the [mailing list](https://cryptoparty.in/connect/contact/mailinglists) <global@cryptoparty.is>.
