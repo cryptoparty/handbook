@@ -1,6 +1,6 @@
 # The CryptoParty Handbook
 
-https://www.cryptoparty.in/documentation/handbook
+https://www.cryptoparty.in/learn/handbook
 
 Comments and questions about handbook content are more than welcome, please submit them using new issues and pull requests.
 
