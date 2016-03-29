@@ -6,18 +6,18 @@ Just as with other forms of communication on the web, some basic precautions alw
 In brief:
 ---------
 
- * Passwords shouldn't relate to personal details and should contain a mix of a reasonable amount of letters and other characters.
+ * Passwords should not relate to personal details and should contain a mix of a reasonable amount of letters and other characters.
  * To change passwords regularly is important as they might have been stolen, cracked or exposed to others in the meantime.
  * Always be sure your connection is secure when reading email on a wireless network, especially in Internet cafes.
  * Temporary files (the 'cache') on the computer that you use to check your email can present some risks. Clear them often.
  * Create and maintain separate email accounts for different tasks and interests.
- * Encrypt any message you wouldn't feel comfortable sending on a post card.
+ * Encrypt any message you would not feel comfortable sending on a post card.
  * Be aware of the risks of having your email hosted by a company or organization.
 
 Passwords
 ---------
 
-Passwords are a primary point of vulnerability in email communication. Even a secure password can be read in transit unless the connection is secure (see TLS/SSL in the glossary). In addition, just because a password is long doesn't mean it cannot be guessed by using knowledge of you and your life to determine likely words and numbers.
+Passwords are a primary point of vulnerability in email communication. Even a secure password can be read in transit unless the connection is secure (see TLS/SSL in the glossary). In addition, just because a password is long does not mean it cannot be guessed by using knowledge of you and your life to determine likely words and numbers.
 
 The general rule for creating passwords is that it should be long (8 characters might be cracked within few hours) and have a mix of letters and other characters (numbers and symbols, which means you could just choose a sentence). Combining your birthday with that of a family name is however a great example of how not to do it.  This kind of information is easy to find using public resources. A popular trick is to base it on a favourite phrase and then, just to throw people off, sprinkle it with a few numbers.  Best of all is to use a password generator, either on your local system or online.
 
@@ -25,7 +25,7 @@ Often such passwords are difficult to remember and a second point of vulnerabili
 
 If you do choose to store your password outside your head, you have the choice to either write it down or use keychain software. This can be a risky decision, especially if the email account and password are on the same device like your phone or computer.
 
-Keychain software, like Keepass, consolidates various passwords and passphrases in one place and makes them accessible through a master password or passphrase. This puts a lot of pressure on the master password. If you do decide to use a keychain software, remember to choose a secure password.
+Keychain software, like KeePass ([http://keepass.info/]), consolidates various passwords and passphrases in one place and makes them accessible through a master password or passphrase. This puts a lot of pressure on the master password. If you do decide to use a keychain software, remember to choose a secure password.
 
 Finally, you should use a different password for different accounts. In that way, if one of them gets hijacked, your other accounts remain safe. Never use the same password for your work and private email accounts. See section **Passwords** to learn more about how to secure yourself.
 
@@ -50,7 +50,7 @@ Securing your communication
 
 Whenever you write and send email in a browser or use an email program (Outlook Express, Mozilla Thunderbird, Mail.app or Mutt), you should always ensure to use encryption for the entire session. This is easily done due to the popular use of *TLS/SSL (Secure Socket Layer)* connections by email servers (See glossary **TLS/SSL**).
 
-If using a browser to check your email, check to see if the mail server supports SSL sessions by looking for https:// at the beginning of the URL. If not, be sure to turn it on in your email account settings, such as Gmail or Hotmail. This ensures that not just the login part of your email session is encrypted but also the writing and sending of emails. Furthermore check the cetificate details and take *TLS pinning* into account and endorse browser extensions that warn about changing or disfunctional certificates (e.g. *Certificate Patrol*) and make use of TLS secured version of the website the default (e.g. *HTTPS everywhere*).
+If using a browser to check your email, check to see if the mail server supports SSL sessions by looking for https:// at the beginning of the URL. If not, be sure to turn it on in your email account settings, such as Gmail or Hotmail. This ensures that not just the login part of your email session is encrypted but also the writing and sending of emails. Furthermore check the certificate details and take *TLS pinning* into account and endorse browser extensions that warn about changing or dysfunctional certificates (e.g. *Certificate Patrol*) and make use of TLS secured version of the website the default (e.g. *HTTPS everywhere*).
 
 The email service provider you select, should provide you with the mail server details. These details can often be found in the settings option. If your email service provider does not offer you a cryptographic protocol (TLS/SSL) to encrypt your data on the network, then it is advised to stop using it. Even if your emails are not important, you might find yourself 'locked out' of your account one day with a changed password!
 
@@ -62,7 +62,7 @@ Even if the line itself is encrypted using a system such as SSL, the email servi
 DNSSEC & DANE
 -------------
 
-certificate information can be stored in DNS records and therefore be regarded more relyable. Check the availability of *DNSSEC* and especially regarding email services *DANE* with your service providers.
+Certificate information can be stored in DNS records and therefore is regarded as more reliable. Check the availability of *DNSSEC* and especially regarding email services *DANE* with your service providers.
 Here again browser extensions (e.g. *DNSSEC/TLSA Validator*) can assist to control the availability of these security measures.
 
 Account Separation
@@ -70,7 +70,7 @@ Account Separation
 
 Due to the convenience of services like Gmail, it is increasingly typical for people to have only one email account. This considerably centralises the potential damage done by a compromised account. More so, there is nothing to stop a disgruntled Google employee from deleting or stealing your email, let alone Google itself getting hacked. Hacks happen.
 
-A practical strategy is to keep your personal email, well, personal. If you have a work email then create a new account if your employers haven't already done it for you. The same should go for any clubs or organisations you belong to, each with a unique password. Not only does this improve security, by reducing the risk of whole identity theft, but greatly reduces the likelihood of spam dominating your daily email.
+A practical strategy is to keep your personal email, well, personal. If you have a work email then create a new account if your employers have not already done it for you. The same should go for any clubs or organisations you belong to, each with a unique password. Not only does this improve security, by reducing the risk of whole identity theft, but greatly reduces the likelihood of spam dominating your daily email.
 
 A note about hosted email
 -------------------------

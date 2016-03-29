@@ -10,7 +10,7 @@ Or join us on [IRC](https://cryptoparty.in/connect/contact/irc) (#cryptoparty@ir
 
 Please contact us through one of the above channels if you have any questions or need other help.
 
-A CryptoParty cannot teach you everything there is to know about computer and internet security in one evening. Main objective is to tear down the mental walls which prohibit people to even think about these topics or pick them up as they occur throughout their lives, like in newspaper articles, blog posts, educational pictures and memes. There is plenty of information about computer and internet security out there. Sadly, many people don't consider themselves able to process it and don't even start. That's what we want to change. Take away the fear of cryptic and technical things (two properties inherent to cryptographic tools) so they can continue educating themselves and others.
+A CryptoParty cannot teach you everything there is to know about computer and internet security in one evening. Main objective is to tear down the mental walls which prohibit people to even think about these topics or pick them up as they occur throughout their lives, like in newspaper articles, blog posts, educational pictures and memes. There is plenty of information about computer and internet security out there. Sadly, many people do not consider themselves able to process it and do not even start. That's what we want to change. Take away the fear of cryptic and technical things (two properties inherent to cryptographic tools) so they can continue educating themselves and others.
 
 With a CryptoParty you create an environment where people from different backgrounds come together and learn from each other. Hence you might want to include people of different age, gender, heritage and expertise.
 
@@ -20,7 +20,7 @@ People will be more comfortable given enough time for socializing. They will be 
 The intro speech should be as short as possible (less than 20 minutes) and give people an overview of what to expect (see dedicated chapter for more details).
 Some cities have talks, too. This works very well when people look for in-depth introductions. Most of the time though they want to get to the hands-on part rather sooner than later. Depending on the group you could offer both in separate rooms.
 
-Right after the intro people move to the table and topic of their choice. Don't worry if it gets a bit chaotic for a few minutes. Each table opens with a more specific introduction before installing, configuring and using the different tools. Again, encourage everyone to ask questions any time.
+Right after the intro people move to the table and topic of their choice. Do not worry if it gets a bit chaotic for a few minutes. Each table opens with a more specific introduction before installing, configuring and using the different tools. Again, encourage everyone to ask questions any time.
 
 The ability to improvise is very useful at a CryptoParty as learning usually encounters being confronted with things you did not anticipate ;-)
 
@@ -77,13 +77,13 @@ Let's assume your city does not have a page. Create one for the whole city (e.g.
 
 You can help creating a good default page by copying from others, adjusting to your needs, and giving feedback on what could be improved on other pages as well.
 
-Please add your CryptoParty dates to the [global dates list](https://cryptoparty.in/parties/upcoming) even if you don't use the wiki as your main website. Help us show how global the movement ist. You can find a dedicated How-To for [adding your own CryptoParty](https://cryptoparty.in/parties/add-a-date) there.
+Please add your CryptoParty dates to the [global dates list](https://cryptoparty.in/parties/upcoming) even if you do not use the wiki as your main website. Help us show how global the movement ist. You can find a dedicated How-To for [adding your own CryptoParty](https://cryptoparty.in/parties/add-a-date) there.
 
 
 ### Outreach
 
-Outreach helps you to make it known that a CryptoParty is happening. First you need to think of your "target audience". That would be people not encrypting anything yet. They know how to turn on a computer but don't have advanced knowledge on the topic.
-Start small. Depending on the number of angels available you probably don't want a hundred people showing up at your first CryptoParty.
+Outreach helps you to make it known that a CryptoParty is happening. First you need to think of your "target audience". That would be people not encrypting anything yet. They know how to turn on a computer but do not have advanced knowledge on the topic.
+Start small. Depending on the number of angels available you probably do not want a hundred people showing up at your first CryptoParty.
 Locations tend to come with a community. If they are interested in hosting a CryptoParty then their community is likely interested in attending one. If you manage to make them happy they will tell their friends how amazing it was.
 
 Announce the CryptoParty on the wiki, the mailing lists, and all other relevant channels at hand. Here are some channels you could use:
@@ -114,7 +114,7 @@ Connecting to the worldwide CryptoParty community can be useful to learn from pa
 
 Decide what topic you'd like to teach. To see how others explain it check the [list of handbooks](https://www.cryptoparty.in/learn/links#handbooks). Explanations will be aimed at beginners. Always keep that in mind. <https://www.level-up.cc/> has a section specifically on [how to be a better trainer](https://www.level-up.cc/resources-for-trainers).
 
-Don't be judgemental. Respect people's choices of which tool to use and how far they are ready to go protecting their privacy. Don't answer questions as if they are stupid. Every question is a good one.
+Do not be judgemental. Respect people's choices of which tool to use and how far they are ready to go protecting their privacy. Do not answer questions as if they are stupid. Every question is a good one.
 
 Contact the organizer and let them know what you'd like to teach. It helps them in planning the CryptoParty. The more angels there are the smaller the groups can be, making it a much better experience for the guests.
 Should you find some spare time at the party use it and learn from the other angels.
@@ -139,14 +139,14 @@ List of things that might come in handy during a CryptoParty.
 
 This might be the most important part. A strength of CryptoParties is that they bring together people of most diverse backgrounds and engage them into learning together and from each other. But this also brings its challenges as people might have different ideas of what entails “being excellent to each other”.
 
-A first step, even before the party officially starts, is to welcome each person or group individually as they arrive and making sure that they don't feel lonely or lost. This is especially important when the start is delayed, which happens more often than it probably should, but this applies to the whole party. Just make sure everyone is excellent to each other and does things (e.g. having a tea and friendly chat).
+A first step, even before the party officially starts, is to welcome each person or group individually as they arrive and making sure that they do not feel lonely or lost. This is especially important when the start is delayed, which happens more often than it probably should, but this applies to the whole party. Just make sure everyone is excellent to each other and does things (e.g. having a tea and friendly chat).
 Tearing down walls.
 
 ### Intro Speech
 
 In our experience it is helpful to lay out the general “plan” and potential topics in the beginning. 
 
-The intro speech officially opens the CryptoParty. Depending on your style it can be a rather down-to-earth or more fiery thing. But keep it short (less than 20 minutes) and don't go into the technical details as this is what the individual learning groups are for.
+The intro speech officially opens the CryptoParty. Depending on your style it can be a rather down-to-earth or more fiery thing. But keep it short (less than 20 minutes) and do not go into the technical details as this is what the individual learning groups are for.
 
 If you want you can show a video (for example the [CryptoParty intro video](https://github.com/cryptoparty/video)).
 
@@ -176,7 +176,7 @@ Potential talking points can be
   * not controlled by a single organization
 * list of topics presented at this specific CryptoParty
 
-Don't offer a false sense of security, but also don't scare people with all the ways that things could go wrong. Some people _want_ to hear all the things that could go wrong and are not scared, but you need to figure that out on a person-by-person basis, it's not for the introductory speech.
+Do not offer a false sense of security, but also do not scare people with all the ways that things could go wrong. Some people _want_ to hear all the things that could go wrong and are not scared, but you need to figure that out on a person-by-person basis, it's not for the introductory speech.
 
 ### Topics
 
@@ -194,11 +194,11 @@ What you offer depends on the angels available. Further suggestions are listed i
 * hard-drive encryption with [LUKS](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup)
 * password security and managers
 * Linux installation
-* [Tails](https://tails.boum.org/) (safe and anonymous operating system... don't forget to tell people to bring a thumb drive)
+* [Tails](https://tails.boum.org/) (safe and anonymous operating system... do not forget to tell people to bring a thumb drive)
 
 A discussion and orientation table would cover how much surveillance is possible and why all of us have something to hide. Most people are not exhibitionists and do value their privacy. Hence it focuses on anyone curious but not yet convinced why they would encrypt or not sure where to start.
 
-At the discussion and orientation table, you might have to deal with a lot of question you didn't expect. Some of them might even seem irrelevant to you. Don't try to direct the conversation, answer every question without judging instead.
+At the discussion and orientation table, you might have to deal with a lot of question you did not expect. Some of them might even seem irrelevant to you. Do not try to direct the conversation, answer every question without judging instead.
 
 ### Asking for help
 
@@ -207,7 +207,7 @@ Always ask for help. CryptoParties are not meant to be hard on the individual. I
 
 ## Variations of the Format
 
-CryptoParties for specific groups can help lower the barrier of "This is not my field of expertise, I won't understand a thing!". Consider organizing CryptoParties for journalists, students, specific activist groups, etc. Still, even considering the dedicated setup, everyone who happens to come by, should be welcome.
+CryptoParties for specific groups can help lower the barrier of "This is not my field of expertise, I will not understand a thing!". Consider organizing CryptoParties for journalists, students, specific activist groups, etc. Still, even considering the dedicated setup, everyone who happens to come by, should be welcome.
  
 If you want to reach people who are too shy to attend or if finding a good location  is too hard, you might want to offer visiting people at their place for a so-called "house/living room CryptoParty".
 
@@ -244,14 +244,14 @@ For notes on talking points see the //Intro Speech// section below.
 
 ### Crypto Angels
 
-As Crypto Angel, your task is to explain crypto on a conceptual level, what it protects from (or doesn't) and help with installing and using the related software.
+As Crypto Angel, your task is to explain crypto on a conceptual level, what it protects from (or does not) and help with installing and using the related software.
 
 Always explain to the person in your group with the least pre-knowledge, keep an eye out for startled faces and ask if everyone followed after you finish a thought. Encourage interaction and questions whenever they arise. When someone else knows the answer let them answer first.
 
 Learning should be hands-on first. Never touch a participants computer unless not doing so would really hinder the experience and always ask permission to do so first. Most people are visual learners so drawing little pictures or diagrams can help them a lot grasping the abstract concepts behind the software.
-If you don't know the answer to a question, either forward it to the larger crowd/other Crypto Angels, or try to find it with the group.
+If you do not know the answer to a question, either forward it to the larger crowd/other Crypto Angels, or try to find it with the group.
 
-The idea is that people know how to use the tool they learned about on a basic level when they leave the CryptoParty. Even better, that they can then tell their friends they now use "tool xyz" and thus get them to understand that it can't be as hard as they previously thought (and then explain it to them, too).
+The idea is that people know how to use the tool they learned about on a basic level when they leave the CryptoParty. Even better, that they can then tell their friends they now use "tool xyz" and thus get them to understand that it can not be as hard as they previously thought (and then explain it to them, too).
 
 If you need more Crypto Angels, find them:
 
@@ -265,7 +265,7 @@ If you need more Crypto Angels, find them:
 
 The bigger or more chaotic a CryptoParty is in general, the better it is to have a Meta Angel, a person who's only task is to make sure that everyone has the best learning experience and no one is left alone.
 
-As meta angel you don't have a topic or table. Instead you have an overview of the angels available, what their strengths are, and what table covers which topic.
+As meta angel you do not have a topic or table. Instead you have an overview of the angels available, what their strengths are, and what table covers which topic.
 
 You help late comers finding a table.
 
