@@ -1,4 +1,4 @@
-Party like it's december 31st 1983
+Party like it's December 31st 1983
 ==================================
 
 ## What is CryptoParty?
