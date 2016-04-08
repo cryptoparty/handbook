@@ -105,8 +105,9 @@ Consider creating a mailing list and social media accounts for your city. Mailin
 Connecting to the worldwide CryptoParty community can be useful to learn from past experience and bring in new impulses.
 
 * [mailing lists](https://cryptoparty.in/communication/mailinglists)
-* [irc](https://cryptoparty.in/communication/irc)
+* [IRC](https://cryptoparty.in/communication/irc)
 * [Twitter](https://twitter.com/search?q=%23cryptoparty&mode=users)
+* [Diaspora](https://wk3.org/u/cryptoparty)
 
 
 ### Angels
@@ -172,7 +173,7 @@ Potential talking points can be
 * free software
   * free as in freedom
 * decentralized services
-  * not controlled by a single company
+  * not controlled by a single organization
 * list of topics presented at this specific CryptoParty
 
 Don't offer a false sense of security, but also don't scare people with all the ways that things could go wrong. Some people _want_ to hear all the things that could go wrong and are not scared, but you need to figure that out on a person-by-person basis, it's not for the introductory speech.
@@ -185,7 +186,7 @@ What you offer depends on the angels available. Further suggestions are listed i
 
 * discussion and orientation table
 * encrypt emails with [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
-* encrypt your IMs with [XMPP](https://en.wikipedia.org/wiki/XMPP) and [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
+* encrypt your instant messages with [XMPP](https://en.wikipedia.org/wiki/XMPP) and [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)
 * anonymous surfing [Tor](https://torproject.org)
 * privacy enhancing browser plug-ins
 * mobile security ([Android](https://cryptoparty.in/learn/tools#android), [iOS](https://cryptoparty.in/learn/tools#ios)
@@ -201,7 +202,7 @@ At the discussion and orientation table, you might have to deal with a lot of qu
 
 ### Asking for help
 
-Always ask for help. CryptoParties are not meant to be hard on the individual. If the stress outweights the fun, step back a bit and see how it still magically continues by itself. The main thing for this to happen is toinvite people to help, tell them that they can help and that their help is appreciated. Be it for one CryptoParty or the long run. If you see people show up for the third time in a row, ask them if they want to host a table, if people talk about the bar they work or the house project they live in, ask them if these places would be suitable for a CryptoParty and if they might organize one. The opportunities are plenty.
+Always ask for help. CryptoParties are not meant to be hard on the individual. If the stress outweighs the fun, step back a bit and see how it still magically continues by itself. The main thing for this to happen is to invite people to help, tell them that they can help and that their help is appreciated. Be it for one CryptoParty or the long run. If you see people show up for the third time in a row, ask them if they want to host a table, if people talk about the bar they work or the house project they live in, ask them if these places would be suitable for a CryptoParty and if they might organize one. The opportunities are plenty.
 
 
 ## Variations of the Format
@@ -217,7 +218,7 @@ As with any event there are different roles at a CryptoParty. This chapter will 
 
 * organizers
 * intro speakers
-* crypto angels
+* Crypto Angels
 * meta angels
 
 
@@ -231,7 +232,7 @@ Last but not least you need enough people to explain specific tools and run the 
 
 Keep groups as small as possible. Experience has shown that the best teacher-learner ratio is 1:5 or lower.
 
-A CryptoParty is successful if the atmosphere is right. It does not matter how many people showed up. Be patient when starting to establish CryptoParty in your city or community. Spreading the word takes time.
+A CryptoParty is successful if the atmosphere is right. It does not matter how many people attend. Be patient when starting to establish CryptoParty in your city or community. Spreading the word takes time.
 
 
 ### Intro Speaker
@@ -243,16 +244,16 @@ For notes on talking points see the //Intro Speech// section below.
 
 ### Crypto Angels
 
-As Crypto Angel your task is to explain crypto on a conceptual level, what it protects from (or doesn't) and help with installing and using the related software.
+As Crypto Angel, your task is to explain crypto on a conceptual level, what it protects from (or doesn't) and help with installing and using the related software.
 
 Always explain to the person in your group with the least pre-knowledge, keep an eye out for startled faces and ask if everyone followed after you finish a thought. Encourage interaction and questions whenever they arise. When someone else knows the answer let them answer first.
 
 Learning should be hands-on first. Never touch a participants computer unless not doing so would really hinder the experience and always ask permission to do so first. Most people are visual learners so drawing little pictures or diagrams can help them a lot grasping the abstract concepts behind the software.
 If you don't know the answer to a question, either forward it to the larger crowd/other Crypto Angels, or try to find it with the group.
 
-The idea is that people know how to use the tool they learned about on a basic level when they leave the CryptoParty. And even better, that they can then tell their friends they now use "tool xyz" and thus get them to understand that it can't be as hard as they previously thought (and then explain it to them, too).
+The idea is that people know how to use the tool they learned about on a basic level when they leave the CryptoParty. Even better, that they can then tell their friends they now use "tool xyz" and thus get them to understand that it can't be as hard as they previously thought (and then explain it to them, too).
 
-If you need more Crypto Angles, find them:
+If you need more Crypto Angels, find them:
 
 * at a CryptoParty
 * among your friends
@@ -281,7 +282,7 @@ Things you can do to help grow the local and global CryptoParty community.
 
 ### Regular Meeting Night
 
-In order to build a sustainable movement, you want people to form social bonds. A regular meeting night for crypto angels, organizers, etc might serve that purpose. Have fun and share.
+In order to build a sustainable movement, you want people to form social bonds. A regular meeting night for Crypto Angels, organizers, etc might serve that purpose. Have fun and share.
 
 ### Training Sessions
 

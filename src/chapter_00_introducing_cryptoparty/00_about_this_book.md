@@ -74,9 +74,9 @@ Other material included:
 
  * [https://www.flossmanuals.net/bypassing-censorship](https://www.flossmanuals.net/bypassing-censorship)
 
-The manuals used in the second half of this book borrow from 2 books sprinted by FLOSS Manuals:
+The manuals used in the second half of this book borrow from 2 books sprinted by FLOSS (free/libre/open-source software) manuals:
 
- * "How to Bypass Internet Censorship" 2008 & 2010 Adam Hyde (Facilitator), Alice Miller, Edward Cherlin, Freerk Ohling, Janet Swisher, Niels Elgaard Larsen, Sam Tennyson, Seth Schoen, Tomas Krag, Tom Boyle, Nart Villeneuve, Ronald Deibert, Zorrino Zorrinno, Austin Martin, Ben Weissmann, Ariel Viera, Niels Elgaard Larsen, Steven Murdoch, Ross Anderson, helen varley jamieson, Roberto Rastapopoulos, Karen Reilly, Erinn Clark, Samuel L. Tennyson, A Ravi
+ * "How to Bypass Internet Censorship" 2008 & 2010 Adam Hyde (Facilitator), Alice Miller, Edward Cherlin, Freerk Ohling, Janet Swisher, Niels Elgaard Larsen, Sam Tennyson, Seth Schoen, Tomas Krag, Tom Boyle, Nart Villeneuve, Ronald Deibert, Zorrino Zorrinno, Austin Martin, Ben Weissmann, Ariel Viera, Niels Elgaard Larsen, Steven Murdoch, Ross Anderson, Helen Varley Jamieson, Roberto Rastapopoulos, Karen Reilly, Erinn Clark, Samuel L. Tennyson, A Ravi
 
  * "Basic Internet Security" 2011 Adam Hyde (Facilitator), Jan Gerber, Dan Hassan, Erik Stein, Sacha van Geffen, Mart van Santen, Lonneke van der Velden, Emile den Tex and Douwe Schmidt
 
