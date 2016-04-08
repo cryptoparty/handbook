@@ -28,7 +28,7 @@ The main purpose behind using a proxy is to hide or to change Internet address (
  * To access websites and/or materials available only for IP addresses belonging to a specific country. For example, a user wants to watch a BBC video stream (UK-only) while not residing in the UK.
  * To access the Internet from a partially banned/blocked IP address. Public IP addresses can often have "bad reputation" (bandwidth abuse, scam or unsolicited email distribution) and be blocked by some web-sites and servers.
 
-While a usual scenario would be to use proxy for accessing the Web (HTTP), practically Internet protocol can be proxied - i.e. sent via a remote server. Unlike a router, proxy server is not directly forwarding remote user requests but rather mediates those requests and echos responses back to remote user's computer.
+While a usual scenario would be to use proxy for accessing the Web (HTTP), practically Internet protocol can be proxied - i.e. sent via a remote server. Unlike a router, proxy server is not directly forwarding remote user requests but rather mediates those requests and echoes responses back to remote user's computer.
 
 Proxy (unless setup as "transparent") does not allow direct communication to the Internet thus applications such as browsers, chat-clients or download applications need to be made aware of the proxy server (see **Safer Browsing/Proxy settings** chapter)
 

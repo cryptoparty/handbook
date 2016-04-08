@@ -50,7 +50,7 @@ Even in between your computer and the router, your packages can easily be interc
 
  
 
- 1. If you are a Unix user, you can use the tcpdump command in the bash and view real time dns traffic. It's loads of fun! (and disturbing) ^
+ 1. If you are a Unix user, you can use the tcpdump command in the bash and view real time DNS traffic. It's loads of fun! (and disturbing) ^
  2. See list of TCP and UDP port numbers ([http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers))
  3. If this exchange is happening under an HTTPS connection, the process is much more complicated and also much safer, but you will find out more about that in a most fascinating chapter called Encryption. ^
  4. This Tech Bubble Is Different ([http://www.businessweek.com/magazine/content/11_17/b4225060960537.htm](http://www.businessweek.com/magazine/content/11_17/b4225060960537.htm)), Ashlee Vance (Businessweek magazine) ^

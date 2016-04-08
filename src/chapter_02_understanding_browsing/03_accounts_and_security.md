@@ -9,7 +9,7 @@ As smart phones have become more popular there has been a dramatic rise in accou
 
  * Use a screen lock. If you have a phone and prefer an unlock pattern system get in the habit of wiping the screen so an attacker can not guess the pattern from finger smears. On a Laptop, you should set your screensaver to require a password as well as a password on start-up.
  * Encrypt your hard disk. TrueCrypt is an open and secure disk encryption system for Windows 7/Vista/XP, Mac OS X and Linux. OSX and most Linux distributions provide the option for disk encryption on install.
- * Android Developers: do not enable USB debugging on your phone by default. This allows an attacker using the Android *adb shell* on a computer to access your phone's hard disk without unlocking the phone.
+ * Android Developers: do not enable USB debugging on your phone by default. This allows an attacker using the Android *ADB Shell* on a computer to access your phone's hard disk without unlocking the phone.
 
 Can malicious web sites take over my accounts?
 ----------------------------------------------
