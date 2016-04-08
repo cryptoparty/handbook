@@ -13,7 +13,7 @@ CryptoParties are neither commercially nor politically aligned, and free and ope
 
 CryptoParties are environments where people feel welcome and safe to learn and teach no matter their background or level of expertise. All questions are relevant, all explanation shall be targeted at the person with least pre-knowledge.
 
-This also means that any form of harassment or other behaviour that makes people uncomfortable has no place at CryptoParties. In our experience situations like these (as seldom as they occur) stem rather from social ineptitude than malice and can thus be resolved by making people aware of their behaviour and its effect on others, but in last consequence it is on the organizers of the CryptoParty to ask people to leave if they don't adhere to this very simple rule. Be excellent to each other. Awareness is key in this regard.
+This also means that any form of harassment or other behaviour that makes people uncomfortable has no place at CryptoParties. In our experience situations like these (as seldom as they occur) stem rather from social ineptitude than malice and can thus be resolved by making people aware of their behaviour and its effect on others, but in last consequence it is on the organizers of the CryptoParty to ask people to leave if they do not adhere to this very simple rule. Be excellent to each other. Awareness is key in this regard.
 
 
 ### Do things
