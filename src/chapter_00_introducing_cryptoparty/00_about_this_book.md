@@ -27,8 +27,8 @@ The Book Sprint was 3 days in length and the full list of onsite participants in
  * Chris Pinchen ([http://chokepointproject.net/](http://chokepointproject.net)). 
  * Cover art by Emile Denichaud ([http://about.me/denichaud](http://about.me/denichaud))
 
-This version of the handbook has since moved to github to collaboratively edit it. Find it at [https://github.com/cryptoparty/handbook](https://github.com/cryptoparty/handbook).
-If you see areas that need improvement or simply come across a typo, create a github account and start editing, commenting or creating issues. For help using git and github, see [https://help.github.com/](https://help.github.com/).
+This version of the handbook has since moved to GitHub to collaboratively edit it. Find it at [https://github.com/cryptoparty/handbook](https://github.com/cryptoparty/handbook).
+If you see areas that need improvement or simply come across a typo, create a GitHub account and start editing, commenting or creating issues. For help using git and GitHub, see [https://help.github.com/](https://help.github.com/).
 
 CryptoParty HandBook Credits
 
@@ -58,7 +58,7 @@ Assisted by:
  * 'Story89'
  * Travis Tueffel
 
-Github migration, packaging and maintenance by:
+GitHub migration, packaging and maintenance by:
 
  * Yuval Adam
  * Samuel Carlisle
