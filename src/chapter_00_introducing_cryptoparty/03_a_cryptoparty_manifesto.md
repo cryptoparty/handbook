@@ -29,7 +29,7 @@ To realise our right to privacy and anonymity online, we need peer-reviewed, cro
 
 5. All people are entitled to cryptography and the human rights crypto tools afford, regardless of race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth, political, jurisdictional or international status of the country or territory in which a person resides.
 
-6. Just as governments should exist only to serve their citizens - so too, cryptography should belong to the people.Technology should not be locked away from the people. 
+6. Just as governments should exist only to serve their citizens - so too, cryptography should belong to the people. Technology should not be locked away from the people. 
 
 7. Surveillance cannot be separated from censorship, and the slavery it entails. No  machine shall be held in servitude to surveillance and censorship. Crypto is a key to our collective freedom.
 
