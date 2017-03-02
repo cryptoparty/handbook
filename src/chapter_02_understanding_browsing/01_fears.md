@@ -6,7 +6,7 @@ Social Networking - what are the dangers?
 
 The phenomenon of Internet based Social Networking has changed not just how people use the Internet but its very shape. Large data centers around the world, particularly in the US, have been built to cater to the sudden and vast desire for people to upload content about themselves, their interests and their lives in order to participate in Social Networking.
 
-Social Networking as we know it with FaceBook, Twitter (and earlier MySpace) are certainly far from 'free'. Rather, these are businesses that seek to develop upon, and then exploit, a very basic anxiety: the fear of social irrelevance. As social animals we can't bear the idea of missing out and so many find themselves placing their most intimate expressions onto a businessman's hard-disk, buried deep in a data center in another country - one they will never be allowed to visit.
+Social Networking as we know it with FaceBook, Twitter (and earlier MySpace) are certainly far from 'free'. Rather, these are businesses that seek to develop upon, and then exploit, a very basic anxiety: the fear of social irrelevance. As social animals we can not bear the idea of missing out and so many find themselves placing their most intimate expressions onto a businessman's hard-disk, buried deep in a data center in another country - one they will never be allowed to visit.
 
 Despite this many would argue that the social warmth and personal validation acquired through engagement with Social Networks well out-weighs the potential loss of privacy. Such a statement however is only valid when the *full* extent of the risks are known.
 
